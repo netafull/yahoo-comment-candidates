@@ -109,7 +109,11 @@ def search_keyword(keyword: str, exclude_patterns: list[str], now_jst: datetime.
     words = keyword.split()
     results = []
     for item in contents:
-        headline = (item.get("highlightSearchText") or {}).get("headline", "").strip()
+        headline = (item.get("highlightSearchText") or {}).get("headline", "")
+        # Yahoo側のハイライト用制御文字(\x02, \x03など)が地の文に混入しているため除去。
+        # 放置すると、複合キーワード判定がハイライト境界をまたぐ箇所で誤って不一致になる
+        # (例:「コンビニ」がハイライトされた"コンビニ大手"が"コンビニ大手"に一致しない)
+        headline = "".join(ch for ch in headline if ch >= " " or ch == "\t").strip()
         permalink = item.get("permalink", "")
         if not headline or not permalink:
             continue
