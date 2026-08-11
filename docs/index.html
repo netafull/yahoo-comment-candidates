@@ -1,0 +1,1037 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>コメント候補ファインダー</title>
+<meta name="description" content="Yahoo!ニュース エキスパートコメントの候補になりそうな記事を、キーワードで自動収集します">
+<meta name="robots" content="noindex, nofollow">
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f7f7f8;
+    --card-bg: #fff;
+    --text: #1a1a1a;
+    --muted: #6b6b6b;
+    --border: #e5e5e5;
+    --accent: #0f766e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16171a;
+      --card-bg: #1f2023;
+      --text: #eaeaea;
+      --muted: #9a9a9a;
+      --border: #303136;
+      --accent: #2dd4bf;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+  }
+  header {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 24px 16px 8px;
+  }
+  h1 { font-size: 1.4rem; margin: 0 0 4px; }
+  .desc { color: var(--muted); font-size: 0.85rem; margin: 0 0 12px; }
+  .keywords { font-size: 0.75rem; color: var(--muted); line-height: 1.7; margin: 0 0 4px; }
+  .updated { font-size: 0.75rem; color: var(--muted); margin: 8px 0 0; }
+  .errors { font-size: 0.75rem; color: var(--muted); margin-top: 8px; }
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 8px 16px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .empty { color: var(--muted); font-size: 0.9rem; padding: 24px 0; text-align: center; }
+  .card {
+    display: flex;
+    gap: 12px;
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    color: inherit;
+  }
+  .card:hover { border-color: var(--accent); }
+  .thumb {
+    width: 88px;
+    height: 88px;
+    border-radius: 8px;
+    object-fit: cover;
+    flex-shrink: 0;
+    background: var(--border);
+  }
+  .card-body { min-width: 0; }
+  .meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin-bottom: 4px;
+    flex-wrap: wrap;
+  }
+  .source { font-weight: 600; color: var(--accent); }
+  .title {
+    font-size: 0.95rem;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    margin-bottom: 6px;
+  }
+  .badges { display: flex; gap: 4px; flex-wrap: wrap; }
+  .badge {
+    font-size: 0.65rem;
+    border: 1px solid var(--muted);
+    color: var(--muted);
+    border-radius: 4px;
+    padding: 1px 5px;
+  }
+  footer {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 16px;
+    color: var(--muted);
+    font-size: 0.75rem;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>コメント候補ファインダー</h1>
+  <p class="desc">Yahoo!ニュース エキスパートコメントの候補になりそうな記事を、キーワードで自動収集します</p>
+  <p class="keywords">検索キーワード: コンビニ / ファストフード / 外食 値上げ / 消費税 食料品 / 飲食店 倒産 / 外食産業 / 吉野家 / 松屋 / すき家 / 松のや / かつや / マクドナルド / ケンタッキー / セブン-イレブン / ファミリーマート / ローソン</p>
+  <p class="updated">最終更新: 2026/08/11 12:57（直近48時間・76件）</p>
+  
+</header>
+<main>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/653c6c9afc819ab308dcfea14f008a7bb96803c1" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02689256/title-1786375934496.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 12:01</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! 箸が止まらなくなる美味しさ「429円のお弁当」を実食レポ</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/d24693b8a0b018a0eff7fa93da0939ad45f39f2f" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010004-ssnp-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=290&amp;cy=0&amp;cw=580&amp;ch=580&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">食品産業新聞社ニュースWEB</span>
+      <span class="category">経済総合</span>
+      <span class="time">08/11 11:52</span>
+    </div>
+    <div class="title">松のや自慢の唐揚げを、甘酸っぱく爽やかな「オレンジソース」で夏仕様にアレンジ</div>
+    <div class="badges"><span class="badge">松のや</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/ecf6d87c6257720c754eac244793a847bf999978" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00384416-otonans-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=300&amp;cy=0&amp;cw=600&amp;ch=600&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オトナンサー</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 11:45</span>
+    </div>
+    <div class="title">【今日から】「松屋」サイドメニュー“無料サービス券”配布　「ミニカルビ」もらえる特典も</div>
+    <div class="badges"><span class="badge">松屋</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/0a4c9004712652981c141529c0c4d800f5c70420" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/nakabele/02688527/title-1786413319888.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=420&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">なかべぇ</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 11:31</span>
+    </div>
+    <div class="title">【ローソン】ただのコーヒーゼリーじゃない！プロが「324円出しても食べたい」と絶賛した新商品</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/df1a7b4ee41aa8d3fa748592d2d631f3515a148c" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/shingekinogourmet/02689493/title-1786412365121.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=280&amp;cy=0&amp;cw=720&amp;ch=720&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">進撃のグルメ</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 10:49</span>
+    </div>
+    <div class="title">松屋の牛めしが390円！全サイズ70円引きのお得なクーポンを配布</div>
+    <div class="badges"><span class="badge">松屋</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/2f2dbe9d6a0d9b10db9d30e9fb33377914c62833" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000308-oric-000-8-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=160&amp;cy=0&amp;cw=640&amp;ch=640&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オリコン</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 10:30</span>
+    </div>
+    <div class="title">【きょうから2週目】ファミリーマート、今年2回目の“値段そのまま45％増量”キャンペーン　ボリューム感満載の3色そぼろ＆チキン南蛮弁当が登場</div>
+    <div class="badges"><span class="badge">ファミリーマート</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/0cd5ded2f060075c6e6499677ad643484e136ee5" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00383199-coindesk-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=253&amp;cy=0&amp;cw=682&amp;ch=682&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">NADA NEWS</span>
+      <span class="category">IT総合</span>
+      <span class="time">08/11 10:30</span>
+    </div>
+    <div class="title">ローソンで考えた、インターネットがステーブルコインを標準装備する日【編集長コラム】</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/7a0375cf6010838739e0e98b47e33c84332a8614" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000309-oric-000-10-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=240&amp;cy=0&amp;cw=480&amp;ch=480&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オリコン</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 10:00</span>
+    </div>
+    <div class="title">【きょうから】松屋に“ド直球”の2品が登場　鉄板で香ばしく仕上げた肉＆タレの旨味で箸が止まらない</div>
+    <div class="badges"><span class="badge">松屋</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/72acdeb56c34cc983b56cf32a09d5f31cee86b7f" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010005-hintpot-000-16-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=300&amp;cy=0&amp;cw=600&amp;ch=600&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">Hint-Pot</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 09:48</span>
+    </div>
+    <div class="title">「紙おしぼり5ついただけますか？」　被災地支援中の女性がコンビニでお願い　店員の対応に「読んでいて泣けた」の声</div>
+    <div class="badges"><span class="badge">コンビニ</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/02723a8a0ce78ea3c44fed04d789c679e86954d2" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010002-ssnp-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=135&amp;cy=0&amp;cw=754&amp;ch=754&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">食品産業新聞社ニュースWEB</span>
+      <span class="category">経済総合</span>
+      <span class="time">08/11 09:40</span>
+    </div>
+    <div class="title">マクドナルド「ハッピーセット ポケモン」第2弾スタート　イーブイ・カビゴンなど新作6種登場</div>
+    <div class="badges"><span class="badge">マクドナルド</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/3b91262b7e1b8950770f99c93be2e6ae33a84426" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02689190/title-1786371992102.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 09:01</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! 何度も食べたくなる美味しさ「257円のおにぎり」を実食レビュー</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/7d43cc899d54e8b5139074b5840726cb14877fd3" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/tabisurupammaniakata/02688626/title-1786333561623.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=420&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">旅するパンマニア　片山智香子</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 08:59</span>
+    </div>
+    <div class="title">【実食】コンビニ3社「メロンパン」食べ比べてみた！パンマニアが吟味！袋パンで最強なのは…</div>
+    <div class="badges"><span class="badge">コンビニ</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/cc6251901481895547cf1f3dd5d5423a02770752" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-01085108-lmaga-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=200&amp;cy=0&amp;cw=800&amp;ch=800&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">Lmaga.jp</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 08:00</span>
+    </div>
+    <div class="title">【あすから】ケンタッキー×人気ゲーム『ウマ娘』がコラボ！史上初となる限定メニュー＆描き下ろしグッズも</div>
+    <div class="badges"><span class="badge">ケンタッキー</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/51dca46bdd558f9ddf8e299e31c368d4c76d1046" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00186471-biz_plus-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=142&amp;cy=0&amp;cw=615&amp;ch=615&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">ビジネス＋IT</span>
+      <span class="category">経済総合</span>
+      <span class="time">08/11 07:10</span>
+    </div>
+    <div class="title">金融庁に「暗号資産・ステーブルコイン課」誕生、ローソン実証で決済はどう変わる？</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/f1da83d0549fa11547c993a8f7a57a8f47b5b52a" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ymjrky/02689307/title-1786386016124.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=420&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">山路力也</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 07:01</span>
+    </div>
+    <div class="title">『マクドナルド』『サイゼリヤ』『さわやか』　なぜ値上げをしても客が離れないのか？ #エキスパートトピ</div>
+    <div class="badges"><span class="badge">マクドナルド</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/a4005445d2530330d584c2bf7a81bf2035952634" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02689280/title-1786380356465.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 07:01</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! まさに大勝利の組み合わせ「149円の新商品」を実食レビュー</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/048e195ce6e623812dd88c2ee24ea7c072e21791" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000002-impgrw-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=160&amp;cy=0&amp;cw=640&amp;ch=640&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">グルメ Watch</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 07:00</span>
+    </div>
+    <div class="title">【今週のローソンさん】スモーキーさが増した「ビッグピート クレイジースモーキーハイボール」がローソン限定で登場！</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/05993058a14fde9d15c0c5891faa1cf896e24352" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000004-minkei-000-2-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=137&amp;cy=0&amp;cw=900&amp;ch=900&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">みんなの経済新聞ネットワーク</span>
+      <span class="category">東京</span>
+      <span class="time">08/11 06:29</span>
+    </div>
+    <div class="title">東中野に「街のパーソナルコンビニ」　日常品と新しい「モノ」「コト」が共存</div>
+    <div class="badges"><span class="badge">コンビニ</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/fba3cbf21298d1ee9497fdeb8394b0c1c6fdf6f2" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02688980/title-1786357819635.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 03:01</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! 満足感があって美味しい「581円のお弁当」を実食レビュー</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/078351762aec39c1eb52dd4cb230bab82a8c9449" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/kyaputenfukuda/02683697/title-1785894045062.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=420&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">キャプテン福田</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/11 00:35</span>
+    </div>
+    <div class="title">【重量400gの大盛で451円！食べ出すと止まらなくなる美味しさ！】ローソンのお得な新商品に歓喜！</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/efa2a16662cd0a89882595c63cbdfb4ff6712de4" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02689130/title-1786369173639.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 23:01</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! 1個じゃ足りません!!ドハマり確定「話題のスイーツ」を実食レポ</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/592fff0c026d2699b46b02922e71128ea2727de8" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/kyaputenfukuda/02683691/title-1785894089069.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=420&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">キャプテン福田</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 21:55</span>
+    </div>
+    <div class="title">【これはスゴイ！マジで美味すぎます！】ローソンのスイーツにハマった！</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/210c6bf3f8208dab4e76897c2c1d14408bda7c62" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02689031/title-1786363105702.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 21:01</span>
+    </div>
+    <div class="title">ローソンから新登場!! ご飯が進んでしまう美味しさ「667円のお弁当」を実食レビュー</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/fcb2410b2687facb273149df6c4f1f953849aec1" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010000-dime-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=169&amp;cy=0&amp;cw=433&amp;ch=433&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">＠ＤＩＭＥ</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 20:51</span>
+    </div>
+    <div class="title">物価高にコンビニ大手3社はどう対応？戦略の違いが浮き彫りに</div>
+    <div class="badges"><span class="badge">コンビニ</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/c249c05d4f676a8b2e094ebc1bbb6ee00d28e0f3" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/chocolatedaijitenkei/02688659/title-1786336951232.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=420&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">チョコレート大事典ケイ</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 19:55</span>
+    </div>
+    <div class="title">【ローソンスイーツ】生地のもっちり具合が秀逸な「ドバイチョコ風サンド」を体験</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/caddf88326d605092c50d70e285962fc0c315729" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/chocolatedaijitenkei/02688734/title-1786340680670.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=420&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">チョコレート大事典ケイ</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 19:50</span>
+    </div>
+    <div class="title">【ローソン】大粒チョコ入り「ゴロチョコ！ベーグル」は、立派なお食事パン</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/6a05cf136d0836de7c8629da8ae435f7deaab321" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-07353237-knb-000-2-thumb.jpg?pri=l&amp;w=192&amp;h=108&amp;order=c2r&amp;cx=0&amp;cy=0&amp;cw=640&amp;ch=360&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">北日本放送</span>
+      <span class="category">富山</span>
+      <span class="time">08/10 19:49</span>
+    </div>
+    <div class="title">「飲食店だけが置いてけぼり」食料品の消費税減税　客離れ懸念する外食産業　富山県</div>
+    <div class="badges"><span class="badge">消費税 食料品</span><span class="badge">外食産業</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/77a79b433d92a0f3b2202cb6c36723078eb386d9" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00094883-satvv-000-1-thumb.jpg?pri=l&amp;w=192&amp;h=107&amp;order=c2r&amp;cx=0&amp;cy=1&amp;cw=546&amp;ch=307&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">静岡朝日テレビ</span>
+      <span class="category">静岡</span>
+      <span class="time">08/10 19:12</span>
+    </div>
+    <div class="title">片山さつき財務大臣が静岡市で講演　閣議決定した食料品の消費税減税について言及</div>
+    <div class="badges"><span class="badge">消費税 食料品</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/7638f7db3d07d42000120c45f0fb371901350a1a" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/shingekinogourmet/02688941/title-1786355038155.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=280&amp;cy=0&amp;cw=720&amp;ch=720&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">進撃のグルメ</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 19:01</span>
+    </div>
+    <div class="title">かつやでお得な「大盛りカツ丼」を食べたら、個人的に大満足だった</div>
+    <div class="badges"><span class="badge">かつや</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/deda411157ad954f132c93426858f5165131a8f7" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000015-manetatsun-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=279&amp;cy=0&amp;cw=420&amp;ch=420&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">マネーの達人</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 18:30</span>
+    </div>
+    <div class="title">QUOカードPay最大1万円分がローソンで当たる？【4コマ漫画で要点整理】</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/2549530a4556ed57f719d4dd23e7d40a2bfc9ad8" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-01341704-rcg-000-4-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=329&amp;cy=0&amp;cw=854&amp;ch=854&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オートスポーツweb</span>
+      <span class="category">モータースポーツ</span>
+      <span class="time">08/10 18:00</span>
+    </div>
+    <div class="title">ローソン、個人の成長とチームの状況好転が“中団トップ”の原動力に「週末を通した調子の上げ方はいつも似ている」</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/959d100d6c8b53ebcb10d9ee02b67b4e18ad823d" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000014-manetatsun-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=237&amp;cy=0&amp;cw=400&amp;ch=400&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">マネーの達人</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 17:00</span>
+    </div>
+    <div class="title">松屋の牛めしやカレーを頼むともらえる「無料サービス券」、8月11日スタート</div>
+    <div class="badges"><span class="badge">松屋</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/ef9c038879c00cec913357e86c024d3329d771ad" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02688740/title-1786341956451.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 17:00</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!!『ご当地麺めぐり』シリーズ対象商品「496円のご当地麺」を実食レビュー</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/ddd4088992c37cb2f5143a25e1561d092efb3b38" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00396569-diamond-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=0&amp;cy=0&amp;cw=800&amp;ch=800&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">ダイヤモンド・オンライン</span>
+      <span class="category">経済総合</span>
+      <span class="time">08/10 16:51</span>
+    </div>
+    <div class="title">「具材めっちゃ多い」「腹いっぱいだァ」すき家の“てんこ盛り丼”が味もボリュームも大満足！「完全栄養食だろコレ」《実食レビュー》</div>
+    <div class="badges"><span class="badge">すき家</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/f9f134959391b978b17e693a0cf79892866b4e8a" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000430-oric-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=210&amp;cy=0&amp;cw=541&amp;ch=541&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オリコン</span>
+      <span class="category">エンタメ総合</span>
+      <span class="time">08/10 16:30</span>
+    </div>
+    <div class="title">『艦これ』ローソン13店舗が“泊地”に　対象店舗は11日発表、限定グッズに等身大スタンディも展開</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/7090e283a60c7a082b0134a49dcc9f5c8182fd12" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-10155466-lasisa-000-2-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=200&amp;cy=0&amp;cw=800&amp;ch=800&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">LASISA</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 16:15</span>
+    </div>
+    <div class="title">【ローソン】何この食感！？“わらび餅で巻かれた”「もち食感ロール」新作を実食レポ！</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/9ec87b5bcde1548439b3e449b66f3d135d3de6bd" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000010-imptrw-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=210&amp;cy=0&amp;cw=540&amp;ch=540&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">トラベル Watch</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 15:39</span>
+    </div>
+    <div class="title">吉野家はなぜ「白湯ラーメン」店を手掛けるのか？　大阪の「鶏吉」1号店に行ってみた</div>
+    <div class="badges"><span class="badge">吉野家</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/6242e5f0b37b2d995d5816a0d907b8d72204831f" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000002-netshop-000-2-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=104&amp;cy=0&amp;cw=337&amp;ch=337&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">ネットショップ担当者フォーラム</span>
+      <span class="category">IT総合</span>
+      <span class="time">08/10 15:31</span>
+    </div>
+    <div class="title">飲食料品の消費税率が「1％」へ引き下げへ。ECサイトのシステム改修など事業者が気を付けること</div>
+    <div class="badges"><span class="badge">消費税 食料品</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/dd27daef423f9cf3fc09a0203618445024ba2528" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000011-jct-000-4-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=213&amp;cy=0&amp;cw=800&amp;ch=800&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">J-CASTニュース</span>
+      <span class="category">社会</span>
+      <span class="time">08/10 15:15</span>
+    </div>
+    <div class="title">国民・玉木雄一郎代表、消費税減税めぐり...「讃岐のうどん屋はピンチに」外食産業への悪影響指摘</div>
+    <div class="badges"><span class="badge">外食産業</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/a61df1d8ed141135afdf7d14cd9d9166b3d35e53" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02688680/title-1786338018730.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 15:00</span>
+    </div>
+    <div class="title">ローソンから新登場!! この時期にオススメの一品「599円のパスタ」を実食レビュー</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/aa1371b55168bca9bd431c09aa5916563db2ff85" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000065-nataliec-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=117&amp;cy=0&amp;cw=548&amp;ch=548&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">コミックナタリー</span>
+      <span class="category">エンタメ総合</span>
+      <span class="time">08/10 14:57</span>
+    </div>
+    <div class="title">ハイキュー!!×ローソンのみんなでぐんぐんキャンペーン、オリジナル商品＆グッズ登場</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/fa1d24de5545a02a0e305128ad1c458d5a1cd6bd" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000019-isd-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=0&amp;cy=0&amp;cw=800&amp;ch=800&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">インサイド</span>
+      <span class="category">ゲーム</span>
+      <span class="time">08/10 13:15</span>
+    </div>
+    <div class="title">「んぽちゃむ」×ローソン、格闘技テーマの新キャンペーンが実施決定！予告画像にはムエタイ姿の「んぽちゃむ」「きみまろ」も</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/5adbe5171c54ac6f3243219aaba1894888d1ba40" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00384159-otonans-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=300&amp;cy=0&amp;cw=600&amp;ch=600&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オトナンサー</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 12:45</span>
+    </div>
+    <div class="title">【松のや】“オレンジソース唐揚げ”定食　ジューシー＆さっぱりの味わい</div>
+    <div class="badges"><span class="badge">松のや</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/282d8e334fa7a164abf99423f8ba73fca3cc8fee" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010006-ssnp-000-2-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=367&amp;cy=0&amp;cw=1466&amp;ch=1466&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">食品産業新聞社ニュースWEB</span>
+      <span class="category">経済総合</span>
+      <span class="time">08/10 12:20</span>
+    </div>
+    <div class="title">【すき家】肉がそびえる「ポークロックカレー」発売　肉3個の“肉トリプル”や、“にんにくファイヤー”も登場</div>
+    <div class="badges"><span class="badge">すき家</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/aa1d6a8024644290d3ffd8e18e236ea047d31d28" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/masshi/02687456/title-1786238343161.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=420&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">マッシ</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 12:01</span>
+    </div>
+    <div class="title">【マクドナルド】フシギダネのパッケージが目印！「タルタルデミ肉厚ビーフ」の濃厚な満足感がたまらない</div>
+    <div class="badges"><span class="badge">マクドナルド</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/cc746cbfd941306963f5593af150a66f8d0c0b57" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02688485/title-1786327496609.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 12:01</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! 空腹時は閲覧注意!?「699円のお弁当」を実食レポ</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/f1b07f1e81bc1b1199e0f4dc97b44773a7498845" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000383-oric-000-3-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=0&amp;cy=0&amp;cw=679&amp;ch=679&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オリコン</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 11:41</span>
+    </div>
+    <div class="title">すき家「ポークロックカレー」新発売　ほろっと柔らかなボリューム感のある赤身肉をガッツリ頬張れる</div>
+    <div class="badges"><span class="badge">すき家</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/c68c2c08bb5151d95fdf7925320f7ee90025d6a3" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-01191879-fnn-000-7-thumb.jpg?pri=l&amp;w=192&amp;h=108&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">FNNプライムオンライン（フジテレビ系）</span>
+      <span class="category">政治</span>
+      <span class="time">08/10 11:37</span>
+    </div>
+    <div class="title">食料品の消費税減税に52.9％が賛成　高市内閣支持率は横ばい62.5％　熊本地震への対応を9割近くが評価【FNN世論調査】</div>
+    <div class="badges"><span class="badge">消費税 食料品</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/02172ca8143323e267aa0558d27ab1b874b2de76" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000008-impgrw-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=129&amp;cy=0&amp;cw=342&amp;ch=342&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">グルメ Watch</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 11:24</span>
+    </div>
+    <div class="title">ローソン、マチカフェからゆず・レモン・グレープフルーツ・オレンジが入った「アイスゆずシトラスティー」発売</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/52f698197deaa2f77ed82b8f3b36fd62364e3868" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010001-tokyomxv-000-1-thumb.jpg?pri=l&amp;w=192&amp;h=108&amp;order=c2r&amp;cx=0&amp;cy=0&amp;cw=1920&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">TOKYO MX</span>
+      <span class="category">政治</span>
+      <span class="time">08/10 10:40</span>
+    </div>
+    <div class="title">消費税減税「なぜ食料品のみ…」外食産業から懸念の声　店内飲食との税率差が“9％”に</div>
+    <div class="badges"><span class="badge">消費税 食料品</span><span class="badge">外食産業</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/a29323609dcbcbedb2f62ae16309942b05e673b0" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000362-oric-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=190&amp;cy=0&amp;cw=420&amp;ch=420&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オリコン</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 10:31</span>
+    </div>
+    <div class="title">マクドナルド、宅配の「朝マック」“最低注文料金”を変更へ　1000円→1500円に、8・18より</div>
+    <div class="badges"><span class="badge">マクドナルド</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/23f125f3159b4c9bc978027eeb721d64e67f994f" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000361-oric-000-9-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=219&amp;cy=0&amp;cw=522&amp;ch=522&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オリコン</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 10:23</span>
+    </div>
+    <div class="title">「松屋」“太っ腹企画”無料サービス券を配布　「ミニポテサラ」「ミニキムチ」「焼きのり」…3枚で「ミニカルビ」【あすから】</div>
+    <div class="badges"><span class="badge">松屋</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/27c85c54809ba5302238fd2fa87949aac7c79263" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000064-san-000-3-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=200&amp;cy=0&amp;cw=800&amp;ch=800&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">産経新聞</span>
+      <span class="category">経済総合</span>
+      <span class="time">08/10 09:59</span>
+    </div>
+    <div class="title">スシローが「京樽」を和食さとに譲渡　5年前に吉野家から買収…回転ずしに経営資源を集中</div>
+    <div class="badges"><span class="badge">吉野家</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/e4b27268952a5b807aaa1597ca5b196a009e6550" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/wanta/02688347/title-1786319339890.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=420&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">わんた</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 09:27</span>
+    </div>
+    <div class="title">【ファミリーマート】甘じょっぱさがやみつき！塩バターパンにつぶあんと黒ごまの間違いない組み合わせ</div>
+    <div class="badges"><span class="badge">ファミリーマート</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/8b141f84452b48beb69f122b6473611c83f289c7" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02688338/title-1786319137463.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 09:01</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! 相性抜群の組み合わせ「421円のサンドイッチ」を実食レビュー</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/11d53a21fc9a34a300b5fcce9fd02ab2bd39e170" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00384050-otonans-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=263&amp;cy=0&amp;cw=675&amp;ch=675&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オトナンサー</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 07:45</span>
+    </div>
+    <div class="title">【マクドナルド】ポテトM・Lサイズ“お得”に　12日間限定「トクニナルド」実施　堺雅人の新CMも</div>
+    <div class="badges"><span class="badge">マクドナルド</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/fbf392ccbc3210b096ff027556e5d1e56661fd9f" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02688299/title-1786313972620.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 07:31</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! 48層のデニッシュ生地に興味津々「213円の新商品」を実食レビュー</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/bbdd719324b848c7658d5192dccae78e0cbe7d6b" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00116866-president-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=333&amp;cy=0&amp;cw=898&amp;ch=898&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">プレジデントオンライン</span>
+      <span class="category">経済総合</span>
+      <span class="time">08/10 07:15</span>
+    </div>
+    <div class="title">｢近所のスーパーが消えた町｣に商機がある…&quot;鈴木モデル&quot;飽和のコンビニ業界でローソンが仕掛けた次の一手</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/5b751319da4a953e34061981d512c21bc93165c6" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-01191857-fnnprimev-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=420&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">FNNプライムオンライン</span>
+      <span class="category">政治</span>
+      <span class="time">08/10 07:01</span>
+    </div>
+    <div class="title">【消費減税の影響は】来年4月から2年間は飲食料品1％、外食は10％―家計には朗報だが外食産業には「9％の壁」という深刻な逆風が…テイクアウト強化も限定的か_存続できなく飲食店もー政府の対応に注目集まる</div>
+    <div class="badges"><span class="badge">外食産業</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/e2e718529fc72f8c179dfb47f6aeb5052087edbd" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/nyankoromochi/02688221/title-1786290270320.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=292&amp;cy=0&amp;cw=749&amp;ch=749&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">にゃんころもち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 07:01</span>
+    </div>
+    <div class="title">《ローソン》こりゃ飲めちゃう！ふわほろっと口の中で解けるフォンダンショコラが美味すぎた！</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/d83176bac92462531367c4a4252a8279aa2947e8" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000001-chukei-000-2-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=0&amp;cy=0&amp;cw=416&amp;ch=416&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">中部経済新聞</span>
+      <span class="category">産業</span>
+      <span class="time">08/10 05:15</span>
+    </div>
+    <div class="title">食料品の消費税減税　中部企業　不安広がる　効果不透明、外食離れも懸念</div>
+    <div class="badges"><span class="badge">消費税 食料品</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/f3abb51f45777c29deb2277958e563a1d939478d" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02688230/title-1786289624391.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 04:31</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! ハマってしまう美味しさ「343円の新商品」を実食レビュー</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/38c5265614e7adbf622e4bf654154ebac2f9415d" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-04826469-mdpr-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=220&amp;cy=0&amp;cw=394&amp;ch=394&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">モデルプレス</span>
+      <span class="category">エンタメ総合</span>
+      <span class="time">08/10 04:00</span>
+    </div>
+    <div class="title">堺雅人、永尾柚乃とマクドナルドCMで初共演「9歳とは思えない」熱演にタジタジ</div>
+    <div class="badges"><span class="badge">マクドナルド</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/ec6c2c130657c61b4d4e28947461b9f8fdcb195f" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000002-impgrw-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=214&amp;cy=0&amp;cw=532&amp;ch=532&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">グルメ Watch</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 04:00</span>
+    </div>
+    <div class="title">マクドナルド、最大150円引き「マックフライポテト」M・Lサイズが250円に！「トクニナルド」キャンペーン</div>
+    <div class="badges"><span class="badge">マクドナルド</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/e6bf6297889aa5cbbfbbefc3439f954fe11f504b" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000004-impgmw-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=105&amp;cy=0&amp;cw=270&amp;ch=270&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">GAME Watch</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 04:00</span>
+    </div>
+    <div class="title">【マクドナルド】マックフライポテトが250円に！  「トクニナルド」キャンペーンが8月17日にスタート</div>
+    <div class="badges"><span class="badge">マクドナルド</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/ffc403a822df6068ab2dd5b8dd03475d2a73b9c9" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000334-oric-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=300&amp;cy=0&amp;cw=540&amp;ch=540&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オリコン</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 04:00</span>
+    </div>
+    <div class="title">マクドナルド、8・17から『マックフライポテト』（M・L）が250円に　新CMで堺雅人＆永尾柚乃が共演</div>
+    <div class="badges"><span class="badge">マクドナルド</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/2ec59f9e7bf8550812cf0294f092419ec251531c" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02688188/title-1786286195447.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/10 01:31</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! 1個じゃ足りません!!ドハマり確定「話題の新商品」を実食レポ</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/2b61d6639ac667680ab71a7c381449ab92439ed2" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02688110/title-1786281133705.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/09 23:01</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! ホイップしあわせ盛りに感動の嵐「399円のスイーツ」を実食レポ</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/e303de0866d0ba340b45d07bdf4fdaad2ec37f6b" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02688035/title-1786318033447.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/09 21:01</span>
+    </div>
+    <div class="title">ローソンから新登場!! 食べ出すと止まらなくなる美味しさ「人気ローカルチェーンのカップ麺」を実食レポ</div>
+    <div class="badges"><span class="badge">ローソン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/09136de8f1eb7f1ecc039d0ac60642152d8e19c7" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/minamimorielena/02686058/title-1786091916500.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=280&amp;cy=0&amp;cw=720&amp;ch=720&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">南森エレナ</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/09 19:05</span>
+    </div>
+    <div class="title">【ファミリーマート】8/11発売　お値段そのまま45％増量作戦「赤城 たべる牧場ミルク」増量前後比較</div>
+    <div class="badges"><span class="badge">ファミリーマート</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/53113fc2d336b3a58a2bb604f28f929843e1db82" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260809-00000391-oric-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=130&amp;cy=0&amp;cw=615&amp;ch=615&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">オリコン</span>
+      <span class="category">エンタメ総合</span>
+      <span class="time">08/09 17:40</span>
+    </div>
+    <div class="title">リラックマたちが“魔女っ子”に!? 松屋銀座で『マクマクミラクルワンダーランド』期間限定で開催　“リラックマストア店長”の大集合も</div>
+    <div class="badges"><span class="badge">松屋</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/323c8cdd2b68195a3c49cc57a866153ae631943c" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02687717/title-1786263678528.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=140&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/09 17:01</span>
+    </div>
+    <div class="title">セブン-イレブンから新登場!! ドハマり確定の組み合わせ「645円のパスタ」を実食レポ</div>
+    <div class="badges"><span class="badge">セブン-イレブン</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/564d7cee5b6c1fb064d22f79dab076476729f793" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/shingekinogourmet/02687804/title-1786261456283.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=280&amp;cy=0&amp;cw=720&amp;ch=720&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">進撃のグルメ</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/09 16:44</span>
+    </div>
+    <div class="title">マクドナルドの新メニュー全12種類を紹介　また注文したくなるおいしさ</div>
+    <div class="badges"><span class="badge">マクドナルド</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/9c92cd61917c3d884d8404885810daf6b20da0ee" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260809-00000067-yomosaka-000-5-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=63&amp;cy=0&amp;cw=374&amp;ch=374&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">読売新聞オンライン</span>
+      <span class="category">社会</span>
+      <span class="time">08/09 15:20</span>
+    </div>
+    <div class="title">【消費税１％】県と市町で年間１３５億円減収の試算…外食産業や事務負担に懸念、知事「十分な支援を確実に実施していただきたい」</div>
+    <div class="badges"><span class="badge">外食産業</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/expert/articles/85b35551472f0d1ab198c33ae8322537d8049301" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/creators/inukichi/02687612/title-1786249843540.jpeg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=175&amp;cy=0&amp;cw=450&amp;ch=450&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">いぬきち</span>
+      <span class="category">ライフ総合</span>
+      <span class="time">08/09 15:01</span>
+    </div>
+    <div class="title">ファミリーマートから新登場!! 間違いのない美味しさ「名店監修のラーメン」を実食レビュー</div>
+    <div class="badges"><span class="badge">ファミリーマート</span></div>
+  </div>
+</a>
+<a class="card" href="https://news.yahoo.co.jp/articles/092f89e563fe510c08708c7e059ba0a5602b0807" target="_blank" rel="noopener">
+  <img class="thumb" src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260809-22862564-jnn-000-1-view.jpg?pri=l&amp;w=192&amp;h=192&amp;order=c2r&amp;cx=401&amp;cy=0&amp;cw=1080&amp;ch=1080&amp;exp=10800" alt="" loading="lazy">
+  <div class="card-body">
+    <div class="meta">
+      <span class="source">TBS NEWS DIG Powered by JNN</span>
+      <span class="category">経済総合</span>
+      <span class="time">08/09 14:02</span>
+    </div>
+    <div class="title">「日本は円安で助けを求めていた」トランプ大統領“28年ぶり日米協調介入”　一方　食料品消費税“2年間1％”へ「財源なき減税は無責任」との批判も　円安の流れは変えられるか…【サンデーモーニング】</div>
+    <div class="badges"><span class="badge">消費税 食料品</span></div>
+  </div>
+</a>
+</main>
+<footer>
+  Yahoo!ニュース検索結果を自動収集しています。実際にコメント可能かは各記事でご確認ください。
+</footer>
+</body>
+</html>
