@@ -114,6 +114,12 @@ def search_keyword(keyword: str, exclude_patterns: list[str], now_jst: datetime.
         if not headline or not permalink:
             continue
 
+        # Yahoo!ニュース エキスパートの記事（/expert/articles/...）は対象外。
+        # 一般ニュースへの「コメント」候補を探すのが目的で、他エキスパートの
+        # 実食レビューや自分の記事はコメント対象にならないため。
+        if "/expert/articles/" in permalink:
+            continue
+
         # 本文中のたまたまの一致（有名人ネタ、事件記事など）を除くため、
         # キーワードの構成語がすべてタイトルに含まれるものだけ採用する
         if not all(w in headline for w in words):
