@@ -2,7 +2,7 @@ name: Update comment candidates feed
 
 on:
   schedule:
-    - cron: "0 */2 * * *" # 2時間おきに実行 (UTC)
+    - cron: "0 23,9 * * *" # 1日2回: JST 8:00 / 18:00 (UTC 23:00 / 09:00)
   push:
     branches: [main]
     paths-ignore:
