@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-11T13:22:20.440125+09:00",
+ "generated_at": "2026-08-14T15:33:25.501165+09:00",
  "hours_window": 168,
  "keywords": [
   "コンビニ",
@@ -25,27 +25,1653 @@
  "errors": [],
  "articles": [
   {
-   "content_id": "a71222066697d3b738f2877485feb000fdaaa453",
-   "title": "韓国、外食不振の一方で給食業界は好調…大手4社がそろって成長",
-   "url": "https://news.yahoo.co.jp/articles/a71222066697d3b738f2877485feb000fdaaa453",
-   "source": "KOREA WAVE",
-   "category": "韓国・北朝鮮",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-03648016-clc_korea-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=132&cy=0&cw=760&ch=760&exp=10800",
-   "published_at": "2026-08-11T12:42:00+09:00",
+   "content_id": "21c66c1148d4200bb71f34a3827ba8c24a955add",
+   "title": "熊本地震、八代市の全戸でガス復旧　コンビニは4市町で1店舗残して全店営業再開",
+   "url": "https://news.yahoo.co.jp/articles/21c66c1148d4200bb71f34a3827ba8c24a955add",
+   "source": "産経新聞",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000111-san-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=20&cy=0&cw=943&ch=943&exp=10800",
+   "published_at": "2026-08-14T15:23:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "4f924bc7f3e0e4fd962a1203b2a2c8d28d4032c6",
+   "title": "コンビニ出入り口に車突っ込む　従業員と客2人けが　小城・佐賀",
+   "url": "https://news.yahoo.co.jp/articles/4f924bc7f3e0e4fd962a1203b2a2c8d28d4032c6",
+   "source": "毎日新聞",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000033-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=801&ch=801&exp=10800",
+   "published_at": "2026-08-14T15:19:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "14680d83cf8af49f5c6dd5bb0a459ca04d1999f3",
+   "title": "地方の本屋さんのトレンドは「小規模、兼業」……郵便局やコンビニに広がる",
+   "url": "https://news.yahoo.co.jp/articles/14680d83cf8af49f5c6dd5bb0a459ca04d1999f3",
+   "source": "読売新聞オンライン",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000152-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=349&ch=349&exp=10800",
+   "published_at": "2026-08-14T15:15:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "0b2efff1078c5c9b1b6733a0c399c27b29dbc338",
+   "title": "【倒産】戸建住宅の新築工事やリフォーム手がける 建築工房が事業停止 自己破産申請へ 負債は約3億1200万円 外注依存度が高く経費負担重荷に… 岐阜",
+   "url": "https://news.yahoo.co.jp/articles/0b2efff1078c5c9b1b6733a0c399c27b29dbc338",
+   "source": "CBCテレビ",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-22871427-cbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-14T14:56:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "7f31234247a7c1728c620b0c0c3e2197608b7801",
+   "title": "アリババ・バイドゥ、AIコスト膨張…最大34％値上げ──中国AI「低価格路線」に転機か",
+   "url": "https://news.yahoo.co.jp/articles/7f31234247a7c1728c620b0c0c3e2197608b7801",
+   "source": "ビジネス＋IT",
+   "category": "IT総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00186531-biz_plus-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800",
+   "published_at": "2026-08-14T14:55:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "81ec5114bc82fd005fa28cc4081b99c8ffdf5973",
+   "title": "息子家族の“1週間帰省”で、外食費など「5万円」はかかります…夫婦で“年金16万円”で厳しいですが「交通費10万円」かけて来てくれるのに“1日1万円の生活費”を求めるのは、酷い親と思われますか？",
+   "url": "https://news.yahoo.co.jp/articles/81ec5114bc82fd005fa28cc4081b99c8ffdf5973",
+   "source": "ファイナンシャルフィールド",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010024-ffield-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=53&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-08-14T14:30:00+09:00",
    "matched_keywords": [
     "外食"
    ]
   },
   {
-   "content_id": "3ef0ed0e3940a257ae7ce90d0ddf91f915de3ec5",
-   "title": "【セブン‐イレブン】“南インドカレーの味”が家でかなう「エリックサウス監修　2種スパイスカレー」再現度はいかに！？",
-   "url": "https://news.yahoo.co.jp/articles/3ef0ed0e3940a257ae7ce90d0ddf91f915de3ec5",
-   "source": "LASISA",
+   "content_id": "50e322cac3bafb0b16257ad2ce4b15ff2d5cd190",
+   "title": "生瀬勝久、『南極料理人』極寒ロケで連日ケンタッキー＆焼肉　地元ざわつく「毎日変な男が1人で来る」",
+   "url": "https://news.yahoo.co.jp/articles/50e322cac3bafb0b16257ad2ce4b15ff2d5cd190",
+   "source": "ENCOUNT",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-01048228-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=165&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-08-14T14:30:00+09:00",
+   "matched_keywords": [
+    "ケンタッキー"
+   ]
+  },
+  {
+   "content_id": "733b332a6dbd5ee515079fd7f662efd037dc9939",
+   "title": "【すき家】肉好き必見!夏の新スタミナメニュー「ポークロックカレー」が8月18日から発売開始 ほくほくにんにく＆特製スパイスでスタミナ満点のアレンジも",
+   "url": "https://news.yahoo.co.jp/articles/733b332a6dbd5ee515079fd7f662efd037dc9939",
+   "source": "めざましmedia",
    "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-10155541-lasisa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-11T12:15:00+09:00",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00334407-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=987&ch=987&exp=10800",
+   "published_at": "2026-08-14T14:29:00+09:00",
+   "matched_keywords": [
+    "すき家"
+   ]
+  },
+  {
+   "content_id": "f98a0301946053349a0795b90b9dcb5f68d959a6",
+   "title": "千葉の大雨で影響、スーパーやコンビニが一部休業　帰宅困難で宿泊者も",
+   "url": "https://news.yahoo.co.jp/articles/f98a0301946053349a0795b90b9dcb5f68d959a6",
+   "source": "産経新聞",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000100-san-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=900&ch=900&exp=10800",
+   "published_at": "2026-08-14T14:18:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "dc8442ed5270aa2ddd40748eac242791b8917a23",
+   "title": "マクドナルド、8月17～28日に炭酸ドリンクS・Mを150円で販売　日向坂46・大野愛実さんが同社CM初出演",
+   "url": "https://news.yahoo.co.jp/articles/dc8442ed5270aa2ddd40748eac242791b8917a23",
+   "source": "食品産業新聞社ニュースWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010005-ssnp-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=292&cy=0&cw=731&ch=731&exp=10800",
+   "published_at": "2026-08-14T14:11:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "37e9f404b75e816b659e42621f86f02649bc181c",
+   "title": "中国ＳＭＩＣが値上げ、ＡＩ需要旺盛で",
+   "url": "https://news.yahoo.co.jp/articles/37e9f404b75e816b659e42621f86f02649bc181c",
+   "source": "ロイター",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000088-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1467&ch=1467&exp=10800",
+   "published_at": "2026-08-14T13:44:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "a09b6f8ab52d6cd50c8aba177886a50e94c21103",
+   "title": "サイゼリヤ、6年ぶり値上げ検討　「値上げしない」代名詞もついに　砦崩れ、値上げの波加速か？",
+   "url": "https://news.yahoo.co.jp/articles/a09b6f8ab52d6cd50c8aba177886a50e94c21103",
+   "source": "西日本新聞me",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010007-nishinpc-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=17&cy=0&cw=636&ch=636&exp=10800",
+   "published_at": "2026-08-14T13:24:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "824785d7c5df03d4015455935c325512667aff1c",
+   "title": "マクドナルドのCM「Ms.トクニナルド登場」篇に出演している女性は？",
+   "url": "https://news.yahoo.co.jp/articles/824785d7c5df03d4015455935c325512667aff1c",
+   "source": "CDJournal",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000031-cdj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=144&cy=0&cw=360&ch=360&exp=10800",
+   "published_at": "2026-08-14T13:17:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "ac1778dd4ef97a6e1e8d867408b491f530bb4ba7",
+   "title": "ローソン新TV-CMで梅沢富美男が「妖精」、ヒコロヒーが「ヒコロ姫」に変身!?　息ぴったりの掛け合い披露",
+   "url": "https://news.yahoo.co.jp/articles/ac1778dd4ef97a6e1e8d867408b491f530bb4ba7",
+   "source": "CDJournal",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000005-cdj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=154&cy=0&cw=360&ch=360&exp=10800",
+   "published_at": "2026-08-14T13:17:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "fcc73e5000d51905692b29ad88fbdd457e1861b5",
+   "title": "千葉の記録的豪雨でコンビニ・スーパー休業も",
+   "url": "https://news.yahoo.co.jp/articles/fcc73e5000d51905692b29ad88fbdd457e1861b5",
+   "source": "日テレNEWS NNN",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-03359352-nnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800",
+   "published_at": "2026-08-14T13:00:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "6dd48f8d01859487e0dd9fa818a53c36cacc6a5c",
+   "title": "【マクドナルド】「炙り醤油風 たまごベーコンダブル肉厚ビーフ」が8月19日より限定復活！",
+   "url": "https://news.yahoo.co.jp/articles/6dd48f8d01859487e0dd9fa818a53c36cacc6a5c",
+   "source": "GAME Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000006-impgmw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=201&ch=201&exp=10800",
+   "published_at": "2026-08-14T13:00:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "d870f3b2bd596b609502fdf36e088c800eb72166",
+   "title": "記録的大雨で千葉県内のコンビニやスーパーに影響　浸水や停電で休業相次ぐ　通行止めによる配送遅れも",
+   "url": "https://news.yahoo.co.jp/articles/d870f3b2bd596b609502fdf36e088c800eb72166",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-07321205-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-14T12:51:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "f0ebabeb05a5d07e3365c716ddd67fd0e18f06c6",
+   "title": "コンビニで浸水 商業施設では一夜過ごす従業員も",
+   "url": "https://news.yahoo.co.jp/articles/f0ebabeb05a5d07e3365c716ddd67fd0e18f06c6",
+   "source": "ABEMA TIMES",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-10267097-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=72&cy=0&cw=672&ch=672&exp=10800",
+   "published_at": "2026-08-14T12:42:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "889b0ee59be87ab02cf22ec708a95bdae1ef80b2",
+   "title": "外食チェーンで浸水被害 休業の店舗も",
+   "url": "https://news.yahoo.co.jp/articles/889b0ee59be87ab02cf22ec708a95bdae1ef80b2",
+   "source": "ABEMA TIMES",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-10267096-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=81&cy=0&cw=672&ch=672&exp=10800",
+   "published_at": "2026-08-14T12:42:00+09:00",
+   "matched_keywords": [
+    "外食"
+   ]
+  },
+  {
+   "content_id": "76c48c90ee7b65d06a4c8e162d7383f149383528",
+   "title": "70代女性が運転する車がコンビニに突っ込む　アクセルとブレーキ踏み間違えか　客と従業員あわせて3人搬送　佐賀・小城市",
+   "url": "https://news.yahoo.co.jp/articles/76c48c90ee7b65d06a4c8e162d7383f149383528",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-07321188-jnn-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
+   "published_at": "2026-08-14T12:38:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "b7889541f30b4227ed8ad0d34657e70459426273",
+   "title": "【山形】７月の県内企業倒産件数１２件　前月より倍増",
+   "url": "https://news.yahoo.co.jp/articles/b7889541f30b4227ed8ad0d34657e70459426273",
+   "source": "YTS山形テレビ",
+   "category": "山形",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000003-yts-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1280&ch=720&exp=10800",
+   "published_at": "2026-08-14T12:35:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "a27efb9a58ac28360a28bbaba52dcc729ed880b4",
+   "title": "韓国コーヒー市場、3兆7359億ウォン規模に成長…外食店7店に1店がカフェ",
+   "url": "https://news.yahoo.co.jp/articles/a27efb9a58ac28360a28bbaba52dcc729ed880b4",
+   "source": "KOREA WAVE",
+   "category": "韓国・北朝鮮",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-03648397-clc_korea-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=260&cy=0&cw=589&ch=589&exp=10800",
+   "published_at": "2026-08-14T12:21:00+09:00",
+   "matched_keywords": [
+    "外食"
+   ]
+  },
+  {
+   "content_id": "a9b043e13b0f5310c3372168e1452dd36d000390",
+   "title": "記録的豪雨でそごう千葉店とペリエ千葉、ペリエ西千葉は臨時休業　コンビニ大手3社や牛丼チェーン吉野家やすき家の一部店舗も一時休業",
+   "url": "https://news.yahoo.co.jp/articles/a9b043e13b0f5310c3372168e1452dd36d000390",
+   "source": "FNNプライムオンライン（フジテレビ系）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-01194567-fnn-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
+   "published_at": "2026-08-14T12:19:00+09:00",
+   "matched_keywords": [
+    "コンビニ",
+    "吉野家",
+    "すき家"
+   ]
+  },
+  {
+   "content_id": "956653671b6cfbd20cc09514cc2715fcff454419",
+   "title": "コンビニの奥まで車突っ込む　店内の客ら3人けが　踏み間違いか【佐賀県】",
+   "url": "https://news.yahoo.co.jp/articles/956653671b6cfbd20cc09514cc2715fcff454419",
+   "source": "佐賀ニュース サガテレビ",
+   "category": "佐賀",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-90024143-sagatv-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-08-14T12:16:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "c34fa986cf94e4c0fe2bf8f83466f068a570aa81",
+   "title": "コンビニに70代運転の車突っ込む　駐車時に踏み間違えか",
+   "url": "https://news.yahoo.co.jp/articles/c34fa986cf94e4c0fe2bf8f83466f068a570aa81",
+   "source": "KBC九州朝日放送",
+   "category": "佐賀",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-57986039-kbcv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=422&ch=422&exp=10800",
+   "published_at": "2026-08-14T12:15:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "a6fed3e0527ea123873db58db314c0b6efdc1240",
+   "title": "【松屋】チキン南蛮＆“濃厚”冷や汁のセット発売　ジューシー鶏肉＆うまみたっぷりタルタルソース",
+   "url": "https://news.yahoo.co.jp/articles/a6fed3e0527ea123873db58db314c0b6efdc1240",
+   "source": "オトナンサー",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00384954-otonans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800",
+   "published_at": "2026-08-14T12:15:00+09:00",
+   "matched_keywords": [
+    "松屋"
+   ]
+  },
+  {
+   "content_id": "e5d18dff7e092821eff2a8de01a97276e10e6609",
+   "title": "マクドナルド、2週間限定！「炙り醤油風 たまごベーコンダブル肉厚ビーフ」を夜マックで販売",
+   "url": "https://news.yahoo.co.jp/articles/e5d18dff7e092821eff2a8de01a97276e10e6609",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000012-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=403&ch=403&exp=10800",
+   "published_at": "2026-08-14T12:09:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "e824ce7abd635036d8641902ac8a818aeed3680b",
+   "title": "JRおおいたシティの駐車場料金、全日「30分200円」に統一へ　9月4日から値上げ",
+   "url": "https://news.yahoo.co.jp/articles/e824ce7abd635036d8641902ac8a818aeed3680b",
+   "source": "OBS大分放送",
+   "category": "大分",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-22872547-obsnews-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-14T12:05:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "dc970afe47436d11f1686c4b348d0b840cf1f19b",
+   "title": "アサヒＧＨＤ、1－6月期純利益68％増　値上げ効果で",
+   "url": "https://news.yahoo.co.jp/articles/dc970afe47436d11f1686c4b348d0b840cf1f19b",
+   "source": "ロイター",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-08-14T11:58:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "48de9ab9125bf6f4886867b0dbc7b11966865782",
+   "title": "外食チェーンで浸水被害　休業の店舗も　千葉県などの豪雨の影響受け",
+   "url": "https://news.yahoo.co.jp/articles/48de9ab9125bf6f4886867b0dbc7b11966865782",
+   "source": "テレビ朝日系（ANN）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000037-ann-000-10-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-08-14T11:52:00+09:00",
+   "matched_keywords": [
+    "外食"
+   ]
+  },
+  {
+   "content_id": "47cf7d66118f3e28683a728fa88a2db210b0ceff",
+   "title": "“鈴木イズム”は消えたのか？ カリスマ不在のセブンイレブンを襲った苦難",
+   "url": "https://news.yahoo.co.jp/articles/47cf7d66118f3e28683a728fa88a2db210b0ceff",
+   "source": "THE21オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010001-php_t-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=230&cy=0&cw=741&ch=741&exp=10800",
+   "published_at": "2026-08-14T11:52:00+09:00",
    "matched_keywords": [
     "セブン"
+   ]
+  },
+  {
+   "content_id": "6aa0a05d572d6110384c8ddb2f764e531a55c442",
+   "title": "【マクドナルド】8月14日からハッピーセット「ポケモン」第2弾が期間限定発売!イーブイやカビゴンなど世代を超えた仲間たちが勢ぞろい",
+   "url": "https://news.yahoo.co.jp/articles/6aa0a05d572d6110384c8ddb2f764e531a55c442",
+   "source": "めざましmedia",
+   "category": "スポーツ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00334311-fujitv-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1843&ch=1843&exp=10800",
+   "published_at": "2026-08-14T11:51:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "3b627769e86c9d52c4914dd146fa34944e1c1074",
+   "title": "マクドナルド、利用客の約7割がデジタル経由で注文 価格改定後も既存店客数は前年超え",
+   "url": "https://news.yahoo.co.jp/articles/3b627769e86c9d52c4914dd146fa34944e1c1074",
+   "source": "食品産業新聞社ニュースWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010004-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=163&cy=0&cw=975&ch=975&exp=10800",
+   "published_at": "2026-08-14T11:45:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "27140e7d630402bdd4954d37a071d48c1cd0ec93",
+   "title": "【ローソン】「御用邸チーズケーキ」のチーズガーデン監修「ベイクドチーズケーキinプレミアムロールケーキ」発売",
+   "url": "https://news.yahoo.co.jp/articles/27140e7d630402bdd4954d37a071d48c1cd0ec93",
+   "source": "オトナンサー",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00384937-otonans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-08-14T11:45:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "0f861a9ab246f6142743caca1bbb185ee7dfee57",
+   "title": "「ゴーストレストラン」すかいらーくHDが導入へ　飲食スペース設けず宅配やテイクアウトに特化　食料品の消費減税対応",
+   "url": "https://news.yahoo.co.jp/articles/0f861a9ab246f6142743caca1bbb185ee7dfee57",
+   "source": "FNNプライムオンライン（フジテレビ系）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-01194553-fnn-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=1&cy=0&cw=853&ch=480&exp=10800",
+   "published_at": "2026-08-14T11:32:00+09:00",
+   "matched_keywords": [
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "1c3ef37cff7bb01a15ac54df868ed767bc552a31",
+   "title": "セブン-イレブン、南インドカレーの名店「エリックサウス」監修の「CAFE BOX 骨付きチキンビリヤニ」発売",
+   "url": "https://news.yahoo.co.jp/articles/1c3ef37cff7bb01a15ac54df868ed767bc552a31",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000010-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=480&ch=480&exp=10800",
+   "published_at": "2026-08-14T11:26:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "2def87bc6b8b94f302ab8a066e50670b95aa8277",
+   "title": "松屋×ONE PIECE第2弾、おこさまメニュー注文でお名前チャームをプレゼント！どんぶりなどが当たるWeb抽選も実施",
+   "url": "https://news.yahoo.co.jp/articles/2def87bc6b8b94f302ab8a066e50670b95aa8277",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000009-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=69&cy=0&cw=480&ch=480&exp=10800",
+   "published_at": "2026-08-14T11:21:00+09:00",
+   "matched_keywords": [
+    "松屋"
+   ]
+  },
+  {
+   "content_id": "b16752da7cc996c6ed0d63bbea8d892a148ece18",
+   "title": "セブン-イレブン、甘みの後から辛みがくる「海上自衛隊てんりゅう 呉海自カレー牛すじ入り」発売",
+   "url": "https://news.yahoo.co.jp/articles/b16752da7cc996c6ed0d63bbea8d892a148ece18",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000008-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=120&cy=0&cw=480&ch=480&exp=10800",
+   "published_at": "2026-08-14T11:14:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "a20d4295787419aadf27fdee00bba6f54acf7ffc",
+   "title": "コンビニで浸水　商業施設では一夜を過ごす従業員も　千葉で豪雨",
+   "url": "https://news.yahoo.co.jp/articles/a20d4295787419aadf27fdee00bba6f54acf7ffc",
+   "source": "テレビ朝日系（ANN）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000031-ann-000-7-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-08-14T11:08:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "92a7cc63a4c6448dbf87a84e8ff66c775e66b813",
+   "title": "【倒産】家庭用の金物雑貨製造業者が破産手続き開始決定　債務超過状態が続き資金繰りが悪化　負債額約1億8990万円　新潟・燕市",
+   "url": "https://news.yahoo.co.jp/articles/92a7cc63a4c6448dbf87a84e8ff66c775e66b813",
+   "source": "新潟ニュースNST",
+   "category": "新潟",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-90031882-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-14T11:00:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "9bfe5d3f6392cc902693ee9b434189075103fce7",
+   "title": "【倒産】7月の県内企業倒産は9件　全国で増える「税金滞納倒産」　岩手県内でも2件発生",
+   "url": "https://news.yahoo.co.jp/articles/9bfe5d3f6392cc902693ee9b434189075103fce7",
+   "source": "IBC岩手放送",
+   "category": "岩手",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-22872270-ibciwatev-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=9&cy=0&cw=2183&ch=1228&exp=10800",
+   "published_at": "2026-08-14T10:51:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "0b55d4bafe84c91384e26cc793c9dbd099b78cef",
+   "title": "松のや、最大150円引き！「ロースかつ＆本格唐揚げ定食」など4種「盛合わせ定食値引きキャンペーン」を実施",
+   "url": "https://news.yahoo.co.jp/articles/0b55d4bafe84c91384e26cc793c9dbd099b78cef",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000007-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=480&ch=480&exp=10800",
+   "published_at": "2026-08-14T10:38:00+09:00",
+   "matched_keywords": [
+    "松のや"
+   ]
+  },
+  {
+   "content_id": "1c0f4169ee61abc6a53c6c70583db6961b617763",
+   "title": "森尾由美　８３年組、才能揃いも「なんで売れなかったんですかね」　アイドルとして挫折→タレントとして覚醒　松本明子ら同期と「お神セブン」を結成",
+   "url": "https://news.yahoo.co.jp/articles/1c0f4169ee61abc6a53c6c70583db6961b617763",
+   "source": "デイリースポーツ",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000056-dal-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1338&ch=1338&exp=10800",
+   "published_at": "2026-08-14T10:00:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "53a2af11e2621a32cbec51fff66de77fccf52043",
+   "title": "消費減税“対象外”で 外食産業への政府支援を要請",
+   "url": "https://news.yahoo.co.jp/articles/53a2af11e2621a32cbec51fff66de77fccf52043",
+   "source": "ABEMA TIMES",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-10267049-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=233&cy=0&cw=590&ch=590&exp=10800",
+   "published_at": "2026-08-14T09:12:00+09:00",
+   "matched_keywords": [
+    "外食",
+    "外食産業"
+   ]
+  },
+  {
+   "content_id": "8a25fffeedf307ac4088abb9a4f676dc07d52fa1",
+   "title": "【ローソン】夏の「柑橘アイスティー」が260円で復活。実はコーヒーだけじゃない…マチカフェ紅茶メニュー全3種",
+   "url": "https://news.yahoo.co.jp/articles/8a25fffeedf307ac4088abb9a4f676dc07d52fa1",
+   "source": "ハフポスト日本版",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010003-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=25&cw=551&ch=551&exp=10800",
+   "published_at": "2026-08-14T07:10:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "a927618a2c9af255de52ff296e2f6e3589dd0472",
+   "title": "＜ポケモン＞マクドナルド「ハッピーセット」第2弾　きょう発売　イーブイ、カビゴンの玩具　歴代旅立ちの3匹も",
+   "url": "https://news.yahoo.co.jp/articles/a927618a2c9af255de52ff296e2f6e3589dd0472",
+   "source": "MANTANWEB",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000007-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=864&ch=864&exp=10800",
+   "published_at": "2026-08-14T06:56:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "fee60b447b83dd894858e1d084a3da3af992f284",
+   "title": "【今日から】マクドナルド、ハッピーセット「ポケモン」第2弾　SNS「こういうおもちゃ大正解」「キラキラしてて子ども大喜び！」",
+   "url": "https://news.yahoo.co.jp/articles/fee60b447b83dd894858e1d084a3da3af992f284",
+   "source": "オトナンサー",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00384977-otonans-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=845&ch=845&exp=10800",
+   "published_at": "2026-08-14T06:45:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "5711e03b252e24d2cc70cb05522323c72c345f49",
+   "title": "角田裕毅に“勝った”ローソンは今季も去就問題が浮上　来季シートは二人の“新星”の存在で揺らぐ　事情通が説くレッドブルの内情「残留できるかは疑問」",
+   "url": "https://news.yahoo.co.jp/articles/5711e03b252e24d2cc70cb05522323c72c345f49",
+   "source": "CoCoKARAnext",
+   "category": "スポーツ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010004-cocokara-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800",
+   "published_at": "2026-08-14T06:31:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "1a38ae3d2b0809b3424195a401d0ba520c86f09d",
+   "title": "楽しんご怒り「コンビニトイレを『使えて当たり前の無料インフラ』と勘違いしている連中多すぎ」",
+   "url": "https://news.yahoo.co.jp/articles/1a38ae3d2b0809b3424195a401d0ba520c86f09d",
+   "source": "日刊スポーツ",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-38140024-nksports-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=103&cy=0&cw=1397&ch=1397&exp=10800",
+   "published_at": "2026-08-14T06:17:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "8e9922632e6fabdda78c5c0575f532aa13aadfc3",
+   "title": "「サ終」相次ぐ背景は？　スマホゲーム事業者の倒産、過去最多ペース",
+   "url": "https://news.yahoo.co.jp/articles/8e9922632e6fabdda78c5c0575f532aa13aadfc3",
+   "source": "ITmedia ビジネスオンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000006-zdn_mkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800",
+   "published_at": "2026-08-14T06:10:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "1866c056c675b118327b1690bb40c3bf7dc3e049",
+   "title": "【倒産】訪問介護事業者が破産開始決定...小規模事業で利用者の獲得も進まず資金繰りが困難に【東京商工リサーチ】",
+   "url": "https://news.yahoo.co.jp/articles/1866c056c675b118327b1690bb40c3bf7dc3e049",
+   "source": "RSK山陽放送",
+   "category": "岡山",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-22869851-rsk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-14T06:00:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "821379c2d7aee67371f624780a936fce52d1c80f",
+   "title": "「日産への投資は金を海に捨てるようなもの」倒産寸前の危機で踏み切った「大規模リストラ」の起死回生",
+   "url": "https://news.yahoo.co.jp/articles/821379c2d7aee67371f624780a936fce52d1c80f",
+   "source": "ダイヤモンド・オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00394683-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=134&cy=0&cw=533&ch=533&exp=10800",
+   "published_at": "2026-08-14T05:36:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "86612b20c8251351ead6469338caf3f24a31d3f5",
+   "title": "フィットネスジムの倒産が過去最多ペース　健康ブームの裏で何が起きている？",
+   "url": "https://news.yahoo.co.jp/articles/86612b20c8251351ead6469338caf3f24a31d3f5",
+   "source": "ITmedia ビジネスオンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000005-zdn_mkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=99&cy=0&cw=393&ch=393&exp=10800",
+   "published_at": "2026-08-14T05:35:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "ccb238ca9ee166def68b60f94dc6976f192d8e94",
+   "title": "【松屋（9887）と吉野家（9861）】株主になるにはいくら必要なのか",
+   "url": "https://news.yahoo.co.jp/articles/ccb238ca9ee166def68b60f94dc6976f192d8e94",
+   "source": "LIMO",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00134722-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-08-14T05:10:00+09:00",
+   "matched_keywords": [
+    "吉野家",
+    "松屋"
+   ]
+  },
+  {
+   "content_id": "09def131b7e68f05fbf93815984b91c6389dca22",
+   "title": "【きょうから第2弾】マクドナルド、ハッピーセット「ポケモン」　イーブイ、カビゴンほか「旅立ちの3匹」も登場",
+   "url": "https://news.yahoo.co.jp/articles/09def131b7e68f05fbf93815984b91c6389dca22",
+   "source": "オリコン",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000301-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=51&cw=859&ch=859&exp=10800",
+   "published_at": "2026-08-14T05:05:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "9b15a3e2c886b5c95019d23d16f801db0d277989",
+   "title": "チーズガーデン×ローソン「Uchi Café CHEESE GARDEN監修 ベイクドチーズケーキinプレミアムロールケーキ」発売",
+   "url": "https://news.yahoo.co.jp/articles/9b15a3e2c886b5c95019d23d16f801db0d277989",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000001-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800",
+   "published_at": "2026-08-14T04:00:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "58206d0c8ff8c8e9d55a6277a2835c0a2866bf19",
+   "title": "〝25年ぶり近影〟「おっミキちゃん久しぶりに見た」〝消費税アイドル〟55歳伊藤美紀さんに反響続々「すげぇ～懐かしい」「明星とか覚えてる」",
+   "url": "https://news.yahoo.co.jp/articles/58206d0c8ff8c8e9d55a6277a2835c0a2866bf19",
+   "source": "西スポWEB OTTO!",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00010057-nishispo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=867&ch=867&exp=10800",
+   "published_at": "2026-08-13T23:30:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "3877bf65a8cb380328162ab488c718974780b0d6",
+   "title": "中国DeepSeek、API料金を「最大12倍」に値上げ　ピーク時価格も導入　8月17日から",
+   "url": "https://news.yahoo.co.jp/articles/3877bf65a8cb380328162ab488c718974780b0d6",
+   "source": "ITmedia NEWS",
+   "category": "IT総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000053-zdn_n-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=286&cy=0&cw=628&ch=628&exp=10800",
+   "published_at": "2026-08-13T23:13:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "dc8e15367609f5fb538988b6a1f6bd77ce93c47b",
+   "title": "「10軒以上回って買えた」「完売で泣いた」セブンの『話題の300円スイーツ』品薄になるほど人気な、“バズり商品”を3つご紹介します！",
+   "url": "https://news.yahoo.co.jp/articles/dc8e15367609f5fb538988b6a1f6bd77ce93c47b",
+   "source": "BuzzFeed Japan",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-10059467-bfj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=830&ch=830&exp=10800",
+   "published_at": "2026-08-13T20:45:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "cd9634e7c6b0e8ae776eee01960afae02058181e",
+   "title": "消費税「実質ゼロ」賛成49％　国民民主支持層は6割弱　時事世論調査",
+   "url": "https://news.yahoo.co.jp/articles/cd9634e7c6b0e8ae776eee01960afae02058181e",
+   "source": "時事通信",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000171-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1058&ch=1058&exp=10800",
+   "published_at": "2026-08-13T20:33:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "2c62dd2c12b935d451d1a6a8ca1132dc563883e2",
+   "title": "高市首相の｢消費税減税｣で日本が終わる…国民にいい顔をしたいだけの政策で地方に1.6兆円を押し付ける無責任",
+   "url": "https://news.yahoo.co.jp/articles/2c62dd2c12b935d451d1a6a8ca1132dc563883e2",
+   "source": "プレジデントオンライン",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00117551-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=296&cy=0&cw=1013&ch=1013&exp=10800",
+   "published_at": "2026-08-13T20:15:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "285b1da75d4938df8098ef905acd5d2aa1f803cc",
+   "title": "【倒産情報】設立15年の法律事務所が民事再生開始決定　負債総額は約11億円 ピーク時は約30拠点を展開も…新型コロナの支援策拡充で私的整理の案件が大幅減少　東京･港区【東京商工リサーチ】",
+   "url": "https://news.yahoo.co.jp/articles/285b1da75d4938df8098ef905acd5d2aa1f803cc",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-22871556-jnn-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-13T20:00:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "a1581f749814b578de7eb292bfb9d1cbfecc66f3",
+   "title": "「対象外の外食産業には多大な影響がある」すかいらーくHD　消費減税めぐり政府に支援要請",
+   "url": "https://news.yahoo.co.jp/articles/a1581f749814b578de7eb292bfb9d1cbfecc66f3",
+   "source": "テレビ朝日系（ANN）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00010034-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=227&ch=227&exp=10800",
+   "published_at": "2026-08-13T19:53:00+09:00",
+   "matched_keywords": [
+    "外食",
+    "外食産業"
+   ]
+  },
+  {
+   "content_id": "9de1e86b361bf702cb03ff6a4054e03560eb489c",
+   "title": "夏の新色が仲間入り！累計47万個突破の「やみつきサイフ」が使いやすさ抜群です【ローソン】",
+   "url": "https://news.yahoo.co.jp/articles/9de1e86b361bf702cb03ff6a4054e03560eb489c",
+   "source": "LIMO",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00133670-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=580&ch=580&exp=10800",
+   "published_at": "2026-08-13T19:20:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "4b9c9e4a3660b4ddd87feba6013ea32365535802",
+   "title": "モンチッチ×「kippis」初コラボグッズが「セブンイレブン」に登場！　さくらんぼ柄のエコバッグなど4種",
+   "url": "https://news.yahoo.co.jp/articles/4b9c9e4a3660b4ddd87feba6013ea32365535802",
+   "source": "クランクイン！",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00189460-crankinn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=650&ch=650&exp=10800",
+   "published_at": "2026-08-13T19:00:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "84f8e806e9416331cde9384264e1a0f51d168b3a",
+   "title": "すかいらーくHD　消費減税は「外食業界としては多大な影響　GoToイートなどの支援策を」　テイクアウト専門店の出店も検討",
+   "url": "https://news.yahoo.co.jp/articles/84f8e806e9416331cde9384264e1a0f51d168b3a",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-08-13T17:55:00+09:00",
+   "matched_keywords": [
+    "外食"
+   ]
+  },
+  {
+   "content_id": "92507db13771dee7208e17a04767e0e827f98753",
+   "title": "すかいらーく、宅配やテイクアウト特化の「ゴーストレストラン」展開へ　消費税減税に対応",
+   "url": "https://news.yahoo.co.jp/articles/92507db13771dee7208e17a04767e0e827f98753",
+   "source": "産経新聞",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000143-san-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=270&cw=660&ch=660&exp=10800",
+   "published_at": "2026-08-13T17:34:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "07dfe44c4369424f23332d18018c69dd9896110e",
+   "title": "【ヤフコメで話題】「消費税減税の効果と将来的な増税への懸念」「税制の根本的見直しを求める声」 - 消費税政策を巡る議論が活発化",
+   "url": "https://news.yahoo.co.jp/articles/07dfe44c4369424f23332d18018c69dd9896110e",
+   "source": "Yahoo!ニュース オリジナル THE PAGE",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000027-wordleafai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1086&ch=1086&exp=10800",
+   "published_at": "2026-08-13T17:27:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "569b4c1ab84f38549afbafe3ed741e9ed82e9f33",
+   "title": "日向坂46 大野愛実、マクドナルド新CM初出演　“Ms.トクニナルド”としてフレッシュな表情を披露",
+   "url": "https://news.yahoo.co.jp/articles/569b4c1ab84f38549afbafe3ed741e9ed82e9f33",
+   "source": "リアルサウンド",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00010030-realsound-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=158&cy=0&cw=395&ch=395&exp=10800",
+   "published_at": "2026-08-13T16:51:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "7eb9a2345eafd9d30e8c2130c599274dda856641",
+   "title": "【あすまで】「かつや」人気メニューが150円引き！定食・丼など4品、ご飯大盛りも無料",
+   "url": "https://news.yahoo.co.jp/articles/7eb9a2345eafd9d30e8c2130c599274dda856641",
+   "source": "Lmaga.jp",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-01088714-lmaga-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-08-13T16:40:00+09:00",
+   "matched_keywords": [
+    "かつや"
+   ]
+  },
+  {
+   "content_id": "1fb097c9f04437a5a03e73edfd4a3b3c31fffe9a",
+   "title": "【倒産情報】「ラブライブ!」アプリ開発も…関連2社含めた負債総額は約296億円　創業4年のアプリ開発会社が破産開始決定　開発コスト増や資金繰り悪化の影響で赤字に　東京・渋谷区【東京商工リサーチ】",
+   "url": "https://news.yahoo.co.jp/articles/1fb097c9f04437a5a03e73edfd4a3b3c31fffe9a",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-22870416-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-13T16:00:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "08e000d8e453a61745af4f095e0ca6c1cb5668d0",
+   "title": "クマと遭遇したら「店内へ」　ローソンが対策シール　北海道など",
+   "url": "https://news.yahoo.co.jp/articles/08e000d8e453a61745af4f095e0ca6c1cb5668d0",
+   "source": "毎日新聞",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000030-mai-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=152&cy=0&cw=696&ch=696&exp=10800",
+   "published_at": "2026-08-13T15:45:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "3aab33d35b9d61b8fadae7e8909b25bcf5cb8b7a",
+   "title": "地方の減収、国が穴埋め検討　消費税減税に対応　政府",
+   "url": "https://news.yahoo.co.jp/articles/3aab33d35b9d61b8fadae7e8909b25bcf5cb8b7a",
+   "source": "時事通信",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000085-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=770&ch=770&exp=10800",
+   "published_at": "2026-08-13T15:43:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "0193076ce339e3226a3f5642eec844e33c1a3ce2",
+   "title": "消費税減税について石破前総理 見直しに向けて議員間での話し合いを進めていく考え示す",
+   "url": "https://news.yahoo.co.jp/articles/0193076ce339e3226a3f5642eec844e33c1a3ce2",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-07320925-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=529&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-13T15:23:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "5bc72984acb1d6e1e2040c95ed11ea5c03b427ed",
+   "title": "消費税「実質ゼロ」賛成４９％",
+   "url": "https://news.yahoo.co.jp/articles/5bc72984acb1d6e1e2040c95ed11ea5c03b427ed",
+   "source": "時事通信",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000079-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=121&cw=1806&ch=1806&exp=10800",
+   "published_at": "2026-08-13T15:11:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "4e395457964eeee37ef5858220cfc9a5bcc69b7e",
+   "title": "ファミリーマート、「東京ばな奈」とのコラボ5年目は“過去最大規模”に　ワッフルコーン＆ザクほろシューなどスイーツ7種がずらり",
+   "url": "https://news.yahoo.co.jp/articles/4e395457964eeee37ef5858220cfc9a5bcc69b7e",
+   "source": "オリコン",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000442-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800",
+   "published_at": "2026-08-13T15:11:00+09:00",
+   "matched_keywords": [
+    "ファミリーマート"
+   ]
+  },
+  {
+   "content_id": "ddf7b4c22819c4323f73a42f2cca614c80a3c7b4",
+   "title": "北陸　7月の企業倒産",
+   "url": "https://news.yahoo.co.jp/articles/ddf7b4c22819c4323f73a42f2cca614c80a3c7b4",
+   "source": "HAB北陸朝日放送",
+   "category": "石川",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00008431-hab-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1280&ch=720&exp=10800",
+   "published_at": "2026-08-13T14:26:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "d4b6d36d3cfc00dca04187177ed6c3ba3b682f39",
+   "title": "「100年続けたい」 伝統の餡子の味継ぐ4代目 和菓子店の倒産相次ぐ中 \"季節の大福″で新規開拓【福岡発】",
+   "url": "https://news.yahoo.co.jp/articles/d4b6d36d3cfc00dca04187177ed6c3ba3b682f39",
+   "source": "FNNプライムオンライン",
+   "category": "人",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-01193852-fnnprimev-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-13T14:12:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "477111564aeecad1250b71b3b559a8e95c150781",
+   "title": "ケンタッキー×ウマ娘、豪華特典付きのオリジナルコラボセット販売やラッピング店舗など実施",
+   "url": "https://news.yahoo.co.jp/articles/477111564aeecad1250b71b3b559a8e95c150781",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000009-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=535&ch=535&exp=10800",
+   "published_at": "2026-08-13T13:39:00+09:00",
+   "matched_keywords": [
+    "ケンタッキー"
+   ]
+  },
+  {
+   "content_id": "857d1f125db5f62c7ff0e66339725ea95168a792",
+   "title": "「AstrHori」「SG-image」の交換レンズなどが値上げに",
+   "url": "https://news.yahoo.co.jp/articles/857d1f125db5f62c7ff0e66339725ea95168a792",
+   "source": "デジカメ Watch",
+   "category": "産業",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000001-impdcw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=720&ch=720&exp=10800",
+   "published_at": "2026-08-13T12:52:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "cdf7dc057ee05b9f2e277036e0f86462e5f6ed5e",
+   "title": "印タタ・モーターズ、4－6月期は増収増益　原材料費高騰で値上げへ",
+   "url": "https://news.yahoo.co.jp/articles/cdf7dc057ee05b9f2e277036e0f86462e5f6ed5e",
+   "source": "ロイター",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000080-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1437&ch=1437&exp=10800",
+   "published_at": "2026-08-13T12:30:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "e2fe5000026e4b8a0db82147a6d9c930d3824a11",
+   "title": "【不穏なバイト】事故多発、警察沙汰で社長クビ、会社倒産…“バ先”がヤバい！共感覚を持つ作者が実体験を描く【作者に訊く】",
+   "url": "https://news.yahoo.co.jp/articles/e2fe5000026e4b8a0db82147a6d9c930d3824a11",
+   "source": "ウォーカープラス",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-01397682-tkwalk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=536&ch=536&exp=10800",
+   "published_at": "2026-08-13T12:00:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "c4ea568c06130c653a448d5966559f303bdbc819",
+   "title": "中・宝山鋼鉄　鋼材全種　連続値上げ　9月積み",
+   "url": "https://news.yahoo.co.jp/articles/c4ea568c06130c653a448d5966559f303bdbc819",
+   "source": "日刊産業新聞",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-08-13T11:40:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "e8be230e7ff810541cc3635c8776ee41a1ae764c",
+   "title": "「奇跡のコラボ！」海外マクドナルドのハッピーセットおもちゃ全8種に「インパクトすごっ」「日本でも発売して」と反響",
+   "url": "https://news.yahoo.co.jp/articles/e8be230e7ff810541cc3635c8776ee41a1ae764c",
+   "source": "マグミクス",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00369636-magmix-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=506&ch=506&exp=10800",
+   "published_at": "2026-08-13T11:30:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "deecace772a38919d58c911d97d9a2bb69ae9b8a",
+   "title": "約17年ぶりに…倒産、2カ月連続1000件超。「規模感格差は広がっている」",
+   "url": "https://news.yahoo.co.jp/articles/deecace772a38919d58c911d97d9a2bb69ae9b8a",
+   "source": "ニュースイッチ",
+   "category": "産業",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-08-13T11:20:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "30317468af760486828f34a4a7f1057f1dcfedaf",
+   "title": "「Windows 11」のOEMライセンス料が7～10％値上げ？ PC価格高騰に拍車か",
+   "url": "https://news.yahoo.co.jp/articles/30317468af760486828f34a4a7f1057f1dcfedaf",
+   "source": "CNET Japan",
+   "category": "IT総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-35251530-cnetj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800",
+   "published_at": "2026-08-13T11:11:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "02ee6069ebb7c9e525dc3f548c415fbe2d1b63af",
+   "title": "【倒産】建設機械リース会社が破産手続き開始決定　同業者との競合激化や新型コロナで受注減少　負債額合計約1200万円　新潟市中央区",
+   "url": "https://news.yahoo.co.jp/articles/02ee6069ebb7c9e525dc3f548c415fbe2d1b63af",
+   "source": "新潟ニュースNST",
+   "category": "新潟",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-90031881-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-13T11:00:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "a401597516f3e2484592b1c8693daf9eea28faf6",
+   "title": "熱中症対策は吉野家の期間限定「冷汁」がオススメ　全国チェーンで食べられる絶品“男の猛暑メシ”【前編】",
+   "url": "https://news.yahoo.co.jp/articles/a401597516f3e2484592b1c8693daf9eea28faf6",
+   "source": "ピンズバNEWS",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00017327-pinzuba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=506&ch=506&exp=10800",
+   "published_at": "2026-08-13T11:00:00+09:00",
+   "matched_keywords": [
+    "吉野家"
+   ]
+  },
+  {
+   "content_id": "ed0d8ed9e8b9c9961945ab4a2a778bd4d03060d2",
+   "title": "健康ブームでも「フィットネス」苦境　倒産は過去最多ペース、供給増で競争激化",
+   "url": "https://news.yahoo.co.jp/articles/ed0d8ed9e8b9c9961945ab4a2a778bd4d03060d2",
+   "source": "帝国データバンク",
+   "category": "産業",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00010000-teikokudb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=427&ch=427&exp=10800",
+   "published_at": "2026-08-13T10:00:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "2b8c6565d38a8dcf0a2d9b08da9811ce1a749789",
+   "title": "マクドナルド、炭酸ドリンクS・Mサイズが最大140円おトクな「トクニナルド」キャンペーンを8月17日から開催",
+   "url": "https://news.yahoo.co.jp/articles/2b8c6565d38a8dcf0a2d9b08da9811ce1a749789",
+   "source": "GAME Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000004-impgmw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800",
+   "published_at": "2026-08-13T09:53:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "875c758494b8ea6df8c5a5b43be1c2c6d0842e7a",
+   "title": "マクドナルド「炭酸ドリンク」S・Mが150円　8・17から12日間限定で最大140円おトク【全6種類】",
+   "url": "https://news.yahoo.co.jp/articles/875c758494b8ea6df8c5a5b43be1c2c6d0842e7a",
+   "source": "オリコン",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000377-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=540&ch=540&exp=10800",
+   "published_at": "2026-08-13T09:25:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "a655974b0821b1e0a9b5ac7770c88022ccb614f8",
+   "title": "【倒産】オリエンタルユリなど花き栽培業者が破産開始決定　負債総額は約1億3000万円　全員解雇して事業停止【東京商工リサーチ】",
+   "url": "https://news.yahoo.co.jp/articles/a655974b0821b1e0a9b5ac7770c88022ccb614f8",
+   "source": "MBC南日本放送",
+   "category": "鹿児島",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-22869324-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800",
+   "published_at": "2026-08-13T07:00:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "bacb43f621663f4425c7ab630fea326fbee908dc",
+   "title": "【マクドナルド】炭酸ドリンクS・Mサイズが特別価格“150円”　最大“140円”お得な「トクニナルド」キャンペーン実施",
+   "url": "https://news.yahoo.co.jp/articles/bacb43f621663f4425c7ab630fea326fbee908dc",
+   "source": "オトナンサー",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00384745-otonans-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800",
+   "published_at": "2026-08-13T06:45:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "3ae0eec74d9d5e6074fde2ba956edc7ddf783742",
+   "title": "ゾッとする…食料品の消費税1％を喜ぶ人が知らない「これから日本で起きること」",
+   "url": "https://news.yahoo.co.jp/articles/3ae0eec74d9d5e6074fde2ba956edc7ddf783742",
+   "source": "ダイヤモンド・オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00396752-diamond-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=192&cy=0&cw=422&ch=422&exp=10800",
+   "published_at": "2026-08-13T06:00:00+09:00",
+   "matched_keywords": [
+    "消費税",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "c90b44dce98c7f97997f6d88d3333a74c4b2a780",
+   "title": "ケンタッキー、鎌倉・由比ガ浜海水浴場で１５日にデリバリー　海の家と連携　サービス利用客にドリンク１杯提供",
+   "url": "https://news.yahoo.co.jp/articles/c90b44dce98c7f97997f6d88d3333a74c4b2a780",
+   "source": "カナロコ by 神奈川新聞",
+   "category": "神奈川",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-01296611-kana-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800",
+   "published_at": "2026-08-13T05:01:00+09:00",
+   "matched_keywords": [
+    "ケンタッキー"
+   ]
+  },
+  {
+   "content_id": "2c09b5e15a6c7028b9cd20d5acf6c53726ec0420",
+   "title": "松屋、株価が1割安と急反落 銀座百貨店の急騰に一服感",
+   "url": "https://news.yahoo.co.jp/articles/2c09b5e15a6c7028b9cd20d5acf6c53726ec0420",
+   "source": "LIMO",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00134582-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=580&ch=580&exp=10800",
+   "published_at": "2026-08-13T04:31:00+09:00",
+   "matched_keywords": [
+    "松屋"
+   ]
+  },
+  {
+   "content_id": "be97871ea796ae54d8a91afe35f2c0c18b3db5d2",
+   "title": "日向坂46大野愛実がマクドナルドCMに初登場！「今だけ！『シュアわせ～』な炭酸ドリンクがトクニナルド！」",
+   "url": "https://news.yahoo.co.jp/articles/be97871ea796ae54d8a91afe35f2c0c18b3db5d2",
+   "source": "THE FIRST TIMES",
+   "category": "音楽",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000021-mnet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=314&cy=0&cw=788&ch=788&exp=10800",
+   "published_at": "2026-08-13T04:00:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "29e41855247ff44faaa38d3762bd22e30f09495d",
+   "title": "日向坂46大野愛実、マクドナルドの炭酸ドリンクで「シュアわせ～」",
+   "url": "https://news.yahoo.co.jp/articles/29e41855247ff44faaa38d3762bd22e30f09495d",
+   "source": "音楽ナタリー",
+   "category": "音楽",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000003-natalien-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=168&cy=0&cw=422&ch=422&exp=10800",
+   "published_at": "2026-08-13T04:00:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "d6429d1f4d3cf7d981e92f993b17198765a50445",
+   "title": "日向坂46大野愛実、誰にも負けない“日向坂愛”「これからもグループに愛をお返しできるように頑張りたい」【マクドナルド新CMインタビュー】",
+   "url": "https://news.yahoo.co.jp/articles/d6429d1f4d3cf7d981e92f993b17198765a50445",
+   "source": "オリコン",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000330-oric-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=272&cy=0&cw=640&ch=640&exp=10800",
+   "published_at": "2026-08-13T04:00:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "1aa8a743ef39c5b55f1b63be0e91a25b2eb3ec5d",
+   "title": "日向坂46大野愛実、マクドナルド新TVCM出演　今夏は「メンバーとプライベートで海に行きたい」",
+   "url": "https://news.yahoo.co.jp/articles/1aa8a743ef39c5b55f1b63be0e91a25b2eb3ec5d",
+   "source": "ENCOUNT",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-01047335-encount-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=189&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-08-13T04:00:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "bfef8dfae85aa47d5c5d1c3ff061d044f124c53a",
+   "title": "日向坂46大野愛実、マクドナルド新TVCMに初出演「本当に光栄です！」　新キャラ“Ms. トクニナルド”に変身",
+   "url": "https://news.yahoo.co.jp/articles/bfef8dfae85aa47d5c5d1c3ff061d044f124c53a",
+   "source": "オリコン",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000329-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=202&cy=0&cw=540&ch=540&exp=10800",
+   "published_at": "2026-08-13T04:00:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "b5eee0b2489714ccd2c37cc9382efd05b6154f3a",
+   "title": "「ウマ娘」一色になった相模原のケンタッキー店鋪が凄い！至る所で“KFC衣装”まとったウマ娘がお出迎え",
+   "url": "https://news.yahoo.co.jp/articles/b5eee0b2489714ccd2c37cc9382efd05b6154f3a",
+   "source": "オタク総研",
+   "category": "ゲーム",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00210500-otakulab-000-740-view.jpg?pri=l&w=192&h=192&order=c2r&cx=212&cy=0&cw=683&ch=683&exp=10800",
+   "published_at": "2026-08-12T21:05:00+09:00",
+   "matched_keywords": [
+    "ケンタッキー"
+   ]
+  },
+  {
+   "content_id": "217b5c7c8b022a7208ca6096c52afa87481f4e4a",
+   "title": "7月の倒産件数は去年7月より9件多い29件　負債総額は去年7月より3億4600万円少ない32億200万円　静岡県",
+   "url": "https://news.yahoo.co.jp/articles/217b5c7c8b022a7208ca6096c52afa87481f4e4a",
+   "source": "静岡朝日テレビ",
+   "category": "静岡",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00095119-satvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=119&cy=0&cw=308&ch=308&exp=10800",
+   "published_at": "2026-08-12T20:51:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "721025f6296288486878bce601b63ff12f78198c",
+   "title": "労働者10人に1か月分の賃金計約164万円を支払わなかった疑い　高知市の食料品製造・小売業者を書類送検【高知】",
+   "url": "https://news.yahoo.co.jp/articles/721025f6296288486878bce601b63ff12f78198c",
+   "source": "テレビ高知",
+   "category": "高知",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-22869264-kutvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800",
+   "published_at": "2026-08-12T20:41:00+09:00",
+   "matched_keywords": [
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "0da53cf11682b2ad420fc67d9d0308b12112c69a",
+   "title": "新田知事「地方の減収　国が全て補てんを」　食料品の消費税1％で169憶円減収見込み",
+   "url": "https://news.yahoo.co.jp/articles/0da53cf11682b2ad420fc67d9d0308b12112c69a",
+   "source": "北日本放送",
+   "category": "富山",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-03313675-knb-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-08-12T20:27:00+09:00",
+   "matched_keywords": [
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "7ffa6b89eb2e41c013d8cb960a3f7958cbf00ec5",
+   "title": "【倒産】中古車販売会社が破産開始決定 負債総額は2億1000万円　中古車の相場やトランプ関税などによる輸出環境の変化で販売不振【東京商工リサーチ】",
+   "url": "https://news.yahoo.co.jp/articles/7ffa6b89eb2e41c013d8cb960a3f7958cbf00ec5",
+   "source": "MBC南日本放送",
+   "category": "鹿児島",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-22869220-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800",
+   "published_at": "2026-08-12T20:03:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "9500ede6d4b4d215f86661d48c47fc604d6c9286",
+   "title": "新田知事「減収分全額補填を」食料品消費税率1%の方針受け",
+   "url": "https://news.yahoo.co.jp/articles/9500ede6d4b4d215f86661d48c47fc604d6c9286",
+   "source": "富山テレビ",
+   "category": "富山",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-90025863-bbt-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-08-12T20:00:00+09:00",
+   "matched_keywords": [
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "d3f455ca791afd5390edc0d3e7fa85b3bc8216ad",
+   "title": "【倒産】配電盤･ダクトカバーなど各種鋼材加工を手がける板金工事会社　資材価格･外注費が増加も受注での価格転嫁進まず【帝国データバンク】",
+   "url": "https://news.yahoo.co.jp/articles/d3f455ca791afd5390edc0d3e7fa85b3bc8216ad",
+   "source": "RKB毎日放送",
+   "category": "福岡",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-22869212-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800",
+   "published_at": "2026-08-12T19:55:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "deee71474774ac1e43e16e533b17c625f5c056f0",
+   "title": "【吉野家】「牛丼」並盛弁当「2丁800円」キャンペーン　まとめて購入すると“114円”お得に",
+   "url": "https://news.yahoo.co.jp/articles/deee71474774ac1e43e16e533b17c625f5c056f0",
+   "source": "オトナンサー",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00384739-otonans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=285&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-08-12T19:15:00+09:00",
+   "matched_keywords": [
+    "吉野家"
+   ]
+  },
+  {
+   "content_id": "32874384bf813c77810ffdf08289bd0ae7bf3e0b",
+   "title": "「激安すぎる」「これはありがたい」かつやの『お得な8日間限定キャンペーン』ご飯大盛りも無料で、コスパ良く満腹になれるんです！",
+   "url": "https://news.yahoo.co.jp/articles/32874384bf813c77810ffdf08289bd0ae7bf3e0b",
+   "source": "BuzzFeed Japan",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-10059428-bfj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=830&ch=830&exp=10800",
+   "published_at": "2026-08-12T18:35:00+09:00",
+   "matched_keywords": [
+    "かつや"
+   ]
+  },
+  {
+   "content_id": "907d343f223b87e4c007667d4f5cfa75abe45328",
+   "title": "「壱角家×油そば総本店」二刀流店舗が100日で100店舗突破、株式会社ガーデン川島社長「2030年代までに外食産業でナンバーワンとなり、時価総額1.5兆円超を目指す」",
+   "url": "https://news.yahoo.co.jp/articles/907d343f223b87e4c007667d4f5cfa75abe45328",
+   "source": "食品産業新聞社ニュースWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00010010-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=370&cy=0&cw=1461&ch=1461&exp=10800",
+   "published_at": "2026-08-12T18:34:00+09:00",
+   "matched_keywords": [
+    "外食産業"
+   ]
+  },
+  {
+   "content_id": "d26dbccdc7171b4d60bb2fc1bc21edb5c9e7cdf1",
+   "title": "菓子店の倒産 最速ペースで増加",
+   "url": "https://news.yahoo.co.jp/articles/d26dbccdc7171b4d60bb2fc1bc21edb5c9e7cdf1",
+   "source": "ABEMA TIMES",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-10266693-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=710&ch=710&exp=10800",
+   "published_at": "2026-08-12T18:24:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "1d7292e6cad164a15caf69ec0980f042fe9f5f78",
+   "title": "ケーキ・和菓子店の倒産が過去最多　物価高や人手不足が影響",
+   "url": "https://news.yahoo.co.jp/articles/1d7292e6cad164a15caf69ec0980f042fe9f5f78",
+   "source": "FNNプライムオンライン（フジテレビ系）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-01193412-fnn-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
+   "published_at": "2026-08-12T17:17:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "2f3848fccd4a29deac57b0ea0e03cb9bfa9c32ef",
+   "title": "7月の電機倒産、2カ月ぶり前年増　負債総額は8割減",
+   "url": "https://news.yahoo.co.jp/articles/2f3848fccd4a29deac57b0ea0e03cb9bfa9c32ef",
+   "source": "電波新聞デジタル",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-08-12T16:26:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "7a55d1c152fffd4b7bce7ae00a3e66f2b36e24d5",
+   "title": "鈴木奈々「雑誌のモデルしながらすき家でバイトしてた」ギャル時代の過去ショット公開「ガラッと雰囲気が違う」「当時から変わらず可愛い」と反響",
+   "url": "https://news.yahoo.co.jp/articles/7a55d1c152fffd4b7bce7ae00a3e66f2b36e24d5",
+   "source": "モデルプレス",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-04827642-mdpr-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=247&cy=0&cw=1065&ch=1065&exp=10800",
+   "published_at": "2026-08-12T14:36:00+09:00",
+   "matched_keywords": [
+    "すき家"
+   ]
+  },
+  {
+   "content_id": "f28011a2b4e3426ee835dda865592d8ca13c9ae8",
+   "title": "「食料品の消費税1％」で飲食店が“大量倒産”か　減税の“2年間”は「納税額が2倍になる恐れ」 さらに食料品の需要増で「食材価格高騰」の恐れも　専門家解説",
+   "url": "https://news.yahoo.co.jp/articles/f28011a2b4e3426ee835dda865592d8ca13c9ae8",
+   "source": "FNNプライムオンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-01193267-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=269&cy=0&cw=720&ch=720&exp=10800",
+   "published_at": "2026-08-12T14:01:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "ef09b985552091b8daa675a6e5421c413a582069",
+   "title": "吉野家「牛丼並盛」のまとめ買いがテイクアウト限定でお得に。「夏トク！牛丼弁当2丁800円」キャンペーン開始",
+   "url": "https://news.yahoo.co.jp/articles/ef09b985552091b8daa675a6e5421c413a582069",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000014-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=471&ch=471&exp=10800",
+   "published_at": "2026-08-12T13:30:00+09:00",
+   "matched_keywords": [
+    "吉野家"
+   ]
+  },
+  {
+   "content_id": "a92abe93e03065e9c9fe4b5d60666a1d24877d06",
+   "title": "ケーキや和菓子など菓子店の倒産が過去最多ペース　円安や季節の贈答品需要の落ち込み",
+   "url": "https://news.yahoo.co.jp/articles/a92abe93e03065e9c9fe4b5d60666a1d24877d06",
+   "source": "テレビ朝日系（ANN）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-08-12T13:15:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "23304bc5cafafde6a44e097bf7eff5b2f51e9b71",
+   "title": "ケーキや和菓子店など菓子店の倒産 過去最多ペース 円安や季節の贈答品需要の落ち込み",
+   "url": "https://news.yahoo.co.jp/articles/23304bc5cafafde6a44e097bf7eff5b2f51e9b71",
+   "source": "テレビ朝日系（ANN）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000038-ann-000-6-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-08-12T13:04:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "6af77b90b091c654384d926b345ad7f238c60cfd",
+   "title": "『ウマ娘』×「ケンタッキーフライドチキン」コラボ開催！ラッキーライラックの立ち絵を独占公開、ゴルシもカーネル・サンダースに大変身",
+   "url": "https://news.yahoo.co.jp/articles/6af77b90b091c654384d926b345ad7f238c60cfd",
+   "source": "インサイド",
+   "category": "ゲーム",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000022-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=151&cy=0&cw=523&ch=523&exp=10800",
+   "published_at": "2026-08-12T13:00:00+09:00",
+   "matched_keywords": [
+    "ケンタッキー"
+   ]
+  },
+  {
+   "content_id": "1ca748e209fa137299495ba9164c8ab8020fbcf5",
+   "title": "『ウマ娘』ケンタッキーフライドチキンのコラボ開始　ラッピング店舗などの企画実施",
+   "url": "https://news.yahoo.co.jp/articles/1ca748e209fa137299495ba9164c8ab8020fbcf5",
+   "source": "オリコン",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000303-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=167&cy=0&cw=639&ch=639&exp=10800",
+   "published_at": "2026-08-12T13:00:00+09:00",
+   "matched_keywords": [
+    "ケンタッキー"
+   ]
+  },
+  {
+   "content_id": "58dc74995c7cc5ca3d41f5a87ea7acb83bd2b723",
+   "title": "アングル：米ファストフードチェーン、四半期決算で低価格戦略の限界が露呈",
+   "url": "https://news.yahoo.co.jp/articles/58dc74995c7cc5ca3d41f5a87ea7acb83bd2b723",
+   "source": "ロイター",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000116-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=75&cy=0&cw=300&ch=300&exp=10800",
+   "published_at": "2026-08-12T12:46:00+09:00",
+   "matched_keywords": [
+    "ファストフード"
+   ]
+  },
+  {
+   "content_id": "23de52bcad2ca84a89835f1668765fe7644700f5",
+   "title": "【すき家】コク＆スモーキー風味の「ポークロックカレー」発売　フライドにんにく＆唐辛子フレークのトッピングメニューも",
+   "url": "https://news.yahoo.co.jp/articles/23de52bcad2ca84a89835f1668765fe7644700f5",
+   "source": "オトナンサー",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00384441-otonans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=849&ch=849&exp=10800",
+   "published_at": "2026-08-12T12:15:00+09:00",
+   "matched_keywords": [
+    "すき家"
+   ]
+  },
+  {
+   "content_id": "0614cc3bcf9122d2778c271b144a9337ae0fcae2",
+   "title": "【マクドナルド】前日の匂わせ投稿にネット騒然！「クッキー＆チョコミントフラッペ」復活発表に「待ってました」の声殺到",
+   "url": "https://news.yahoo.co.jp/articles/0614cc3bcf9122d2778c271b144a9337ae0fcae2",
+   "source": "LASISA",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-10155606-lasisa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-08-12T12:15:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "0be109adf304088eecbe48bf2ab5cb9f531b8258",
+   "title": "「資金繰りの悪化で経営が行き詰まる」宮城7月の倒産件数　今後も高水準が続く見通し",
+   "url": "https://news.yahoo.co.jp/articles/0be109adf304088eecbe48bf2ab5cb9f531b8258",
+   "source": "tbc東北放送",
+   "category": "宮城",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-22867400-tbcv-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1440&ch=810&exp=10800",
+   "published_at": "2026-08-12T12:02:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "dc786ead0e29d5b1edcf1c862c62cdef68c07927",
+   "title": "吉野家がまさかの1個400円！テイクアウト限定で牛丼弁当2個800円 8/12~27",
+   "url": "https://news.yahoo.co.jp/articles/dc786ead0e29d5b1edcf1c862c62cdef68c07927",
+   "source": "マネーの達人",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000004-manetatsun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=204&cy=0&cw=392&ch=392&exp=10800",
+   "published_at": "2026-08-12T12:00:00+09:00",
+   "matched_keywords": [
+    "吉野家"
+   ]
+  },
+  {
+   "content_id": "03ffb4b4d4434712f28cb57583542892ca5d84d6",
+   "title": "【倒産】木造建築工事「小幡建材（富山市）」破産、負債8000万円　競合激化で分社化、木造建築に集中もピーク時の売上2.9億円から急減　代表死去で継続断念",
+   "url": "https://news.yahoo.co.jp/articles/03ffb4b4d4434712f28cb57583542892ca5d84d6",
+   "source": "チューリップテレビ",
+   "category": "富山",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-22867515-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-12T11:38:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "9c18bbbd0085503a4992584f59c8ade9221abac9",
+   "title": "吉野家、牛丼並盛2個が800円で“114円”おトクに　お盆の“まとめ買い”に便利な期間限定キャンペーン【きょうから】",
+   "url": "https://news.yahoo.co.jp/articles/9c18bbbd0085503a4992584f59c8ade9221abac9",
+   "source": "オリコン",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000380-oric-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=471&ch=471&exp=10800",
+   "published_at": "2026-08-12T11:28:00+09:00",
+   "matched_keywords": [
+    "吉野家"
+   ]
+  },
+  {
+   "content_id": "012f9c484701ecc175818c841cb0181f8c9f7db3",
+   "title": "【倒産】設立3年で資金繰りに行き詰まる　不動産売買・仲介会社　顧客ニーズにあわせた提案も…収支は低迷　負債総額は約3500万円【東京商工リサーチ】",
+   "url": "https://news.yahoo.co.jp/articles/012f9c484701ecc175818c841cb0181f8c9f7db3",
+   "source": "RKB毎日放送",
+   "category": "福岡",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-22867394-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800",
+   "published_at": "2026-08-12T11:21:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "fa096f3140241d8639717e231c4617fb879871ea",
+   "title": "長崎県内の倒産企業　７月は２件　業歴１５年以上の卸売業とサービス業",
+   "url": "https://news.yahoo.co.jp/articles/fa096f3140241d8639717e231c4617fb879871ea",
+   "source": "長崎新聞",
+   "category": "長崎",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-08-12T11:20:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "12acdb9e597f8111ccace07ac3626cc114f3164e",
+   "title": "ケーキや和菓子店の倒産が過去最多　理由は物価高や人手不足　円安の影響や贈答品需要落ち込みも",
+   "url": "https://news.yahoo.co.jp/articles/12acdb9e597f8111ccace07ac3626cc114f3164e",
+   "source": "FNNプライムオンライン（フジテレビ系）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-01193125-fnn-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=2000&ch=1125&exp=10800",
+   "published_at": "2026-08-12T11:15:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "675fedccedf3bff2b4389b275f172db589b7f8ab",
+   "title": "【倒産】デザイン企画や店舗コンサルタント手掛ける会社が破産　見込んでいた大型建築案件がキャンセル…銀行借入の返済が困難に　負債約5100万円　新潟市",
+   "url": "https://news.yahoo.co.jp/articles/675fedccedf3bff2b4389b275f172db589b7f8ab",
+   "source": "新潟ニュースNST",
+   "category": "新潟",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-90031870-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-08-12T11:00:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "d625d846432a515eb71798ab7af3dad76d93ce44",
+   "title": "【倒産】空港などの内装･改修手がける工事会社　新型コロナ･元請けからの受注低迷で売上高は半分以下に　負債総額は1億5500万円【東京商工リサーチ】",
+   "url": "https://news.yahoo.co.jp/articles/d625d846432a515eb71798ab7af3dad76d93ce44",
+   "source": "RKB毎日放送",
+   "category": "福岡",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-22867146-rkbv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800",
+   "published_at": "2026-08-12T10:20:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "8ac2f6ec6353f02a728afae52af7eefb687abd05",
+   "title": "牛丼3社で「松屋」だけ株価2割安、最高益なのになぜ？　増資後の展望に不透明感",
+   "url": "https://news.yahoo.co.jp/articles/8ac2f6ec6353f02a728afae52af7eefb687abd05",
+   "source": "ITmedia ビジネスオンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00000007-zdn_mkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=35&cy=0&cw=520&ch=520&exp=10800",
+   "published_at": "2026-08-12T08:10:00+09:00",
+   "matched_keywords": [
+    "松屋"
+   ]
+  },
+  {
+   "content_id": "3fe161b4af9e1dfe294b5cb7510573aba6ca3785",
+   "title": "すき家で“まぐろたたき丼”を注文→届いたのは……「遠回しの告白ってこと？」驚きの光景が440万表示「おめでとう」「受け取ってあげて」",
+   "url": "https://news.yahoo.co.jp/articles/3fe161b4af9e1dfe294b5cb7510573aba6ca3785",
+   "source": "ねとらぼ",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-10163408-it_nlab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=201&cy=0&cw=803&ch=803&exp=10800",
+   "published_at": "2026-08-12T07:30:00+09:00",
+   "matched_keywords": [
+    "すき家"
+   ]
+  },
+  {
+   "content_id": "05e550e7fc0c0c3008a4fbc3fd9873836a966b6b",
+   "title": "鈴木奈々“バリバリのギャル時代”を回顧「モデルしながらすき家でバイトしてた！」",
+   "url": "https://news.yahoo.co.jp/articles/05e550e7fc0c0c3008a4fbc3fd9873836a966b6b",
+   "source": "クランクイン！",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-00189467-crankinn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=87&cy=0&cw=489&ch=489&exp=10800",
+   "published_at": "2026-08-12T06:00:00+09:00",
+   "matched_keywords": [
+    "すき家"
+   ]
+  },
+  {
+   "content_id": "e48b482b016f657a1b1aed6d5fbdf0c38c90ec1e",
+   "title": "【関西在住者に聞いた】街の名店くらいうまい「とんかつチェーン」ランキング！　2位は「かつや」、1位は？",
+   "url": "https://news.yahoo.co.jp/articles/e48b482b016f657a1b1aed6d5fbdf0c38c90ec1e",
+   "source": "ねとらぼ",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-10162099-it_nlab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800",
+   "published_at": "2026-08-11T18:00:00+09:00",
+   "matched_keywords": [
+    "かつや"
    ]
   },
   {
@@ -73,66 +1699,6 @@
    ]
   },
   {
-   "content_id": "dcad3e3ea02904e4843a0c20884cea7c835cb880",
-   "title": "【給付付き税額控除】で手取り増？2027年からの飲食料品《消費税実質ゼロ化》の仕組みと「今すぐすべき？」公金受取口座の登録",
-   "url": "https://news.yahoo.co.jp/articles/dcad3e3ea02904e4843a0c20884cea7c835cb880",
-   "source": "LIMO",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00134343-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-11T11:05:00+09:00",
-   "matched_keywords": [
-    "消費税"
-   ]
-  },
-  {
-   "content_id": "f58cb1e8229d7be45fc297d05c361871b2d67399",
-   "title": "外食は年間600回以上！ マッキー牧元が2026年7月に食べた中で特に心を打たれた、隠れた名店（朝・昼・夜）",
-   "url": "https://news.yahoo.co.jp/articles/f58cb1e8229d7be45fc297d05c361871b2d67399",
-   "source": "食べログマガジン",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010004-tabelog-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=171&cw=683&ch=683&exp=10800",
-   "published_at": "2026-08-11T11:04:00+09:00",
-   "matched_keywords": [
-    "外食"
-   ]
-  },
-  {
-   "content_id": "2f2dbe9d6a0d9b10db9d30e9fb33377914c62833",
-   "title": "【きょうから2週目】ファミリーマート、今年2回目の“値段そのまま45％増量”キャンペーン　ボリューム感満載の3色そぼろ＆チキン南蛮弁当が登場",
-   "url": "https://news.yahoo.co.jp/articles/2f2dbe9d6a0d9b10db9d30e9fb33377914c62833",
-   "source": "オリコン",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000308-oric-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800",
-   "published_at": "2026-08-11T10:30:00+09:00",
-   "matched_keywords": [
-    "ファミリーマート"
-   ]
-  },
-  {
-   "content_id": "0cd5ded2f060075c6e6499677ad643484e136ee5",
-   "title": "ローソンで考えた、インターネットがステーブルコインを標準装備する日【編集長コラム】",
-   "url": "https://news.yahoo.co.jp/articles/0cd5ded2f060075c6e6499677ad643484e136ee5",
-   "source": "NADA NEWS",
-   "category": "IT総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00383199-coindesk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=253&cy=0&cw=682&ch=682&exp=10800",
-   "published_at": "2026-08-11T10:30:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
-   "content_id": "c306a096b12e2a67d73fb24deb78cb3b3080dba9",
-   "title": "高市内閣の消費税減税策が円安阻止の“障害”に？…財政懸念残る一方、今週は介入警戒感から上値が重い展開か【今週の米ドル／円予想レンジ「155～159.5円」の根拠】",
-   "url": "https://news.yahoo.co.jp/articles/c306a096b12e2a67d73fb24deb78cb3b3080dba9",
-   "source": "THE GOLD ONLINE（ゴールドオンライン）",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00080802-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800",
-   "published_at": "2026-08-11T10:00:00+09:00",
-   "matched_keywords": [
-    "消費税"
-   ]
-  },
-  {
    "content_id": "7a0375cf6010838739e0e98b47e33c84332a8614",
    "title": "【きょうから】松屋に“ド直球”の2品が登場　鉄板で香ばしく仕上げた肉＆タレの旨味で箸が止まらない",
    "url": "https://news.yahoo.co.jp/articles/7a0375cf6010838739e0e98b47e33c84332a8614",
@@ -145,184 +1711,15 @@
    ]
   },
   {
-   "content_id": "72acdeb56c34cc983b56cf32a09d5f31cee86b7f",
-   "title": "「紙おしぼり5ついただけますか？」　被災地支援中の女性がコンビニでお願い　店員の対応に「読んでいて泣けた」の声",
-   "url": "https://news.yahoo.co.jp/articles/72acdeb56c34cc983b56cf32a09d5f31cee86b7f",
-   "source": "Hint-Pot",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010005-hintpot-000-17-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800",
-   "published_at": "2026-08-11T09:48:00+09:00",
-   "matched_keywords": [
-    "コンビニ"
-   ]
-  },
-  {
-   "content_id": "02723a8a0ce78ea3c44fed04d789c679e86954d2",
-   "title": "マクドナルド「ハッピーセット ポケモン」第2弾スタート　イーブイ・カビゴンなど新作6種登場",
-   "url": "https://news.yahoo.co.jp/articles/02723a8a0ce78ea3c44fed04d789c679e86954d2",
-   "source": "食品産業新聞社ニュースWEB",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010002-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=135&cy=0&cw=754&ch=754&exp=10800",
-   "published_at": "2026-08-11T09:40:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
-   ]
-  },
-  {
-   "content_id": "07557c2c23c58775f34be153e5381bb41ff26acf",
-   "title": "ブタメンの麺が約4倍になった「ブタメン超BIG」、セブン‐イレブン限定で発売",
-   "url": "https://news.yahoo.co.jp/articles/07557c2c23c58775f34be153e5381bb41ff26acf",
-   "source": "食品産業新聞社ニュースWEB",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010000-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=21&cy=0&cw=258&ch=258&exp=10800",
-   "published_at": "2026-08-11T09:30:00+09:00",
-   "matched_keywords": [
-    "セブン"
-   ]
-  },
-  {
-   "content_id": "d627427133977b550c8dfcac0b223ed34cfcb8a7",
-   "title": "【阪神先発マッチアップ】同学年同郷対決、ハルト決戦、東都ドラ1セブン…3戦すべてにテーマ性の首位攻防",
-   "url": "https://news.yahoo.co.jp/articles/d627427133977b550c8dfcac0b223ed34cfcb8a7",
-   "source": "スポニチアネックス",
-   "category": "野球",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000088-spnannex-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=78&cy=0&cw=1044&ch=1044&exp=10800",
-   "published_at": "2026-08-11T08:30:00+09:00",
-   "matched_keywords": [
-    "セブン"
-   ]
-  },
-  {
    "content_id": "cc6251901481895547cf1f3dd5d5423a02770752",
-   "title": "【あすから】ケンタッキー×人気ゲーム『ウマ娘』がコラボ！史上初となる限定メニュー＆描き下ろしグッズも",
+   "title": "【8月12日から】ケンタッキー×人気ゲーム『ウマ娘』がコラボ！史上初となる限定メニュー＆描き下ろしグッズも",
    "url": "https://news.yahoo.co.jp/articles/cc6251901481895547cf1f3dd5d5423a02770752",
    "source": "Lmaga.jp",
    "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-01085108-lmaga-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-01085108-lmaga-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
    "published_at": "2026-08-11T08:00:00+09:00",
    "matched_keywords": [
     "ケンタッキー"
-   ]
-  },
-  {
-   "content_id": "51dca46bdd558f9ddf8e299e31c368d4c76d1046",
-   "title": "金融庁に「暗号資産・ステーブルコイン課」誕生、ローソン実証で決済はどう変わる？",
-   "url": "https://news.yahoo.co.jp/articles/51dca46bdd558f9ddf8e299e31c368d4c76d1046",
-   "source": "ビジネス＋IT",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00186471-biz_plus-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=615&ch=615&exp=10800",
-   "published_at": "2026-08-11T07:10:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
-   "content_id": "c8a56d1979eaf10158904764e9ff04d564309fe8",
-   "title": "「ケーキや菓子店」の倒産が過去最多 ～ 値上げで帰省土産も我慢、贈答慣習の変化も影響 ～",
-   "url": "https://news.yahoo.co.jp/articles/c8a56d1979eaf10158904764e9ff04d564309fe8",
-   "source": "東京商工リサーチ",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010000-biz_shoko-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=10&cw=488&ch=488&exp=10800",
-   "published_at": "2026-08-11T07:00:00+09:00",
-   "matched_keywords": [
-    "値上げ",
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "5216b2bb1cba1b4c7c1f814e54229c9f3b6bbb8c",
-   "title": "消費税減税をめぐる高市総理と自民党の“ねじれ”に注目／週刊・YouTube支持率分析（2026年7月27日～8月2日）】",
-   "url": "https://news.yahoo.co.jp/articles/5216b2bb1cba1b4c7c1f814e54229c9f3b6bbb8c",
-   "source": "選挙ドットコム",
-   "category": "政治",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00010000-senkyocom-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=720&ch=720&exp=10800",
-   "published_at": "2026-08-11T07:00:00+09:00",
-   "matched_keywords": [
-    "消費税"
-   ]
-  },
-  {
-   "content_id": "048e195ce6e623812dd88c2ee24ea7c072e21791",
-   "title": "【今週のローソンさん】スモーキーさが増した「ビッグピート クレイジースモーキーハイボール」がローソン限定で登場！",
-   "url": "https://news.yahoo.co.jp/articles/048e195ce6e623812dd88c2ee24ea7c072e21791",
-   "source": "グルメ Watch",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000002-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800",
-   "published_at": "2026-08-11T07:00:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
-   "content_id": "67c00374e17bf9ff675d8997255135355359dd0f",
-   "title": "2026年7月の倒産　鳥取県6件　島根県3件　鳥取県は過去10年間の同時期と比較しても最多",
-   "url": "https://news.yahoo.co.jp/articles/67c00374e17bf9ff675d8997255135355359dd0f",
-   "source": "日本海テレビ",
-   "category": "鳥取",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-03331526-nkt-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800",
-   "published_at": "2026-08-11T06:45:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "05993058a14fde9d15c0c5891faa1cf896e24352",
-   "title": "東中野に「街のパーソナルコンビニ」　日常品と新しい「モノ」「コト」が共存",
-   "url": "https://news.yahoo.co.jp/articles/05993058a14fde9d15c0c5891faa1cf896e24352",
-   "source": "みんなの経済新聞ネットワーク",
-   "category": "東京",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-00000004-minkei-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=137&cy=0&cw=900&ch=900&exp=10800",
-   "published_at": "2026-08-11T06:29:00+09:00",
-   "matched_keywords": [
-    "コンビニ"
-   ]
-  },
-  {
-   "content_id": "fdd831eb2817a64ce093ea7545e2530149e7bd9f",
-   "title": "消費税減税に伴う地方の減収、国が穴埋め検討…地方特例交付金での措置案浮上",
-   "url": "https://news.yahoo.co.jp/articles/fdd831eb2817a64ce093ea7545e2530149e7bd9f",
-   "source": "読売新聞オンライン",
-   "category": "政治",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000378-yom-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=88&cy=0&cw=325&ch=325&exp=10800",
-   "published_at": "2026-08-11T05:01:00+09:00",
-   "matched_keywords": [
-    "消費税"
-   ]
-  },
-  {
-   "content_id": "b55035d8414ecb3e50b3097c17ebd6e38a490e73",
-   "title": "7月の倒産企業が今年最多に　2カ月連続で1000件超えは約14年ぶり",
-   "url": "https://news.yahoo.co.jp/articles/b55035d8414ecb3e50b3097c17ebd6e38a490e73",
-   "source": "FNNプライムオンライン（フジテレビ系）",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-01192439-fnn-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
-   "published_at": "2026-08-11T00:35:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "fcb2410b2687facb273149df6c4f1f953849aec1",
-   "title": "物価高にコンビニ大手3社はどう対応？戦略の違いが浮き彫りに",
-   "url": "https://news.yahoo.co.jp/articles/fcb2410b2687facb273149df6c4f1f953849aec1",
-   "source": "＠ＤＩＭＥ",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010000-dime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=433&ch=433&exp=10800",
-   "published_at": "2026-08-10T20:51:00+09:00",
-   "matched_keywords": [
-    "コンビニ"
-   ]
-  },
-  {
-   "content_id": "e9fc4e23140ed24a50e70d7192f30c1238035ba2",
-   "title": "スマホゲーム会社の倒産 過去最多ペース",
-   "url": "https://news.yahoo.co.jp/articles/e9fc4e23140ed24a50e70d7192f30c1238035ba2",
-   "source": "ABEMA TIMES",
-   "category": "社会",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-10266445-abemav-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&fmt=jpeg&q=85&exp=10800",
-   "published_at": "2026-08-10T20:03:00+09:00",
-   "matched_keywords": [
-    "倒産"
    ]
   },
   {
@@ -334,215 +1731,7 @@
    "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-07353237-knb-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
    "published_at": "2026-08-10T19:49:00+09:00",
    "matched_keywords": [
-    "外食",
-    "消費税",
-    "食料品",
     "外食産業"
-   ]
-  },
-  {
-   "content_id": "380a506828a6508312f0e8698d2cfc8012cc5261",
-   "title": "なぜ「AI画像は気持ち悪い」のか　嫌悪感が止まらない一方で「デザイン会社」の倒産ドミノが始まった",
-   "url": "https://news.yahoo.co.jp/articles/380a506828a6508312f0e8698d2cfc8012cc5261",
-   "source": "J-CASTニュース",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000021-jct-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-10T19:40:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "77a79b433d92a0f3b2202cb6c36723078eb386d9",
-   "title": "片山さつき財務大臣が静岡市で講演　閣議決定した食料品の消費税減税について言及",
-   "url": "https://news.yahoo.co.jp/articles/77a79b433d92a0f3b2202cb6c36723078eb386d9",
-   "source": "静岡朝日テレビ",
-   "category": "静岡",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00094883-satvv-000-1-thumb.jpg?pri=l&w=192&h=107&order=c2r&cx=0&cy=1&cw=546&ch=307&exp=10800",
-   "published_at": "2026-08-10T19:12:00+09:00",
-   "matched_keywords": [
-    "消費税",
-    "食料品"
-   ]
-  },
-  {
-   "content_id": "b9cd8c067de23d57d31dc67af28b6eb05cef2481",
-   "title": "【倒産】新工場建設も十分稼働できず…フグの受注低迷続き加工販売会社が破産　負債額は約13億円（帝国データバンク）",
-   "url": "https://news.yahoo.co.jp/articles/b9cd8c067de23d57d31dc67af28b6eb05cef2481",
-   "source": "MRT宮崎放送",
-   "category": "宮崎",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-22865300-mrt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800",
-   "published_at": "2026-08-10T18:54:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "5839dd97fdd08018bd305cdb0da4368b32bc4d9d",
-   "title": "７月の企業倒産、今年最多の１０２８件…全体の負債総額２３６３億円の半分を全東信が占める",
-   "url": "https://news.yahoo.co.jp/articles/5839dd97fdd08018bd305cdb0da4368b32bc4d9d",
-   "source": "読売新聞オンライン",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000212-yom-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=63&cw=375&ch=375&exp=10800",
-   "published_at": "2026-08-10T18:49:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "78d190cbfaacd10da749ce5f338b770e8065ce57",
-   "title": "イクラ丼が6倍超の4400円…さらに値上げも　記録的不漁で秋サケ“半減”　「かなり厳しい」漁業関係者に不安の声",
-   "url": "https://news.yahoo.co.jp/articles/78d190cbfaacd10da749ce5f338b770e8065ce57",
-   "source": "FNNプライムオンライン（フジテレビ系）",
-   "category": "社会",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-01192212-fnn-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
-   "published_at": "2026-08-10T18:45:00+09:00",
-   "matched_keywords": [
-    "値上げ"
-   ]
-  },
-  {
-   "content_id": "deda411157ad954f132c93426858f5165131a8f7",
-   "title": "QUOカードPay最大1万円分がローソンで当たる？【4コマ漫画で要点整理】",
-   "url": "https://news.yahoo.co.jp/articles/deda411157ad954f132c93426858f5165131a8f7",
-   "source": "マネーの達人",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000015-manetatsun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=279&cy=0&cw=420&ch=420&exp=10800",
-   "published_at": "2026-08-10T18:30:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
-   "content_id": "77745dbb0aaba615153d70f9b0a71c846ee574b5",
-   "title": "7月の倒産、ことし最多の1037件　2か月連続で1000件上回るのは17年ぶり",
-   "url": "https://news.yahoo.co.jp/articles/77745dbb0aaba615153d70f9b0a71c846ee574b5",
-   "source": "日テレNEWS NNN",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-02275168-nnn-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
-   "published_at": "2026-08-10T18:18:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "c57c242437cebb3313663e3a71f58128ad1b430f",
-   "title": "【セブンイレブン】「ブタメン」とコラボ　とんこつ味のチキン発売",
-   "url": "https://news.yahoo.co.jp/articles/c57c242437cebb3313663e3a71f58128ad1b430f",
-   "source": "オトナンサー",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00384388-otonans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=120&cw=960&ch=960&exp=10800",
-   "published_at": "2026-08-10T18:15:00+09:00",
-   "matched_keywords": [
-    "セブン"
-   ]
-  },
-  {
-   "content_id": "f4719aeb7363688e963ca52484b4bed2feb12b9a",
-   "title": "「食料品の消費減税」を高市首相があえて“今”表明した理由。財源が確保されないなかで待ち受ける“２年後のシナリオ”とは",
-   "url": "https://news.yahoo.co.jp/articles/f4719aeb7363688e963ca52484b4bed2feb12b9a",
-   "source": "webマガジン mi-mollet",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00060753-mimollet-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=604&ch=604&exp=10800",
-   "published_at": "2026-08-10T18:03:00+09:00",
-   "matched_keywords": [
-    "食料品"
-   ]
-  },
-  {
-   "content_id": "245b030bd511bbb2b1cbec4cf21326edb61285b2",
-   "title": "キッコーマンが海外で大ヒット！ 乱高下相場の裏で注目される「グローバル外食株」",
-   "url": "https://news.yahoo.co.jp/articles/245b030bd511bbb2b1cbec4cf21326edb61285b2",
-   "source": "MONEY PLUS",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010002-moneyplus-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=1333&ch=1333&exp=10800",
-   "published_at": "2026-08-10T18:01:00+09:00",
-   "matched_keywords": [
-    "外食"
-   ]
-  },
-  {
-   "content_id": "3b30e378807e589347ff4e432d5229eeadc111a8",
-   "title": "【倒産情報】創業47年の学習塾運営会社が特別清算開始決定 “地域の老舗学習塾”ピーク時は5億円を超える売上高を計上も…少子化やコロナ禍の影響で赤字に　青森･八戸市【東京商工リサーチ】",
-   "url": "https://news.yahoo.co.jp/articles/3b30e378807e589347ff4e432d5229eeadc111a8",
-   "source": "TBS NEWS DIG Powered by JNN",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-22864225-jnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
-   "published_at": "2026-08-10T18:00:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "2549530a4556ed57f719d4dd23e7d40a2bfc9ad8",
-   "title": "ローソン、個人の成長とチームの状況好転が“中団トップ”の原動力に「週末を通した調子の上げ方はいつも似ている」",
-   "url": "https://news.yahoo.co.jp/articles/2549530a4556ed57f719d4dd23e7d40a2bfc9ad8",
-   "source": "オートスポーツweb",
-   "category": "モータースポーツ",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260811-01341704-rcg-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=329&cy=0&cw=854&ch=854&exp=10800",
-   "published_at": "2026-08-10T18:00:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
-   "content_id": "ff3ba1e54c371e90ad1f12399abb17349fb8458d",
-   "title": "食料品の消費減税に52.9％賛成 2年後税率戻す方針には反対が賛成を上回る　高市内閣支持率は横ばい　【FNN世論調査】",
-   "url": "https://news.yahoo.co.jp/articles/ff3ba1e54c371e90ad1f12399abb17349fb8458d",
-   "source": "FNNプライムオンライン（フジテレビ系）",
-   "category": "政治",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-01192168-fnn-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
-   "published_at": "2026-08-10T17:47:00+09:00",
-   "matched_keywords": [
-    "食料品"
-   ]
-  },
-  {
-   "content_id": "344961977178f38758eaff946fbdef34aa306c19",
-   "title": "スマホゲーム会社倒産過去最多ペース　課金アイテム使えず混乱も",
-   "url": "https://news.yahoo.co.jp/articles/344961977178f38758eaff946fbdef34aa306c19",
-   "source": "テレビ朝日系（ANN）",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000044-ann-000-12-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
-   "published_at": "2026-08-10T17:40:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "2ce955b0bbf391883b4972876611c98b82cad36a",
-   "title": "「買い溜めておかないと」セブンイレブン×シャトレーゼの“人気アイス”に「職場の冷凍庫に保存してる」「別格でうまい」「セブンで買える時代になったか！」の声",
-   "url": "https://news.yahoo.co.jp/articles/2ce955b0bbf391883b4972876611c98b82cad36a",
-   "source": "ねとらぼ",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-10163492-it_nlab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1500&ch=1500&exp=10800",
-   "published_at": "2026-08-10T17:40:00+09:00",
-   "matched_keywords": [
-    "セブン"
-   ]
-  },
-  {
-   "content_id": "ae8fdd0ad3b5bcb5efa35bb9890888b87eaa11b7",
-   "title": "スマホゲーム会社倒産 過去最多ペース　課金アイテム使えず混乱も",
-   "url": "https://news.yahoo.co.jp/articles/ae8fdd0ad3b5bcb5efa35bb9890888b87eaa11b7",
-   "source": "テレビ朝日系（ANN）",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010020-annd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800",
-   "published_at": "2026-08-10T17:12:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "4c48dfb2ed8717142b71af96d623c717db2063d0",
-   "title": "【名鉄バス】12月から約3年ぶり運賃値上げへ　初乗り210円→230円　輸送人員3100万人維持も「赤字10億円」に拡大の見通し　深刻な運転士不足とコスト増で決断",
-   "url": "https://news.yahoo.co.jp/articles/4c48dfb2ed8717142b71af96d623c717db2063d0",
-   "source": "中京テレビＮＥＷＳ",
-   "category": "愛知",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-07538389-sp_ctv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=107&cy=0&cw=427&ch=427&exp=10800",
-   "published_at": "2026-08-10T17:00:00+09:00",
-   "matched_keywords": [
-    "値上げ"
    ]
   },
   {
@@ -563,46 +1752,10 @@
    "url": "https://news.yahoo.co.jp/articles/ddd4088992c37cb2f5143a25e1561d092efb3b38",
    "source": "ダイヤモンド・オンライン",
    "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00396569-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00396569-diamond-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800",
    "published_at": "2026-08-10T16:51:00+09:00",
    "matched_keywords": [
     "すき家"
-   ]
-  },
-  {
-   "content_id": "f9f134959391b978b17e693a0cf79892866b4e8a",
-   "title": "『艦これ』ローソン13店舗が“泊地”に　対象店舗は11日発表、限定グッズに等身大スタンディも展開",
-   "url": "https://news.yahoo.co.jp/articles/f9f134959391b978b17e693a0cf79892866b4e8a",
-   "source": "オリコン",
-   "category": "エンタメ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000430-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=541&ch=541&exp=10800",
-   "published_at": "2026-08-10T16:30:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
-   "content_id": "7090e283a60c7a082b0134a49dcc9f5c8182fd12",
-   "title": "【ローソン】何この食感！？“わらび餅で巻かれた”「もち食感ロール」新作を実食レポ！",
-   "url": "https://news.yahoo.co.jp/articles/7090e283a60c7a082b0134a49dcc9f5c8182fd12",
-   "source": "LASISA",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-10155466-lasisa-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-10T16:15:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
-   "content_id": "19d264a368fac4915b90847e98a1cab78f599117",
-   "title": "7月の倒産件数 1000件超えで今年最多に",
-   "url": "https://news.yahoo.co.jp/articles/19d264a368fac4915b90847e98a1cab78f599117",
-   "source": "ABEMA TIMES",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-10266391-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=262&cy=0&cw=666&ch=666&exp=10800",
-   "published_at": "2026-08-10T15:42:00+09:00",
-   "matched_keywords": [
-    "倒産"
    ]
   },
   {
@@ -618,31 +1771,6 @@
    ]
   },
   {
-   "content_id": "71a503644d2b9efc209041af69eaf2bb63a6a6a6",
-   "title": "国内の家庭用ゲーム機価格、1年で「9.5％上昇」平均5万円台突破　部材高騰でSwitch 2など値上げ顕著",
-   "url": "https://news.yahoo.co.jp/articles/71a503644d2b9efc209041af69eaf2bb63a6a6a6",
-   "source": "オタク総研",
-   "category": "ゲーム",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00153200-otakulab-000-779-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=767&ch=767&exp=10800",
-   "published_at": "2026-08-10T15:32:00+09:00",
-   "matched_keywords": [
-    "値上げ"
-   ]
-  },
-  {
-   "content_id": "6242e5f0b37b2d995d5816a0d907b8d72204831f",
-   "title": "飲食料品の消費税率が「1％」へ引き下げへ。ECサイトのシステム改修など事業者が気を付けること",
-   "url": "https://news.yahoo.co.jp/articles/6242e5f0b37b2d995d5816a0d907b8d72204831f",
-   "source": "ネットショップ担当者フォーラム",
-   "category": "IT総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000002-netshop-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=337&ch=337&exp=10800",
-   "published_at": "2026-08-10T15:31:00+09:00",
-   "matched_keywords": [
-    "消費税",
-    "食料品"
-   ]
-  },
-  {
    "content_id": "dd27daef423f9cf3fc09a0203618445024ba2528",
    "title": "国民・玉木雄一郎代表、消費税減税めぐり...「讃岐のうどん屋はピンチに」外食産業への悪影響指摘",
    "url": "https://news.yahoo.co.jp/articles/dd27daef423f9cf3fc09a0203618445024ba2528",
@@ -651,273 +1779,7 @@
    "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000011-jct-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=213&cy=0&cw=800&ch=800&exp=10800",
    "published_at": "2026-08-10T15:15:00+09:00",
    "matched_keywords": [
-    "外食",
-    "消費税",
     "外食産業"
-   ]
-  },
-  {
-   "content_id": "5748497e9c1292ef688191e977828aacd68f7391",
-   "title": "7月倒産、13年ぶり高水準　人件費高騰、物価高が重し　商工リサーチ",
-   "url": "https://news.yahoo.co.jp/articles/5748497e9c1292ef688191e977828aacd68f7391",
-   "source": "時事通信",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000070-jij-000-14-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-10T15:07:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "a1d2b9e69c449c2a97c541bba3eed14477d279a5",
-   "title": "【倒産】製材業「松田木材」破産手続き開始　木材市場の環境変化と競争の激化　負債総額1億3000万円　帝国データバンク富山支店",
-   "url": "https://news.yahoo.co.jp/articles/a1d2b9e69c449c2a97c541bba3eed14477d279a5",
-   "source": "チューリップテレビ",
-   "category": "富山",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-22864269-tuliptv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
-   "published_at": "2026-08-10T15:01:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "aa1371b55168bca9bd431c09aa5916563db2ff85",
-   "title": "ハイキュー!!×ローソンのみんなでぐんぐんキャンペーン、オリジナル商品＆グッズ登場",
-   "url": "https://news.yahoo.co.jp/articles/aa1371b55168bca9bd431c09aa5916563db2ff85",
-   "source": "コミックナタリー",
-   "category": "エンタメ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000065-nataliec-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=117&cy=0&cw=548&ch=548&exp=10800",
-   "published_at": "2026-08-10T14:57:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
-   "content_id": "60e0530500e172386b88c3ecf86d232a9f8781b3",
-   "title": "セ硝子、通期予想を上方修正　値上げなど寄与",
-   "url": "https://news.yahoo.co.jp/articles/60e0530500e172386b88c3ecf86d232a9f8781b3",
-   "source": "ロイター",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
-   "published_at": "2026-08-10T14:56:00+09:00",
-   "matched_keywords": [
-    "値上げ"
-   ]
-  },
-  {
-   "content_id": "1574a4e005866834cd014047cce584c8d02ec700",
-   "title": "アップル「iPhone 17」早ければ今日にも値上げか",
-   "url": "https://news.yahoo.co.jp/articles/1574a4e005866834cd014047cce584c8d02ec700",
-   "source": "アスキー",
-   "category": "IT総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000005-ascii-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=131&cy=0&cw=338&ch=338&fmt=jpeg&q=85&exp=10800",
-   "published_at": "2026-08-10T14:20:00+09:00",
-   "matched_keywords": [
-    "値上げ"
-   ]
-  },
-  {
-   "content_id": "0b83735fc338d5eb7c8750bb65c9c437659bb942",
-   "title": "7月の倒産1000件以上 負債総額の半分が「全東信」 物価高起因も高い水準",
-   "url": "https://news.yahoo.co.jp/articles/0b83735fc338d5eb7c8750bb65c9c437659bb942",
-   "source": "テレビ朝日系（ANN）",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000028-ann-000-9-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
-   "published_at": "2026-08-10T14:04:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "d07d6e6322085dd7787a3d16e84a1b3c0925edd5",
-   "title": "7月の企業倒産件数　2か月連続の1000件超　今年最多に",
-   "url": "https://news.yahoo.co.jp/articles/d07d6e6322085dd7787a3d16e84a1b3c0925edd5",
-   "source": "テレビ朝日系（ANN）",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
-   "published_at": "2026-08-10T14:01:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "d24e03e9d19c7ee4e1ae588a3cd1dc4f2cc5c708",
-   "title": "「ブタメン」の味わいを再現したリング型ホットスナック登場　8月11日から順次発売【セブン‐イレブン】",
-   "url": "https://news.yahoo.co.jp/articles/d24e03e9d19c7ee4e1ae588a3cd1dc4f2cc5c708",
-   "source": "食品産業新聞社ニュースWEB",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010008-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=172&cy=0&cw=680&ch=680&exp=10800",
-   "published_at": "2026-08-10T13:43:00+09:00",
-   "matched_keywords": [
-    "セブン"
-   ]
-  },
-  {
-   "content_id": "223dc97ae17cffd9f8484ef34c06c9dde6c1db34",
-   "title": "2026年7月「ゼロゼロ融資」利用後の倒産 33件　ことし最多も1月から7カ月連続で前年同月を下回る",
-   "url": "https://news.yahoo.co.jp/articles/223dc97ae17cffd9f8484ef34c06c9dde6c1db34",
-   "source": "東京商工リサーチ",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010005-biz_shoko-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=412&ch=412&exp=10800",
-   "published_at": "2026-08-10T13:34:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "de920bd6fc1d632c0d19920535085cea1cb9a229",
-   "title": "2026年1-7月「税金滞納」倒産　10年間で最多の154件　小規模企業を中心に、物価高・金利上昇で増勢ピッチを強める",
-   "url": "https://news.yahoo.co.jp/articles/de920bd6fc1d632c0d19920535085cea1cb9a229",
-   "source": "東京商工リサーチ",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010004-biz_shoko-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=197&cy=0&cw=432&ch=432&exp=10800",
-   "published_at": "2026-08-10T13:34:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "f0c3933de2f2f3c59a42981a236ddedc919e6a3b",
-   "title": "2026年7月「負債1,000万円未満」倒産 40件　3カ月連続で減少、再生困難で40件すべて「破産」",
-   "url": "https://news.yahoo.co.jp/articles/f0c3933de2f2f3c59a42981a236ddedc919e6a3b",
-   "source": "東京商工リサーチ",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010003-biz_shoko-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=175&cy=0&cw=478&ch=478&exp=10800",
-   "published_at": "2026-08-10T13:33:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "d81267984c7905cf02c76f1e5d80a9d80bbabb04",
-   "title": "2026年7月「飲食業」倒産　最多の112件　居酒屋・ラーメン店・中華料理店などで目立つ",
-   "url": "https://news.yahoo.co.jp/articles/d81267984c7905cf02c76f1e5d80a9d80bbabb04",
-   "source": "東京商工リサーチ",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010002-biz_shoko-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=216&cy=0&cw=460&ch=460&exp=10800",
-   "published_at": "2026-08-10T13:32:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "cc570d01e7c14eeec2203f40c884318e1f52769e",
-   "title": "物価高倒産は121件判明　過去最多を更新",
-   "url": "https://news.yahoo.co.jp/articles/cc570d01e7c14eeec2203f40c884318e1f52769e",
-   "source": "帝国データバンク",
-   "category": "産業",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010007-teikokudb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=398&cy=0&cw=609&ch=609&exp=10800",
-   "published_at": "2026-08-10T13:30:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "597c42f762de32c80ecab5fafee14f71bcf6e172",
-   "title": "人手不足倒産は30件判明　3カ月ぶりに前年を下回る",
-   "url": "https://news.yahoo.co.jp/articles/597c42f762de32c80ecab5fafee14f71bcf6e172",
-   "source": "帝国データバンク",
-   "category": "産業",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010006-teikokudb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=412&cy=0&cw=599&ch=599&exp=10800",
-   "published_at": "2026-08-10T13:30:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "5b65eafc9cdf6265d3578a319e6c0bcb55481223",
-   "title": "後継者難倒産は52件判明　2カ月連続で前年を上回る",
-   "url": "https://news.yahoo.co.jp/articles/5b65eafc9cdf6265d3578a319e6c0bcb55481223",
-   "source": "帝国データバンク",
-   "category": "産業",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010005-teikokudb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=378&cy=0&cw=604&ch=604&exp=10800",
-   "published_at": "2026-08-10T13:30:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "33770c42ec914cbbc9bc04bc2933aff413f66817",
-   "title": "7月の企業倒産 13年ぶり1,000件超の高水準、「人件費高騰」が2.1倍",
-   "url": "https://news.yahoo.co.jp/articles/33770c42ec914cbbc9bc04bc2933aff413f66817",
-   "source": "東京商工リサーチ",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010001-biz_shoko-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=123&cy=0&cw=308&ch=308&exp=10800",
-   "published_at": "2026-08-10T13:30:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "d772de8fd7ae1160f5195dbd062848a6221d0abd",
-   "title": "ゼロゼロ（コロナ）融資後倒産は63件判明　『小売業』が16件で最多",
-   "url": "https://news.yahoo.co.jp/articles/d772de8fd7ae1160f5195dbd062848a6221d0abd",
-   "source": "帝国データバンク",
-   "category": "産業",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010004-teikokudb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=401&cy=0&cw=599&ch=599&exp=10800",
-   "published_at": "2026-08-10T13:30:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "c8f2b9edeabaa2c4a23d430a81f123dbfe0c32b5",
-   "title": "2026年7月の全国企業倒産は1037件、2カ月連続の1000件超え",
-   "url": "https://news.yahoo.co.jp/articles/c8f2b9edeabaa2c4a23d430a81f123dbfe0c32b5",
-   "source": "帝国データバンク",
-   "category": "産業",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010003-teikokudb-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=41&cy=0&cw=632&ch=632&exp=10800",
-   "published_at": "2026-08-10T13:30:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "efad57f44d51dc2e7e7877a2c4b5e76b71150b75",
-   "title": "7月企業倒産、2カ月連続千件超　前年同月比6.9％増、人手不足",
-   "url": "https://news.yahoo.co.jp/articles/efad57f44d51dc2e7e7877a2c4b5e76b71150b75",
-   "source": "共同通信",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000060-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=307&cy=0&cw=1016&ch=1016&exp=10800",
-   "published_at": "2026-08-10T13:30:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "fa1d24de5545a02a0e305128ad1c458d5a1cd6bd",
-   "title": "「んぽちゃむ」×ローソン、格闘技テーマの新キャンペーンが実施決定！予告画像にはムエタイ姿の「んぽちゃむ」「きみまろ」も",
-   "url": "https://news.yahoo.co.jp/articles/fa1d24de5545a02a0e305128ad1c458d5a1cd6bd",
-   "source": "インサイド",
-   "category": "ゲーム",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000019-isd-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-10T13:15:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
-   "content_id": "fa4ef882cdc6e9b7df8982ab371f13db29d03275",
-   "title": "全国企業倒産、7月は13年ぶり高水準　物価高・人手不足倒産が加速",
-   "url": "https://news.yahoo.co.jp/articles/fa4ef882cdc6e9b7df8982ab371f13db29d03275",
-   "source": "電波新聞デジタル",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
-   "published_at": "2026-08-10T13:13:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "db70a18f976f74f8df4550a1c094eb7d139be95e",
-   "title": "【異変】毎週届く値上げの通知…“庶民の味方”100円ショップに危機「100円で売れるものを探して…」店長が明かす苦しい現実",
-   "url": "https://news.yahoo.co.jp/articles/db70a18f976f74f8df4550a1c094eb7d139be95e",
-   "source": "読売テレビ",
-   "category": "社会",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-02432448-ytv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800",
-   "published_at": "2026-08-10T13:00:00+09:00",
-   "matched_keywords": [
-    "値上げ"
    ]
   },
   {
@@ -933,30 +1795,6 @@
    ]
   },
   {
-   "content_id": "6b7db77401746f4f7bef9232c5618dc42c18b8cf",
-   "title": "「神すぎる」「常備が確定した」セブンの『大容量20本アイス』こんなに美味しいのに、1本37円とコスパが半端ないんです！",
-   "url": "https://news.yahoo.co.jp/articles/6b7db77401746f4f7bef9232c5618dc42c18b8cf",
-   "source": "BuzzFeed Japan",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-10059341-bfj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=210&cy=0&cw=830&ch=830&exp=10800",
-   "published_at": "2026-08-10T12:40:00+09:00",
-   "matched_keywords": [
-    "セブン"
-   ]
-  },
-  {
-   "content_id": "3cf5f0af7178157e1e0582f6670e7422c9651c5e",
-   "title": "セブン‐イレブンでVポイント設定するだけ！ポテチ無料クーポンが当たるチャンス",
-   "url": "https://news.yahoo.co.jp/articles/3cf5f0af7178157e1e0582f6670e7422c9651c5e",
-   "source": "マネーの達人",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000008-manetatsun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=100&cy=0&cw=600&ch=600&exp=10800",
-   "published_at": "2026-08-10T12:30:00+09:00",
-   "matched_keywords": [
-    "セブン"
-   ]
-  },
-  {
    "content_id": "282d8e334fa7a164abf99423f8ba73fca3cc8fee",
    "title": "【すき家】肉がそびえる「ポークロックカレー」発売　肉3個の“肉トリプル”や、“にんにくファイヤー”も登場",
    "url": "https://news.yahoo.co.jp/articles/282d8e334fa7a164abf99423f8ba73fca3cc8fee",
@@ -966,42 +1804,6 @@
    "published_at": "2026-08-10T12:20:00+09:00",
    "matched_keywords": [
     "すき家"
-   ]
-  },
-  {
-   "content_id": "85556663f433e78880487834987251fbdcbaadc8",
-   "title": "アップル、iPhone 17を間もなく値上げか",
-   "url": "https://news.yahoo.co.jp/articles/85556663f433e78880487834987251fbdcbaadc8",
-   "source": "Forbes JAPAN",
-   "category": "IT総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00102612-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-10T12:00:00+09:00",
-   "matched_keywords": [
-    "値上げ"
-   ]
-  },
-  {
-   "content_id": "23c73e8df436973f06f3333a5b797e3ec650affd",
-   "title": "コンビニおにぎりもここで生まれた！ セブンイレブン誕生の瞬間",
-   "url": "https://news.yahoo.co.jp/articles/23c73e8df436973f06f3333a5b797e3ec650affd",
-   "source": "THE21オンライン",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010000-php_t-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=386&cy=0&cw=741&ch=741&exp=10800",
-   "published_at": "2026-08-10T11:53:00+09:00",
-   "matched_keywords": [
-    "セブン"
-   ]
-  },
-  {
-   "content_id": "6a3290e5d765718381c171a371c34204ecc6780b",
-   "title": "ドーナツみたいでかわいい!セブンに「おかしなチキン（ブタメンとんこつ味）」が登場　駄菓子の定番「ブタメン」がチキン化!",
-   "url": "https://news.yahoo.co.jp/articles/6a3290e5d765718381c171a371c34204ecc6780b",
-   "source": "めざましmedia",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00333091-fujitv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=1200&ch=1200&exp=10800",
-   "published_at": "2026-08-10T11:50:00+09:00",
-   "matched_keywords": [
-    "セブン"
    ]
   },
   {
@@ -1017,79 +1819,6 @@
    ]
   },
   {
-   "content_id": "c68c2c08bb5151d95fdf7925320f7ee90025d6a3",
-   "title": "食料品の消費税減税に52.9％が賛成　高市内閣支持率は横ばい62.5％　熊本地震への対応を9割近くが評価【FNN世論調査】",
-   "url": "https://news.yahoo.co.jp/articles/c68c2c08bb5151d95fdf7925320f7ee90025d6a3",
-   "source": "FNNプライムオンライン（フジテレビ系）",
-   "category": "政治",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-01191879-fnn-000-7-thumb.jpg?pri=l&w=192&h=108&exp=10800",
-   "published_at": "2026-08-10T11:37:00+09:00",
-   "matched_keywords": [
-    "消費税",
-    "食料品"
-   ]
-  },
-  {
-   "content_id": "3b85649568c518f8d09aab2539b0b2fc84b0c824",
-   "title": "「消費税を下げようとすると、野党が『よくない』と言うのが理解できない」片山さつき財務大臣が静岡市清水区で講演",
-   "url": "https://news.yahoo.co.jp/articles/3b85649568c518f8d09aab2539b0b2fc84b0c824",
-   "source": "静岡朝日テレビ",
-   "category": "静岡",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00094857-satvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
-   "published_at": "2026-08-10T11:24:00+09:00",
-   "matched_keywords": [
-    "消費税"
-   ]
-  },
-  {
-   "content_id": "02172ca8143323e267aa0558d27ab1b874b2de76",
-   "title": "ローソン、マチカフェからゆず・レモン・グレープフルーツ・オレンジが入った「アイスゆずシトラスティー」発売",
-   "url": "https://news.yahoo.co.jp/articles/02172ca8143323e267aa0558d27ab1b874b2de76",
-   "source": "グルメ Watch",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000008-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=129&cy=0&cw=342&ch=342&exp=10800",
-   "published_at": "2026-08-10T11:24:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
-   "content_id": "160cfdf28e2b040eddb0252431001edc21b4ec23",
-   "title": "【倒産】競合との争い厳しく債務超過に　人材派遣会社が破産開始決定　負債総額は約8000万円【東京商工リサーチ】",
-   "url": "https://news.yahoo.co.jp/articles/160cfdf28e2b040eddb0252431001edc21b4ec23",
-   "source": "RKB毎日放送",
-   "category": "福岡",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-22863326-rkbv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800",
-   "published_at": "2026-08-10T11:17:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "b90cb9a2aca6119728abd11cdae4991e6be92f22",
-   "title": "【倒産】負債額は8億円超…新潟・見附市で不動産賃貸業を手掛ける会社が破産開始決定　多額の借入金が経営を圧迫",
-   "url": "https://news.yahoo.co.jp/articles/b90cb9a2aca6119728abd11cdae4991e6be92f22",
-   "source": "新潟ニュースNST",
-   "category": "新潟",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-90031880-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
-   "published_at": "2026-08-10T11:00:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "ed407ae14a0d87e4b8672a9c777fbc8d64e1bce4",
-   "title": "「食べ切った人はひとりもいないのよ」　店員のひと言に困惑…日本人が理解できなかったアメリカ外食文化",
-   "url": "https://news.yahoo.co.jp/articles/ed407ae14a0d87e4b8672a9c777fbc8d64e1bce4",
-   "source": "Hint-Pot",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010006-hintpot-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=600&ch=600&exp=10800",
-   "published_at": "2026-08-10T10:48:00+09:00",
-   "matched_keywords": [
-    "外食"
-   ]
-  },
-  {
    "content_id": "52f698197deaa2f77ed82b8f3b36fd62364e3868",
    "title": "消費税減税「なぜ食料品のみ…」外食産業から懸念の声　店内飲食との税率差が“9％”に",
    "url": "https://news.yahoo.co.jp/articles/52f698197deaa2f77ed82b8f3b36fd62364e3868",
@@ -1098,21 +1827,7 @@
    "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010001-tokyomxv-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
    "published_at": "2026-08-10T10:40:00+09:00",
    "matched_keywords": [
-    "外食",
-    "食料品",
     "外食産業"
-   ]
-  },
-  {
-   "content_id": "a29323609dcbcbedb2f62ae16309942b05e673b0",
-   "title": "マクドナルド、宅配の「朝マック」“最低注文料金”を変更へ　1000円→1500円に、8・18より",
-   "url": "https://news.yahoo.co.jp/articles/a29323609dcbcbedb2f62ae16309942b05e673b0",
-   "source": "オリコン",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000362-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=420&ch=420&exp=10800",
-   "published_at": "2026-08-10T10:31:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
    ]
   },
   {
@@ -1128,18 +1843,6 @@
    ]
   },
   {
-   "content_id": "861ba6ff612d30def4cdbf29bf13450d384ad537",
-   "title": "木造建築工事業の倒産　7月までに159件、過去10年で最多ペース　価格高騰や人手不足など影響",
-   "url": "https://news.yahoo.co.jp/articles/861ba6ff612d30def4cdbf29bf13450d384ad537",
-   "source": "帝国データバンク",
-   "category": "産業",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010001-teikokudb-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=24&cy=0&cw=270&ch=270&exp=10800",
-   "published_at": "2026-08-10T10:00:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
    "content_id": "27c85c54809ba5302238fd2fa87949aac7c79263",
    "title": "スシローが「京樽」を和食さとに譲渡　5年前に吉野家から買収…回転ずしに経営資源を集中",
    "url": "https://news.yahoo.co.jp/articles/27c85c54809ba5302238fd2fa87949aac7c79263",
@@ -1152,54 +1855,6 @@
    ]
   },
   {
-   "content_id": "078211dfba8416c3e1ffc6b9d4936f4da2e007b0",
-   "title": "秋にかけて値上げの動きが本格化：原油価格と為替が現状のままであれば11月以降値上げは徐々に沈静化へ",
-   "url": "https://news.yahoo.co.jp/articles/078211dfba8416c3e1ffc6b9d4936f4da2e007b0",
-   "source": "NRI研究員の時事解説",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00010001-nrin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=67&cy=0&cw=976&ch=976&exp=10800",
-   "published_at": "2026-08-10T08:10:00+09:00",
-   "matched_keywords": [
-    "値上げ"
-   ]
-  },
-  {
-   "content_id": "3af933ec5b12c9f781051ed6e0e5f3ab3ad01174",
-   "title": "静岡『さわやか』が値上げも「まだ全然安い」と歓迎の声、消費者が揺らがない“ハンバーグ”のブランド力",
-   "url": "https://news.yahoo.co.jp/articles/3af933ec5b12c9f781051ed6e0e5f3ab3ad01174",
-   "source": "週刊女性PRIME",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00043002-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=413&ch=413&exp=10800",
-   "published_at": "2026-08-10T08:00:00+09:00",
-   "matched_keywords": [
-    "値上げ"
-   ]
-  },
-  {
-   "content_id": "11d53a21fc9a34a300b5fcce9fd02ab2bd39e170",
-   "title": "【マクドナルド】ポテトM・Lサイズ“お得”に　12日間限定「トクニナルド」実施　堺雅人の新CMも",
-   "url": "https://news.yahoo.co.jp/articles/11d53a21fc9a34a300b5fcce9fd02ab2bd39e170",
-   "source": "オトナンサー",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00384050-otonans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800",
-   "published_at": "2026-08-10T07:45:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
-   ]
-  },
-  {
-   "content_id": "bbdd719324b848c7658d5192dccae78e0cbe7d6b",
-   "title": "｢近所のスーパーが消えた町｣に商機がある…\"鈴木モデル\"飽和のコンビニ業界でローソンが仕掛けた次の一手",
-   "url": "https://news.yahoo.co.jp/articles/bbdd719324b848c7658d5192dccae78e0cbe7d6b",
-   "source": "プレジデントオンライン",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00116866-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=333&cy=0&cw=898&ch=898&exp=10800",
-   "published_at": "2026-08-10T07:15:00+09:00",
-   "matched_keywords": [
-    "ローソン"
-   ]
-  },
-  {
    "content_id": "5b751319da4a953e34061981d512c21bc93165c6",
    "title": "【消費減税の影響は】来年4月から2年間は飲食料品1％、外食は10％―家計には朗報だが外食産業には「9％の壁」という深刻な逆風が…テイクアウト強化も限定的か_存続できなく飲食店もー政府の対応に注目集まる",
    "url": "https://news.yahoo.co.jp/articles/5b751319da4a953e34061981d512c21bc93165c6",
@@ -1208,80 +1863,7 @@
    "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-01191857-fnnprimev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
    "published_at": "2026-08-10T07:01:00+09:00",
    "matched_keywords": [
-    "外食",
     "外食産業"
-   ]
-  },
-  {
-   "content_id": "e8f986caa6a4cee6982f33dcc09e0897f7a3bd6c",
-   "title": "GR86が一部改良　さすがは太っ腹のトヨタ　値上げしたBRZに対し、GR86は据え置き",
-   "url": "https://news.yahoo.co.jp/articles/e8f986caa6a4cee6982f33dcc09e0897f7a3bd6c",
-   "source": "ENGINE WEB",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-03354322-engine-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-10T06:00:00+09:00",
-   "matched_keywords": [
-    "値上げ"
-   ]
-  },
-  {
-   "content_id": "38c5265614e7adbf622e4bf654154ebac2f9415d",
-   "title": "堺雅人、永尾柚乃とマクドナルドCMで初共演「9歳とは思えない」熱演にタジタジ",
-   "url": "https://news.yahoo.co.jp/articles/38c5265614e7adbf622e4bf654154ebac2f9415d",
-   "source": "モデルプレス",
-   "category": "エンタメ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-04826469-mdpr-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=220&cy=0&cw=394&ch=394&exp=10800",
-   "published_at": "2026-08-10T04:00:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
-   ]
-  },
-  {
-   "content_id": "ec6c2c130657c61b4d4e28947461b9f8fdcb195f",
-   "title": "マクドナルド、最大150円引き「マックフライポテト」M・Lサイズが250円に！「トクニナルド」キャンペーン",
-   "url": "https://news.yahoo.co.jp/articles/ec6c2c130657c61b4d4e28947461b9f8fdcb195f",
-   "source": "グルメ Watch",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000002-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=214&cy=0&cw=532&ch=532&exp=10800",
-   "published_at": "2026-08-10T04:00:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
-   ]
-  },
-  {
-   "content_id": "e6bf6297889aa5cbbfbbefc3439f954fe11f504b",
-   "title": "【マクドナルド】マックフライポテトが250円に！  「トクニナルド」キャンペーンが8月17日にスタート",
-   "url": "https://news.yahoo.co.jp/articles/e6bf6297889aa5cbbfbbefc3439f954fe11f504b",
-   "source": "GAME Watch",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000004-impgmw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=105&cy=0&cw=270&ch=270&exp=10800",
-   "published_at": "2026-08-10T04:00:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
-   ]
-  },
-  {
-   "content_id": "ffc403a822df6068ab2dd5b8dd03475d2a73b9c9",
-   "title": "マクドナルド、8・17から『マックフライポテト』（M・L）が250円に　新CMで堺雅人＆永尾柚乃が共演",
-   "url": "https://news.yahoo.co.jp/articles/ffc403a822df6068ab2dd5b8dd03475d2a73b9c9",
-   "source": "オリコン",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260810-00000334-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=540&ch=540&exp=10800",
-   "published_at": "2026-08-10T04:00:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
-   ]
-  },
-  {
-   "content_id": "3c876d03697b90d52468e252775379b74ecd7817",
-   "title": "7月の倒産94件、負債総額6割増　東海3県　大型倒産響く",
-   "url": "https://news.yahoo.co.jp/articles/3c876d03697b90d52468e252775379b74ecd7817",
-   "source": "読売新聞オンライン",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
-   "published_at": "2026-08-09T15:25:00+09:00",
-   "matched_keywords": [
-    "倒産"
    ]
   },
   {
@@ -1309,30 +1891,6 @@
    ]
   },
   {
-   "content_id": "ee09bb0d18ef4a275743317600860f25635d0491",
-   "title": "「食べやすいサイズになりました」→実質値上げでは！？　物価上昇が続く中、消費者が“コスト削減”を実感する場面",
-   "url": "https://news.yahoo.co.jp/articles/ee09bb0d18ef4a275743317600860f25635d0491",
-   "source": "オトナンサー",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260809-00382794-otonans-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=242&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-09T12:15:00+09:00",
-   "matched_keywords": [
-    "値上げ"
-   ]
-  },
-  {
-   "content_id": "22333ad5a724026472bbef5f282e74c7592bd174",
-   "title": "巨額倒産の全東信、ゴルフ界被害はほぼゼロ!? 街のショップが巻き込まれなかったワケ",
-   "url": "https://news.yahoo.co.jp/articles/22333ad5a724026472bbef5f282e74c7592bd174",
-   "source": "みんなのゴルフダイジェスト",
-   "category": "ゴルフ",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260809-00010005-minnagolf-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=181&cy=0&cw=455&ch=455&exp=10800",
-   "published_at": "2026-08-09T11:31:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
    "content_id": "024d7dabf3197ef6681daf8a11d0305312c69926",
    "title": "【8日間限定】人気カツ丼や定食が「150円引き＆ご飯大盛無料」に！かつや「感謝祭」スタート",
    "url": "https://news.yahoo.co.jp/articles/024d7dabf3197ef6681daf8a11d0305312c69926",
@@ -1345,42 +1903,6 @@
    ]
   },
   {
-   "content_id": "229811503adfa485b972ceb35817d2a24b0a1954",
-   "title": "従業員退職で倒産　過去最多ペース　賃上げできず中核キーマンの流出相次ぐ",
-   "url": "https://news.yahoo.co.jp/articles/229811503adfa485b972ceb35817d2a24b0a1954",
-   "source": "テレビ朝日系（ANN）",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260809-00000011-ann-000-11-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
-   "published_at": "2026-08-09T09:38:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "d6261ea58f7d5e5d2937642a7896795cdcc7c57b",
-   "title": "東北の7月の企業倒産　歴代2位の63件　飲食、建設の収益悪化",
-   "url": "https://news.yahoo.co.jp/articles/d6261ea58f7d5e5d2937642a7896795cdcc7c57b",
-   "source": "河北新報",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00000048-khks-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=219&cy=0&cw=563&ch=563&exp=10800",
-   "published_at": "2026-08-09T09:08:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "68b2922cab7b62810f27b7b5509dfe65bd6133fc",
-   "title": "【倒産】外構工事業が破産開始決定…住宅リフォーム工事も手掛け、かつては5,000万円を超える売上高を計上するも…競合の存在も影響し受注が伸び悩み、資金繰りが悪化【東京商工リサーチ】",
-   "url": "https://news.yahoo.co.jp/articles/68b2922cab7b62810f27b7b5509dfe65bd6133fc",
-   "source": "RSK山陽放送",
-   "category": "岡山",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260809-22859240-rsk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
-   "published_at": "2026-08-09T07:00:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
    "content_id": "abb5de2d9388072577f4817609bcd0de4ed395b0",
    "title": "「今日ケンタッキーにすると心に決めた…」全サイズ100円のドリンクに衝撃「太っ腹」「めっちゃお得」",
    "url": "https://news.yahoo.co.jp/articles/abb5de2d9388072577f4817609bcd0de4ed395b0",
@@ -1390,18 +1912,6 @@
    "published_at": "2026-08-08T18:35:00+09:00",
    "matched_keywords": [
     "ケンタッキー"
-   ]
-  },
-  {
-   "content_id": "0ca0403fc6ab936ad44f9eacff25e87e5a957e18",
-   "title": "杉谷拳士、ドナルド・マクドナルドと始球式に登場　“小学生の甲子園”で熱いエール「この経験が未来につながる大切な時間になる」",
-   "url": "https://news.yahoo.co.jp/articles/0ca0403fc6ab936ad44f9eacff25e87e5a957e18",
-   "source": "オリコン",
-   "category": "エンタメ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260808-00000435-oric-000-1-view.jpg?pri=l&w=192&h=127&exp=10800",
-   "published_at": "2026-08-08T16:01:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
    ]
   },
   {
@@ -1436,307 +1946,6 @@
    "category": "経済総合",
    "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260808-00010000-moneyplus-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=334&cy=0&cw=1333&ch=1333&exp=10800",
    "published_at": "2026-08-08T07:30:00+09:00",
-   "matched_keywords": [
-    "すき家"
-   ]
-  },
-  {
-   "content_id": "51ca907a64e1dd9ef9308f622c0f1db5ebe3c341",
-   "title": "〔決算〕日本マクドナルドHD、通期業績予想を上方修正",
-   "url": "https://news.yahoo.co.jp/articles/51ca907a64e1dd9ef9308f622c0f1db5ebe3c341",
-   "source": "時事通信",
-   "category": "株式",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
-   "published_at": "2026-08-07T20:01:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
-   ]
-  },
-  {
-   "content_id": "ca1adb26a1f72b79545171b150a5b00f087e7838",
-   "title": "マクドナルド、マックデリバリーの朝マックの最低注文料金が500円値上げ。8月18日より1,500円から受付",
-   "url": "https://news.yahoo.co.jp/articles/ca1adb26a1f72b79545171b150a5b00f087e7838",
-   "source": "GAME Watch",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260807-00000018-impgmw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=98&cy=0&cw=285&ch=285&exp=10800",
-   "published_at": "2026-08-07T15:21:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
-   ]
-  },
-  {
-   "content_id": "6d2a8a5e93112f83941fb17990881d34fc31b287",
-   "title": "そらザウルスやギャルきち、団長の吉野家Tシャツも！「hololive Splash T-Party!」全Tシャツラインナップ公開＆オンライン販売開始",
-   "url": "https://news.yahoo.co.jp/articles/6d2a8a5e93112f83941fb17990881d34fc31b287",
-   "source": "GAME Watch",
-   "category": "ゲーム",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260807-00000016-impgmw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=240&ch=240&exp=10800",
-   "published_at": "2026-08-07T15:04:00+09:00",
-   "matched_keywords": [
-    "吉野家"
-   ]
-  },
-  {
-   "content_id": "896b017d8d99d4b162b5f8babebeb30ab4064d5d",
-   "title": "【松屋】630円「松屋の牛焼肉丼」発売　「牛カルビホルモン丼」も",
-   "url": "https://news.yahoo.co.jp/articles/896b017d8d99d4b162b5f8babebeb30ab4064d5d",
-   "source": "オトナンサー",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260807-00383355-otonans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=300&cy=0&cw=600&ch=600&exp=10800",
-   "published_at": "2026-08-07T13:15:00+09:00",
-   "matched_keywords": [
-    "松屋"
-   ]
-  },
-  {
-   "content_id": "83a49af5c0dd4797e52bb460c408a8f7d4dbfb64",
-   "title": "「これウマすぎる」「絶対食べる」すき家の『夏限定720円どんぶり』猛暑もふき飛ぶぐらい美味しくてハマまりました！《実食レビュー》",
-   "url": "https://news.yahoo.co.jp/articles/83a49af5c0dd4797e52bb460c408a8f7d4dbfb64",
-   "source": "ハフポスト日本版",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260807-00010019-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=612&ch=612&exp=10800",
-   "published_at": "2026-08-07T12:30:00+09:00",
-   "matched_keywords": [
-    "すき家"
-   ]
-  },
-  {
-   "content_id": "605d6f40f2765ef45a4d235e11df9f8253886d13",
-   "title": "「おじさんは来るなと？」松のや“ママ応援企画”に批判殺到→謝罪…キャンペーンは「男女差別」だったのか【弁護士解説】",
-   "url": "https://news.yahoo.co.jp/articles/605d6f40f2765ef45a4d235e11df9f8253886d13",
-   "source": "弁護士JPニュース",
-   "category": "社会",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260807-00010002-bengojp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=320&ch=320&exp=10800",
-   "published_at": "2026-08-07T10:40:00+09:00",
-   "matched_keywords": [
-    "松のや"
-   ]
-  },
-  {
-   "content_id": "690ff5889d7229dbdbe1dbdc92676ecead14735a",
-   "title": "松のや、甘酸っぱく爽やかな「オレンジソース唐揚げ定食」を発売。暑い夏でもさっぱり！",
-   "url": "https://news.yahoo.co.jp/articles/690ff5889d7229dbdbe1dbdc92676ecead14735a",
-   "source": "グルメ Watch",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260807-00000008-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=480&ch=480&exp=10800",
-   "published_at": "2026-08-07T10:33:00+09:00",
-   "matched_keywords": [
-    "松のや"
-   ]
-  },
-  {
-   "content_id": "5a4e91b1c3b8e5b6b5a660b5c708e9bbcada12ae",
-   "title": "＜ポケモン＞マクドナルド「ハッピーセット」本日発売　30種のポケモンが玩具に　歴代旅立ちの3匹　ピカチュウ、イーブイ、カビゴンも",
-   "url": "https://news.yahoo.co.jp/articles/5a4e91b1c3b8e5b6b5a660b5c708e9bbcada12ae",
-   "source": "MANTANWEB",
-   "category": "エンタメ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260807-00000011-mantan-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1065&ch=1065&exp=10800",
-   "published_at": "2026-08-07T07:03:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
-   ]
-  },
-  {
-   "content_id": "427b8b8c55d33bd5959691c29f1d5a52808a5937",
-   "title": "【今日から】マクドナルド、次のハッピーセットは「ポケモン」　おもちゃ全12種類にSNS「こういうのでいいんだよ」",
-   "url": "https://news.yahoo.co.jp/articles/427b8b8c55d33bd5959691c29f1d5a52808a5937",
-   "source": "オトナンサー",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260807-00382670-otonans-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1130&ch=1130&exp=10800",
-   "published_at": "2026-08-07T06:45:00+09:00",
-   "matched_keywords": [
-    "マクドナルド"
-   ]
-  },
-  {
-   "content_id": "04438623a15d0633121cc7ec034d77f17bda5e3a",
-   "title": "【消費減税の影響は】来年4月から2年間は飲食料品1%、外食は10%―家計には朗報だが外食産業には「9％の壁」という深刻な逆風が…テイクアウト強化も限定的か＿存続できなくなる飲食店もー政府の対応に注目",
-   "url": "https://news.yahoo.co.jp/articles/04438623a15d0633121cc7ec034d77f17bda5e3a",
-   "source": "北海道ニュースUHB",
-   "category": "北海道",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-90061273-hokkaibunv-000-3-thumb.jpg?pri=l&w=192&h=107&order=c2r&cx=0&cy=237&cw=1080&ch=607&exp=10800",
-   "published_at": "2026-08-06T20:10:00+09:00",
-   "matched_keywords": [
-    "外食産業"
-   ]
-  },
-  {
-   "content_id": "e034dad6fbc9523c7c3b3cf00e27e7b37fad6080",
-   "title": "すき家、「Sukiシェイク マスカット」発売 マスカット･オブ･アレキサンドリア果汁使用の夏限定フレーバー",
-   "url": "https://news.yahoo.co.jp/articles/e034dad6fbc9523c7c3b3cf00e27e7b37fad6080",
-   "source": "食品産業新聞社ニュースWEB",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00010019-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=302&cw=1461&ch=1461&exp=10800",
-   "published_at": "2026-08-06T18:33:00+09:00",
-   "matched_keywords": [
-    "すき家"
-   ]
-  },
-  {
-   "content_id": "761189177e564bc13a003a59f79f656f396b07e7",
-   "title": "「もう5回くらい食べてる」すき家の“やけくそメニュー”美味しすぎてライス追加注文した！「クソ美味い」「好きすぎる」《実食レビュー》",
-   "url": "https://news.yahoo.co.jp/articles/761189177e564bc13a003a59f79f656f396b07e7",
-   "source": "ダイヤモンド・オンライン",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00396144-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-06T16:51:00+09:00",
-   "matched_keywords": [
-    "すき家"
-   ]
-  },
-  {
-   "content_id": "7d3f880f05f8288208a1939b3a2cfe7739d24ce1",
-   "title": "松屋、牛肉を焼き上げた“ド直球”の新作2品 「牛カルビホルモン丼」「牛焼肉丼」を販売",
-   "url": "https://news.yahoo.co.jp/articles/7d3f880f05f8288208a1939b3a2cfe7739d24ce1",
-   "source": "食品産業新聞社ニュースWEB",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00010009-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=275&cy=0&cw=1650&ch=1650&exp=10800",
-   "published_at": "2026-08-06T14:18:00+09:00",
-   "matched_keywords": [
-    "松屋"
-   ]
-  },
-  {
-   "content_id": "71f4bb9412691c8da81bd717feec634b278ce90d",
-   "title": "バリー・マニロウ、“予期せぬ事情”により延期されていた米ケンタッキー公演を再度中止",
-   "url": "https://news.yahoo.co.jp/articles/71f4bb9412691c8da81bd717feec634b278ce90d",
-   "source": "Billboard JAPAN",
-   "category": "音楽",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00164245-exp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=141&cy=0&cw=571&ch=571&exp=10800",
-   "published_at": "2026-08-06T14:05:00+09:00",
-   "matched_keywords": [
-    "ケンタッキー"
-   ]
-  },
-  {
-   "content_id": "e725be9e48af5a7e46b4cd543228d49de13e6dc0",
-   "title": "松屋に“ド直球”の2品が登場　鉄板で香ばしく仕上げた肉＆タレの旨味で箸が止まらない",
-   "url": "https://news.yahoo.co.jp/articles/e725be9e48af5a7e46b4cd543228d49de13e6dc0",
-   "source": "オリコン",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00000373-oric-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=480&ch=480&exp=10800",
-   "published_at": "2026-08-06T11:06:00+09:00",
-   "matched_keywords": [
-    "松屋"
-   ]
-  },
-  {
-   "content_id": "a45c2946a91ce7a9605c933aacd56314ab983ae8",
-   "title": "松屋、牛肉を鉄板で焼き上げた「牛カルビホルモン丼」「松屋の牛焼肉丼」を発売",
-   "url": "https://news.yahoo.co.jp/articles/a45c2946a91ce7a9605c933aacd56314ab983ae8",
-   "source": "グルメ Watch",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00000005-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=480&ch=480&exp=10800",
-   "published_at": "2026-08-06T10:27:00+09:00",
-   "matched_keywords": [
-    "松屋"
-   ]
-  },
-  {
-   "content_id": "3da3f0daae6d83ded98f0b2d91b324673d2ba332",
-   "title": "松のやの「ママ応援割引」が大炎上……内容そっくりの「吉野家」のキャンペーンは燃えなかった“ネーミング”の差",
-   "url": "https://news.yahoo.co.jp/articles/3da3f0daae6d83ded98f0b2d91b324673d2ba332",
-   "source": "ITmedia ビジネスオンライン",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260806-00000008-zdn_mkt-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=74&cy=0&cw=442&ch=442&exp=10800",
-   "published_at": "2026-08-06T08:10:00+09:00",
-   "matched_keywords": [
-    "吉野家",
-    "松のや"
-   ]
-  },
-  {
-   "content_id": "d27595220a59aa66de7c08ce1e6dd3c32944ccc3",
-   "title": "「外食産業が首を絞められている感じ」食品消費税1％も“外食は10％維持”　 飲食店から懸念の声「家で食べようってなるのでは」　街の人は「率直にうれしい」「2年後に戻るのが心配」",
-   "url": "https://news.yahoo.co.jp/articles/d27595220a59aa66de7c08ce1e6dd3c32944ccc3",
-   "source": "NBS長野放送",
-   "category": "長野",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260805-90029328-nbstv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=524&ch=524&exp=10800",
-   "published_at": "2026-08-05T19:55:00+09:00",
-   "matched_keywords": [
-    "外食産業"
-   ]
-  },
-  {
-   "content_id": "9b9783689bcdc796a88d0eb8590d37ce83e7aa8b",
-   "title": "「あまりの美味さに2日連続」松屋の“お肉てんこ盛りメニュー”何度もリピートしたくなる！「美味すぎて涙が止まらん」「思ったより量がある」《実食レビュー》",
-   "url": "https://news.yahoo.co.jp/articles/9b9783689bcdc796a88d0eb8590d37ce83e7aa8b",
-   "source": "ダイヤモンド・オンライン",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260805-00396111-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800",
-   "published_at": "2026-08-05T17:12:00+09:00",
-   "matched_keywords": [
-    "松屋"
-   ]
-  },
-  {
-   "content_id": "e9147db8c13549eb989182e8bd6d5d39507352d2",
-   "title": "【吉野家】期間限定「極旨牛鉄板ステーキ定食」登場　“熱々”の鉄板で提供、牛肉はミディアムレアに",
-   "url": "https://news.yahoo.co.jp/articles/e9147db8c13549eb989182e8bd6d5d39507352d2",
-   "source": "食品産業新聞社ニュースWEB",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260805-00010007-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=209&cy=0&cw=583&ch=583&exp=10800",
-   "published_at": "2026-08-05T13:24:00+09:00",
-   "matched_keywords": [
-    "吉野家"
-   ]
-  },
-  {
-   "content_id": "fffd4f299b3eed5e58d3c6b1826d49ba98b049ea",
-   "title": "ケンタッキー、全国1400店で生肉から一本一本調理　カーネルも認めた「日本のチキン」支える現場",
-   "url": "https://news.yahoo.co.jp/articles/fffd4f299b3eed5e58d3c6b1826d49ba98b049ea",
-   "source": "食品産業新聞社ニュースWEB",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260805-00010006-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=164&cw=1872&ch=1872&exp=10800",
-   "published_at": "2026-08-05T12:30:00+09:00",
-   "matched_keywords": [
-    "ケンタッキー"
-   ]
-  },
-  {
-   "content_id": "df912b12b282ef32b4d4c810bddba8aee98bb098",
-   "title": "『松のや』《ママ応援企画》→《夏休み企画》に名称変更、真摯対応も「自分たちの首を絞める」企業スタンス",
-   "url": "https://news.yahoo.co.jp/articles/df912b12b282ef32b4d4c810bddba8aee98bb098",
-   "source": "週刊女性PRIME",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260805-00042954-jprime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=104&cy=0&cw=413&ch=413&exp=10800",
-   "published_at": "2026-08-05T10:00:00+09:00",
-   "matched_keywords": [
-    "松のや"
-   ]
-  },
-  {
-   "content_id": "e3feec93ea84f2652e13d09f9e242183fdd0ee5c",
-   "title": "「生のレタスから寄生虫！？」米で3000人超が感染。人気ファストフード店も調査",
-   "url": "https://news.yahoo.co.jp/articles/e3feec93ea84f2652e13d09f9e242183fdd0ee5c",
-   "source": "ウィメンズヘルス",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260804-00010001-womensh-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800",
-   "published_at": "2026-08-04T21:00:00+09:00",
-   "matched_keywords": [
-    "ファストフード"
-   ]
-  },
-  {
-   "content_id": "fa6201a8601c6ce5d2bfb1ec3075761d238fa5fd",
-   "title": "ドラクエ好きの投稿者「吉野家で転売ヤーだと思われたくない」驚きのバッグの数々に「なるほど」「ガチ勢ですね」",
-   "url": "https://news.yahoo.co.jp/articles/fa6201a8601c6ce5d2bfb1ec3075761d238fa5fd",
-   "source": "LIMO",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260804-00134005-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=166&cy=0&cw=668&ch=668&exp=10800",
-   "published_at": "2026-08-04T19:16:00+09:00",
-   "matched_keywords": [
-    "吉野家"
-   ]
-  },
-  {
-   "content_id": "2406900e873a8c8d25694c5697a625cec94edca7",
-   "title": "すき家・なか卯で通うほどお得に！最大15倍Vポイントキャンペーン8月開催",
-   "url": "https://news.yahoo.co.jp/articles/2406900e873a8c8d25694c5697a625cec94edca7",
-   "source": "マネーの達人",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260804-00000012-manetatsun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=302&cy=0&cw=197&ch=197&exp=10800",
-   "published_at": "2026-08-04T16:00:00+09:00",
    "matched_keywords": [
     "すき家"
    ]
