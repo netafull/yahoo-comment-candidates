@@ -2,7 +2,9 @@ name: Update comment candidates feed
 
 on:
   schedule:
-    - cron: "0 23,9 * * *" # 1日2回: JST 8:00 / 18:00 (UTC 23:00 / 09:00)
+    # 6時間おき。1回の実行で「コンビニ」は約8.6時間分しかさかのぼれないため、
+    # 実行間隔をそれより短くしないと取りこぼしが出る（実測値に基づく）
+    - cron: "0 */6 * * *"
   push:
     branches: [main]
     paths-ignore:

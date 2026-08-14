@@ -101,6 +101,32 @@ def parse_publish_time(pub: dict, now_jst: datetime.datetime) -> str | None:
     return dt.isoformat()
 
 
+def load_previous(cutoff_iso: str) -> dict[str, dict]:
+    """前回までに収集した記事のうち、まだ収集期間内のものを読み込む。
+
+    Yahoo!ニュース検索は1キーワードにつき最新60件しか返さず、ページ送りも
+    埋め込みJSONには効かない。そのため「コンビニ」のような多ヒット語では
+    1回の実行で数時間分しかさかのぼれない。毎回上書きすると実行間隔より
+    短い範囲しか残らないため、過去の収集結果に積み増していく。
+    """
+    if not OUTPUT_PATH.exists():
+        return {}
+    try:
+        prev = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return {}
+
+    kept = {}
+    for a in prev.get("articles", []):
+        cid = a.get("content_id")
+        if not cid or not a.get("published_at"):
+            continue
+        if a["published_at"] < cutoff_iso:
+            continue
+        kept[cid] = a
+    return kept
+
+
 def search_keyword(keyword: str, exclude_patterns: list[str], now_jst: datetime.datetime) -> list[dict]:
     html = fetch_html(keyword)
     state = extract_preloaded_state(html)
@@ -162,25 +188,32 @@ def main() -> None:
     hours_window = config.get("hours_window", 48)
 
     now_jst = datetime.datetime.now(tz=JST)
-    cutoff = now_jst - datetime.timedelta(hours=hours_window)
+    cutoff_iso = (now_jst - datetime.timedelta(hours=hours_window)).isoformat()
 
-    articles: dict[str, dict] = {}
+    # 前回までの収集結果に積み増す（1回の実行では数時間分しか取れないため）
+    articles: dict[str, dict] = load_previous(cutoff_iso)
+    carried_over = len(articles)
     errors: list[str] = []
 
     for i, kw in enumerate(keywords):
         try:
             items = search_keyword(kw, exclude_patterns, now_jst)
-        except (urllib.error.URLError, ValueError) as e:
+        except (urllib.error.URLError, TimeoutError, ValueError) as e:
+            # TimeoutErrorはURLErrorの派生ではないため個別に捕捉する。
+            # 1語の失敗で全体が落ちると、その回の収集結果がまるごと失われる。
             errors.append(f"{kw}: {e}")
             continue
 
         for it in items:
-            if it["published_at"] < cutoff.isoformat():
+            if it["published_at"] < cutoff_iso:
                 continue
             cid = it["content_id"]
+            if not cid:
+                continue
             if cid in articles:
-                if kw not in articles[cid]["matched_keywords"]:
-                    articles[cid]["matched_keywords"].append(kw)
+                merged = articles[cid].setdefault("matched_keywords", [])
+                if kw not in merged:
+                    merged.append(kw)
             else:
                 articles[cid] = it
 
@@ -199,7 +232,10 @@ def main() -> None:
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(json.dumps(output, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{len(article_list)}件取得（エラー{len(errors)}件） -> {OUTPUT_PATH}")
+    print(
+        f"{len(article_list)}件（前回から引き継ぎ {carried_over}件 / "
+        f"今回の新規 {len(article_list) - carried_over}件、エラー{len(errors)}件） -> {OUTPUT_PATH}"
+    )
 
 
 if __name__ == "__main__":

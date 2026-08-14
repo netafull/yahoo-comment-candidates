@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T19:00:05.916911+09:00",
+ "generated_at": "2026-08-14T23:11:57.117385+09:00",
  "hours_window": 168,
  "keywords": [
   "コンビニ",
@@ -18,12 +18,84 @@
   "マクドナルド",
   "ケンタッキー",
   "セブン",
-  "セブン-イレブン",
   "ファミリーマート",
   "ローソン"
  ],
  "errors": [],
  "articles": [
+  {
+   "content_id": "6f7dab7f412ccf5326a2dc3bc97a6c5c66b243e4",
+   "title": "ハイエンドスマホに昇格した「AQUOS R11」レビュー！5万円超の値上げも納得の完成度",
+   "url": "https://news.yahoo.co.jp/articles/6f7dab7f412ccf5326a2dc3bc97a6c5c66b243e4",
+   "source": "＠ＤＩＭＥ",
+   "category": "IT総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010001-dime-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=169&cy=0&cw=433&ch=433&exp=10800",
+   "published_at": "2026-08-14T21:10:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "047e6a566a6ca077b408a0141971bb77d0dfee26",
+   "title": "【倒産】本場大島紬の製造・販売会社が破産開始決定 負債総額は約4400万円 【東京商工リサーチ】",
+   "url": "https://news.yahoo.co.jp/articles/047e6a566a6ca077b408a0141971bb77d0dfee26",
+   "source": "MBC南日本放送",
+   "category": "鹿児島",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-22873994-mbcnewsv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=315&cy=0&cw=810&ch=810&exp=10800",
+   "published_at": "2026-08-14T20:56:00+09:00",
+   "matched_keywords": [
+    "倒産"
+   ]
+  },
+  {
+   "content_id": "9f59a4bf67af88d8e6a6d1acdd3459cabd206bef",
+   "title": "ローソンやイオンで発見した「新作ちいかわ食玩」、買ってみたら想像以上にすごかった…！（実物レビュー）",
+   "url": "https://news.yahoo.co.jp/articles/9f59a4bf67af88d8e6a6d1acdd3459cabd206bef",
+   "source": "ぴあ",
+   "category": "エンタメ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010017-piaeigat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800",
+   "published_at": "2026-08-14T20:30:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "318c8abc98f3942646695293c8d28d4ed9bb2821",
+   "title": "【ファミマに続くか？】ついに参入！セブンのコンビニ服をライターがガチ検証！Tシャツやエコバッグ全6型のクオリティを正直レビュー",
+   "url": "https://news.yahoo.co.jp/articles/318c8abc98f3942646695293c8d28d4ed9bb2821",
+   "source": "MonoMax Web",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010003-monomax-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-08-14T20:01:00+09:00",
+   "matched_keywords": [
+    "コンビニ",
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "f2c1d2dce3b1fe9451c5274b3bbab7be37a4b2f3",
+   "title": "「セブンイレブン」のオワコン化が始まった　「上げ底弁当」だけじゃない日本人が行かなくなった理由",
+   "url": "https://news.yahoo.co.jp/articles/f2c1d2dce3b1fe9451c5274b3bbab7be37a4b2f3",
+   "source": "J-CASTニュース",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00000017-jct-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-08-14T19:10:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "3e8300b0b5a41eb762b20409b2722bb0131926d6",
+   "title": "「フィット」は6年で約25万円も値上げ。なぜクルマの価格は年々高騰するのか…今後下がることはない？",
+   "url": "https://news.yahoo.co.jp/articles/3e8300b0b5a41eb762b20409b2722bb0131926d6",
+   "source": "carview！",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00010010-carv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-08-14T19:04:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
   {
    "content_id": "ba4b8a9c648ab0737e2e1b3d4b3c77f4e7e40421",
    "title": "「さすがにやりすぎ」「米が足りない」かつやの『てんこ盛り1232円メニュー』揚げ物でご飯が見えないし、ボリュームが半端ないです！",
@@ -1039,18 +1111,6 @@
    ]
   },
   {
-   "content_id": "4e395457964eeee37ef5858220cfc9a5bcc69b7e",
-   "title": "ファミリーマート、「東京ばな奈」とのコラボ5年目は“過去最大規模”に　ワッフルコーン＆ザクほろシューなどスイーツ7種がずらり",
-   "url": "https://news.yahoo.co.jp/articles/4e395457964eeee37ef5858220cfc9a5bcc69b7e",
-   "source": "オリコン",
-   "category": "ライフ総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000442-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800",
-   "published_at": "2026-08-13T15:11:00+09:00",
-   "matched_keywords": [
-    "ファミリーマート"
-   ]
-  },
-  {
    "content_id": "ddf7b4c22819c4323f73a42f2cca614c80a3c7b4",
    "title": "北陸　7月の企業倒産",
    "url": "https://news.yahoo.co.jp/articles/ddf7b4c22819c4323f73a42f2cca614c80a3c7b4",
@@ -1099,18 +1159,6 @@
    ]
   },
   {
-   "content_id": "cdf7dc057ee05b9f2e277036e0f86462e5f6ed5e",
-   "title": "印タタ・モーターズ、4－6月期は増収増益　原材料費高騰で値上げへ",
-   "url": "https://news.yahoo.co.jp/articles/cdf7dc057ee05b9f2e277036e0f86462e5f6ed5e",
-   "source": "ロイター",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-00000080-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=382&cy=0&cw=1437&ch=1437&exp=10800",
-   "published_at": "2026-08-13T12:30:00+09:00",
-   "matched_keywords": [
-    "値上げ"
-   ]
-  },
-  {
    "content_id": "e2fe5000026e4b8a0db82147a6d9c930d3824a11",
    "title": "【不穏なバイト】事故多発、警察沙汰で社長クビ、会社倒産…“バ先”がヤバい！共感覚を持つ作者が実体験を描く【作者に訊く】",
    "url": "https://news.yahoo.co.jp/articles/e2fe5000026e4b8a0db82147a6d9c930d3824a11",
@@ -1120,18 +1168,6 @@
    "published_at": "2026-08-13T12:00:00+09:00",
    "matched_keywords": [
     "倒産"
-   ]
-  },
-  {
-   "content_id": "c4ea568c06130c653a448d5966559f303bdbc819",
-   "title": "中・宝山鋼鉄　鋼材全種　連続値上げ　9月積み",
-   "url": "https://news.yahoo.co.jp/articles/c4ea568c06130c653a448d5966559f303bdbc819",
-   "source": "日刊産業新聞",
-   "category": "経済総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
-   "published_at": "2026-08-13T11:40:00+09:00",
-   "matched_keywords": [
-    "値上げ"
    ]
   },
   {
@@ -1156,18 +1192,6 @@
    "published_at": "2026-08-13T11:20:00+09:00",
    "matched_keywords": [
     "倒産"
-   ]
-  },
-  {
-   "content_id": "30317468af760486828f34a4a7f1057f1dcfedaf",
-   "title": "「Windows 11」のOEMライセンス料が7～10％値上げ？ PC価格高騰に拍車か",
-   "url": "https://news.yahoo.co.jp/articles/30317468af760486828f34a4a7f1057f1dcfedaf",
-   "source": "CNET Japan",
-   "category": "IT総合",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260813-35251530-cnetj-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=960&ch=960&exp=10800",
-   "published_at": "2026-08-13T11:11:00+09:00",
-   "matched_keywords": [
-    "値上げ"
    ]
   },
   {
@@ -1670,18 +1694,6 @@
    "category": "新潟",
    "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-90031870-nsttv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
    "published_at": "2026-08-12T11:00:00+09:00",
-   "matched_keywords": [
-    "倒産"
-   ]
-  },
-  {
-   "content_id": "d625d846432a515eb71798ab7af3dad76d93ce44",
-   "title": "【倒産】空港などの内装･改修手がける工事会社　新型コロナ･元請けからの受注低迷で売上高は半分以下に　負債総額は1億5500万円【東京商工リサーチ】",
-   "url": "https://news.yahoo.co.jp/articles/d625d846432a515eb71798ab7af3dad76d93ce44",
-   "source": "RKB毎日放送",
-   "category": "福岡",
-   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260812-22867146-rkbv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800",
-   "published_at": "2026-08-12T10:20:00+09:00",
    "matched_keywords": [
     "倒産"
    ]
