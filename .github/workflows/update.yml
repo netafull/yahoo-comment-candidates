@@ -41,8 +41,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/candidates.json
-          git diff --staged --quiet || git commit -m "Update candidates data"
-          git push
+          if git diff --staged --quiet; then
+            echo "データに変更なし"
+          else
+            git commit -m "Update candidates data"
+            # 別の実行が先にpushしていた場合に備えて取り込んでから送る
+            git pull --rebase --autostash origin main
+            git push
+          fi
 
       - name: Generate site
         run: python scripts/generate_site.py

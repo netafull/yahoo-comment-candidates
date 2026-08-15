@@ -1,3 +1,6 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# 生成物（CIが毎回作り直してGitHub Pagesへ配信するため、リポジトリでは追跡しない）
+docs/

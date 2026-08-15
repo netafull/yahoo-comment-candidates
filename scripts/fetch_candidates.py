@@ -101,13 +101,35 @@ def parse_publish_time(pub: dict, now_jst: datetime.datetime) -> str | None:
     return dt.isoformat()
 
 
-def load_previous(cutoff_iso: str) -> dict[str, dict]:
+def is_excluded(title: str, category: str, exclude_patterns: list[str], exclude_categories: list[str]) -> bool:
+    """除外条件（タイトル中のNGワード / カテゴリ）に当てはまるか。"""
+    if any(ng in title for ng in exclude_patterns):
+        return True
+    if category in exclude_categories:
+        return True
+    return False
+
+
+def matching_keywords(title: str, keywords: list[str]) -> list[str]:
+    """タイトルに含まれるキーワードを返す（空白区切りは全語を含む場合のみ該当）。"""
+    return [kw for kw in keywords if all(w in title for w in kw.split())]
+
+
+def load_previous(
+    cutoff_iso: str,
+    keywords: list[str],
+    exclude_patterns: list[str],
+    exclude_categories: list[str],
+) -> dict[str, dict]:
     """前回までに収集した記事のうち、まだ収集期間内のものを読み込む。
 
     Yahoo!ニュース検索は1キーワードにつき最新60件しか返さず、ページ送りも
     埋め込みJSONには効かない。そのため「コンビニ」のような多ヒット語では
     1回の実行で数時間分しかさかのぼれない。毎回上書きすると実行間隔より
     短い範囲しか残らないため、過去の収集結果に積み増していく。
+
+    引き継ぐ際は現在の設定（キーワード・除外条件）で判定し直す。そうしないと、
+    設定を変更しても既に集めたノイズが収集期間いっぱい（最大168時間）残り続ける。
     """
     if not OUTPUT_PATH.exists():
         return {}
@@ -123,11 +145,27 @@ def load_previous(cutoff_iso: str) -> dict[str, dict]:
             continue
         if a["published_at"] < cutoff_iso:
             continue
+
+        title = a.get("title", "")
+        if is_excluded(title, a.get("category", ""), exclude_patterns, exclude_categories):
+            continue
+
+        # 現在のキーワードで判定し直し、どれにも当てはまらなくなった記事は捨てる
+        matched = matching_keywords(title, keywords)
+        if not matched:
+            continue
+        a["matched_keywords"] = matched
+
         kept[cid] = a
     return kept
 
 
-def search_keyword(keyword: str, exclude_patterns: list[str], now_jst: datetime.datetime) -> list[dict]:
+def search_keyword(
+    keyword: str,
+    exclude_patterns: list[str],
+    exclude_categories: list[str],
+    now_jst: datetime.datetime,
+) -> list[dict]:
     html = fetch_html(keyword)
     state = extract_preloaded_state(html)
     contents = (state.get("search") or {}).get("contents") or []
@@ -154,7 +192,10 @@ def search_keyword(keyword: str, exclude_patterns: list[str], now_jst: datetime.
         # キーワードの構成語がすべてタイトルに含まれるものだけ採用する
         if not all(w in headline for w in words):
             continue
-        if any(ng in headline for ng in exclude_patterns):
+
+        categories = item.get("categories") or []
+        category = categories[0]["name"] if categories else ""
+        if is_excluded(headline, category, exclude_patterns, exclude_categories):
             continue
 
         published_at = parse_publish_time(item.get("publishTime"), now_jst)
@@ -164,7 +205,6 @@ def search_keyword(keyword: str, exclude_patterns: list[str], now_jst: datetime.
         thumb = ((item.get("thumbnail") or {}).get("resizedImageUrl") or {}).get("jpeg") or (
             item.get("thumbnail") or {}
         ).get("url")
-        categories = item.get("categories") or []
 
         results.append(
             {
@@ -172,7 +212,7 @@ def search_keyword(keyword: str, exclude_patterns: list[str], now_jst: datetime.
                 "title": headline,
                 "url": permalink,
                 "source": (item.get("media") or {}).get("name", ""),
-                "category": categories[0]["name"] if categories else "",
+                "category": category,
                 "thumb": thumb,
                 "published_at": published_at,
                 "matched_keywords": [keyword],
@@ -185,19 +225,22 @@ def main() -> None:
     config = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
     keywords = config.get("keywords", [])
     exclude_patterns = config.get("exclude_patterns", [])
+    exclude_categories = config.get("exclude_categories", [])
     hours_window = config.get("hours_window", 48)
 
     now_jst = datetime.datetime.now(tz=JST)
     cutoff_iso = (now_jst - datetime.timedelta(hours=hours_window)).isoformat()
 
     # 前回までの収集結果に積み増す（1回の実行では数時間分しか取れないため）
-    articles: dict[str, dict] = load_previous(cutoff_iso)
+    articles: dict[str, dict] = load_previous(
+        cutoff_iso, keywords, exclude_patterns, exclude_categories
+    )
     carried_over = len(articles)
     errors: list[str] = []
 
     for i, kw in enumerate(keywords):
         try:
-            items = search_keyword(kw, exclude_patterns, now_jst)
+            items = search_keyword(kw, exclude_patterns, exclude_categories, now_jst)
         except (urllib.error.URLError, TimeoutError, ValueError) as e:
             # TimeoutErrorはURLErrorの派生ではないため個別に捕捉する。
             # 1語の失敗で全体が落ちると、その回の収集結果がまるごと失われる。
