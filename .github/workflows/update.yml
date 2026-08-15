@@ -7,8 +7,6 @@ on:
     - cron: "0 */6 * * *"
   push:
     branches: [main]
-    paths-ignore:
-      - "data/**"
   workflow_dispatch:
 
 permissions:
@@ -33,22 +31,35 @@ jobs:
         with:
           python-version: "3.12"
 
+      # 収集結果は積み増し方式のため、前回分を引き継ぐ必要がある。
+      # ただし履歴は不要なので、mainではなく data ブランチに常に1コミットだけ置く。
+      - name: Restore previous data
+        run: |
+          mkdir -p data
+          if git fetch --depth=1 origin data 2>/dev/null; then
+            git show FETCH_HEAD:candidates.json > data/candidates.json
+            echo "前回データを復元しました"
+          else
+            echo "前回データなし（初回実行）"
+          fi
+
       - name: Fetch candidates
         run: python scripts/fetch_candidates.py
 
-      - name: Commit updated data
+      # 毎回まっさらな単一コミットとして強制上書きするので、履歴は増えない
+      - name: Save data
         run: |
+          tmp="$(mktemp -d)"
+          cp data/candidates.json "$tmp/"
+          cd "$tmp"
+          git init -q
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/candidates.json
-          if git diff --staged --quiet; then
-            echo "データに変更なし"
-          else
-            git commit -m "Update candidates data"
-            # 別の実行が先にpushしていた場合に備えて取り込んでから送る
-            git pull --rebase --autostash origin main
-            git push
-          fi
+          git checkout -q -b data
+          git add candidates.json
+          git commit -q -m "candidates data ($(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M JST'))"
+          git push -q --force \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" data
 
       - name: Generate site
         run: python scripts/generate_site.py
