@@ -8,7 +8,9 @@ from __future__ import annotations
 
 import datetime
 import json
+import os
 import pathlib
+import sys
 import time
 import urllib.error
 import urllib.parse
@@ -101,12 +103,37 @@ def parse_publish_time(pub: dict, now_jst: datetime.datetime) -> str | None:
     return dt.isoformat()
 
 
-def is_excluded(title: str, category: str, exclude_patterns: list[str], exclude_categories: list[str]) -> bool:
-    """除外条件（タイトル中のNGワード / カテゴリ）に当てはまるか。"""
-    if any(ng in title for ng in exclude_patterns):
+def is_excluded(
+    title: str,
+    category: str,
+    exclude_patterns: list[str],
+    exclude_categories: list[str],
+    soft_exclude_patterns: list[str] | None = None,
+    food_context_words: list[str] | None = None,
+) -> bool:
+    """除外条件（タイトル中のNGワード / カテゴリ）に当てはまるか。
+
+    exclude_patterns は常時適用。soft_exclude_patterns は「iPhone」「スマホ」など
+    食・小売以外の文脈で誤爆しやすい語のためのもので、food_context_words が
+    タイトルに含まれる場合（=食や小売の話題である可能性が高い場合）は適用しない。
+    (例:「スマホ」除外で『マクドナルド、スマホ注文が7割』を巻き添えにしない)
+
+    大文字小文字の違いを無視するため、比較前にタイトルと除外語の両方を
+    小文字化する（日本語には影響しない）。
+    """
+    soft_exclude_patterns = soft_exclude_patterns or []
+    food_context_words = food_context_words or []
+
+    title_lower = title.lower()
+    if any(ng.lower() in title_lower for ng in exclude_patterns):
         return True
     if category in exclude_categories:
         return True
+
+    has_food_context = any(w in title for w in food_context_words)
+    if not has_food_context and any(ng.lower() in title_lower for ng in soft_exclude_patterns):
+        return True
+
     return False
 
 
@@ -120,6 +147,8 @@ def load_previous(
     keywords: list[str],
     exclude_patterns: list[str],
     exclude_categories: list[str],
+    soft_exclude_patterns: list[str],
+    food_context_words: list[str],
 ) -> dict[str, dict]:
     """前回までに収集した記事のうち、まだ収集期間内のものを読み込む。
 
@@ -147,7 +176,14 @@ def load_previous(
             continue
 
         title = a.get("title", "")
-        if is_excluded(title, a.get("category", ""), exclude_patterns, exclude_categories):
+        if is_excluded(
+            title,
+            a.get("category", ""),
+            exclude_patterns,
+            exclude_categories,
+            soft_exclude_patterns,
+            food_context_words,
+        ):
             continue
 
         # 現在のキーワードで判定し直し、どれにも当てはまらなくなった記事は捨てる
@@ -164,6 +200,8 @@ def search_keyword(
     keyword: str,
     exclude_patterns: list[str],
     exclude_categories: list[str],
+    soft_exclude_patterns: list[str],
+    food_context_words: list[str],
     now_jst: datetime.datetime,
 ) -> list[dict]:
     html = fetch_html(keyword)
@@ -195,7 +233,14 @@ def search_keyword(
 
         categories = item.get("categories") or []
         category = categories[0]["name"] if categories else ""
-        if is_excluded(headline, category, exclude_patterns, exclude_categories):
+        if is_excluded(
+            headline,
+            category,
+            exclude_patterns,
+            exclude_categories,
+            soft_exclude_patterns,
+            food_context_words,
+        ):
             continue
 
         published_at = parse_publish_time(item.get("publishTime"), now_jst)
@@ -226,6 +271,9 @@ def main() -> None:
     keywords = config.get("keywords", [])
     exclude_patterns = config.get("exclude_patterns", [])
     exclude_categories = config.get("exclude_categories", [])
+    # 既存の設定ファイルに無くても壊れないよう、無指定時は空リスト扱いにする
+    soft_exclude_patterns = config.get("soft_exclude_patterns", [])
+    food_context_words = config.get("food_context_words", [])
     hours_window = config.get("hours_window", 48)
 
     now_jst = datetime.datetime.now(tz=JST)
@@ -233,14 +281,26 @@ def main() -> None:
 
     # 前回までの収集結果に積み増す（1回の実行では数時間分しか取れないため）
     articles: dict[str, dict] = load_previous(
-        cutoff_iso, keywords, exclude_patterns, exclude_categories
+        cutoff_iso,
+        keywords,
+        exclude_patterns,
+        exclude_categories,
+        soft_exclude_patterns,
+        food_context_words,
     )
     carried_over = len(articles)
     errors: list[str] = []
 
     for i, kw in enumerate(keywords):
         try:
-            items = search_keyword(kw, exclude_patterns, exclude_categories, now_jst)
+            items = search_keyword(
+                kw,
+                exclude_patterns,
+                exclude_categories,
+                soft_exclude_patterns,
+                food_context_words,
+                now_jst,
+            )
         except (urllib.error.URLError, TimeoutError, ValueError) as e:
             # TimeoutErrorはURLErrorの派生ではないため個別に捕捉する。
             # 1語の失敗で全体が落ちると、その回の収集結果がまるごと失われる。
@@ -264,6 +324,27 @@ def main() -> None:
             time.sleep(REQUEST_INTERVAL_SEC)
 
     article_list = sorted(articles.values(), key=lambda a: a["published_at"], reverse=True)
+
+    # 異常時はファイルを書き出さずに異常終了する。ここを通すと、中身の薄い
+    # データが force-push で確定してしまい、積み増した過去データを検索では
+    # 復元できないまま失う。CIはpy側が正常終了する限り緑になるため、
+    # 静かにサイトが劣化するのを防ぐ最後の砦になる。
+    if keywords and len(errors) == len(keywords):
+        print(
+            f"[異常終了] 全キーワード({len(keywords)}件)が失敗しました。"
+            f"エラー: {errors}",
+            file=sys.stderr,
+        )
+        sys.exit(1)
+
+    if carried_over > 0 and len(article_list) < carried_over * 0.5 and os.environ.get("ALLOW_SHRINK") != "1":
+        print(
+            f"[異常終了] 件数が引き継ぎ時の50%未満に減少しました "
+            f"（引き継ぎ {carried_over}件 -> 最終 {len(article_list)}件、エラー{len(errors)}件）。"
+            "意図的な設定変更であれば環境変数 ALLOW_SHRINK=1 を設定して再実行してください。",
+            file=sys.stderr,
+        )
+        sys.exit(1)
 
     output = {
         "generated_at": now_jst.isoformat(),

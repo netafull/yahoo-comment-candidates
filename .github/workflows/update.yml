@@ -36,11 +36,31 @@ jobs:
       - name: Restore previous data
         run: |
           mkdir -p data
-          if git fetch --depth=1 origin data 2>/dev/null; then
-            git show FETCH_HEAD:candidates.json > data/candidates.json
-            echo "前回データを復元しました"
+
+          # GitHub Actionsのrunステップはデフォルトで `set -e` が有効なため、
+          # 終了コードで分岐したいコマンドはif の条件式の中で実行する
+          # (単独で実行してから $? を見ると、失敗時点でシェルごと落ちてしまう)。
+          if git ls-remote --exit-code --heads origin data; then
+            ls_remote_status=0
           else
+            ls_remote_status=$?
+          fi
+
+          if [ "$ls_remote_status" -eq 0 ]; then
+            # data ブランチが存在する → 復元できなければジョブを失敗させる。
+            # ここを握りつぶすと、通信の瞬断を「初回実行」と誤認し、
+            # 直後の force-push で積み増したデータを消してしまう。
+            if git fetch --depth=1 origin data && git show FETCH_HEAD:candidates.json > data/candidates.json; then
+              echo "前回データを復元しました"
+            else
+              echo "::error::data ブランチはあるのに復元に失敗しました。積み増しデータを失う恐れがあるため中断します。" >&2
+              exit 1
+            fi
+          elif [ "$ls_remote_status" -eq 2 ]; then
             echo "前回データなし（初回実行）"
+          else
+            echo "::error::git ls-remote が異常終了しました (exit $ls_remote_status)。通信エラーの可能性があるため中断します。" >&2
+            exit 1
           fi
 
       - name: Fetch candidates
