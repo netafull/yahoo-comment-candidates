@@ -8,6 +8,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      allow_shrink:
+        description: "件数が大きく減っても保存する（キーワードや除外語を意図的に絞ったとき用）"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -63,8 +68,12 @@ jobs:
             exit 1
           fi
 
+      # 件数が急減すると収集スクリプトが異常終了してデータを守る。
+      # 設定を意図的に絞った場合は、手動実行時に allow_shrink を有効にして通す。
       - name: Fetch candidates
         run: python scripts/fetch_candidates.py
+        env:
+          ALLOW_SHRINK: ${{ inputs.allow_shrink && '1' || '0' }}
 
       # 毎回まっさらな単一コミットとして強制上書きするので、履歴は増えない
       - name: Save data
