@@ -149,7 +149,7 @@ def load_previous(
     exclude_categories: list[str],
     soft_exclude_patterns: list[str],
     food_context_words: list[str],
-) -> dict[str, dict]:
+) -> tuple[dict[str, dict], int]:
     """前回までに収集した記事のうち、まだ収集期間内のものを読み込む。
 
     Yahoo!ニュース検索は1キーワードにつき最新60件しか返さず、ページ送りも
@@ -159,21 +159,39 @@ def load_previous(
 
     引き継ぐ際は現在の設定（キーワード・除外条件）で判定し直す。そうしないと、
     設定を変更しても既に集めたノイズが収集期間いっぱい（最大168時間）残り続ける。
+
+    戻り値は (kept, raw_in_window_count) のタプル。
+    - kept: 現在の設定で判定し直した後、実際に引き継がれる記事
+    - raw_in_window_count: 現在の設定での判定・再フィルタを一切行う前の、
+      「前回ファイルの時点で収集期間内(cutoff以降)だった記事」の件数。
+      is_excluded やキーワード再判定で落とされた記事も含む
+      （=期限切れによる自然減だけを除いた、判定前の母数）。
+      main() 側でこの値を「異常な減少」の基準にするためのもの。
+      これを is_excluded/キーワード再判定"後"の件数(=kept の件数)で
+      代用してしまうと、キーワードや除外語の設定変更で大量に振るい落と
+      された場合でも基準自体が一緒に縮んでしまい、異常検知が効かなく
+      なる（実際にこの抜け穴で積み増しデータが無警告で消える事故が
+      発生したため、判定前の生の件数を別に持つようにした）。
     """
     if not OUTPUT_PATH.exists():
-        return {}
+        return {}, 0
     try:
         prev = json.loads(OUTPUT_PATH.read_text(encoding="utf-8"))
     except (json.JSONDecodeError, OSError):
-        return {}
+        return {}, 0
 
     kept = {}
+    raw_in_window_count = 0
     for a in prev.get("articles", []):
         cid = a.get("content_id")
         if not cid or not a.get("published_at"):
             continue
         if a["published_at"] < cutoff_iso:
             continue
+
+        # ここでカウントする＝期限切れ以外は、is_excluded/キーワード再判定の
+        # 結果に関わらず「判定前の母数」として数える
+        raw_in_window_count += 1
 
         title = a.get("title", "")
         if is_excluded(
@@ -193,7 +211,7 @@ def load_previous(
         a["matched_keywords"] = matched
 
         kept[cid] = a
-    return kept
+    return kept, raw_in_window_count
 
 
 def search_keyword(
@@ -280,7 +298,8 @@ def main() -> None:
     cutoff_iso = (now_jst - datetime.timedelta(hours=hours_window)).isoformat()
 
     # 前回までの収集結果に積み増す（1回の実行では数時間分しか取れないため）
-    articles: dict[str, dict] = load_previous(
+    articles: dict[str, dict]
+    articles, raw_prev = load_previous(
         cutoff_iso,
         keywords,
         exclude_patterns,
@@ -288,7 +307,7 @@ def main() -> None:
         soft_exclude_patterns,
         food_context_words,
     )
-    carried_over = len(articles)
+    carried_over = len(articles)  # 現在の設定での判定後、実際に引き継がれた件数（ログ表示用）
     errors: list[str] = []
 
     for i, kw in enumerate(keywords):
@@ -337,11 +356,18 @@ def main() -> None:
         )
         sys.exit(1)
 
-    if carried_over > 0 and len(article_list) < carried_over * 0.5 and os.environ.get("ALLOW_SHRINK") != "1":
+    # 判定"前"の生の前回件数(raw_prev)を基準にする。carried_over
+    # (=is_excluded/キーワード再判定"後"の件数)を基準にすると、キーワードや
+    # 除外語の設定変更で大量に振るい落とされた場合に基準自体も一緒に
+    # 縮んでしまい、異常検知が効かなくなる（この抜け穴で積み増しデータが
+    # 無警告のまま消える事故を確認済みのため、raw_prev を別に持たせている）。
+    if raw_prev > 0 and len(article_list) < raw_prev * 0.5 and os.environ.get("ALLOW_SHRINK") != "1":
         print(
-            f"[異常終了] 件数が引き継ぎ時の50%未満に減少しました "
-            f"（引き継ぎ {carried_over}件 -> 最終 {len(article_list)}件、エラー{len(errors)}件）。"
-            "意図的な設定変更であれば環境変数 ALLOW_SHRINK=1 を設定して再実行してください。",
+            f"[異常終了] 件数が前回の50%未満に減少しました "
+            f"（前回・収集期間内の生件数 {raw_prev}件 -> 現設定での引き継ぎ {carried_over}件 "
+            f"-> 最終 {len(article_list)}件、エラー{len(errors)}件）。"
+            "設定変更による意図的な減少であれば環境変数 ALLOW_SHRINK=1 を設定して再実行してください。"
+            "そうでなければ収集失敗やフィルタ設定ミスの可能性があります。",
             file=sys.stderr,
         )
         sys.exit(1)
