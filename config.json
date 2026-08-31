@@ -1,7 +1,7 @@
 {
   "site_title": "コメント候補ファインダー",
   "site_description": "Yahoo!ニュース エキスパートコメントの候補になりそうな記事を、キーワードで自動収集します",
-  "hours_window": 168,
+  "hours_window": 72,
   "keywords": [
     "コンビニ",
     "ファストフード",
