@@ -1,0 +1,1799 @@
+{
+ "generated_at": "2026-09-20T05:14:29.799116+09:00",
+ "hours_window": 72,
+ "keywords": [
+  "コンビニ",
+  "ファストフード",
+  "外食",
+  "外食産業",
+  "値上げ",
+  "消費税",
+  "食料品",
+  "飲食 倒産",
+  "外食 倒産",
+  "菓子 倒産",
+  "食品 倒産",
+  "吉野家",
+  "松屋",
+  "すき家",
+  "松のや",
+  "かつや",
+  "マクドナルド",
+  "ケンタッキー",
+  "セブン",
+  "ファミリーマート",
+  "ローソン"
+ ],
+ "errors": [],
+ "articles": [
+  {
+   "content_id": "8d0635006f0bb68054c3c782d316b149a7eab5bc",
+   "title": "時代的に仕方なし⋯。アイオーデータ、液晶ディスプレイなど一部製品を値上げ",
+   "url": "https://news.yahoo.co.jp/articles/8d0635006f0bb68054c3c782d316b149a7eab5bc",
+   "source": "ギズモード・ジャパン",
+   "category": "IT総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000013-giz-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800",
+   "published_at": "2026-09-19T19:00:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "394f0be943063e5513ed8d3d1421d8ee10ef724b",
+   "title": "7000人の異動リストの中でただ一人…｢コンビニの神様｣鈴木敏文が店長の人事に｢否｣をとなえたワケ",
+   "url": "https://news.yahoo.co.jp/articles/394f0be943063e5513ed8d3d1421d8ee10ef724b",
+   "source": "プレジデントオンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00119290-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=201&cw=1000&ch=1000&exp=10800",
+   "published_at": "2026-09-19T18:15:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "d88683782eecdcd3dc274d33f775eb1146813c7c",
+   "title": "【セブン-イレブン】ふんわりもちもち“白いどら焼き”ほか「ポムポムプリン」コラボスイーツ3品を食べ比べ♪",
+   "url": "https://news.yahoo.co.jp/articles/d88683782eecdcd3dc274d33f775eb1146813c7c",
+   "source": "LASISA",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-10161674-lasisa-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-19T18:15:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "be7f68cfd765cea15a638b8ede579221f7c79a89",
+   "title": "体育館や動物園など最大２倍に値上げ、条例改正案を市議会が否決…「値上げ幅が大きすぎ」議員２人が反対訴え",
+   "url": "https://news.yahoo.co.jp/articles/be7f68cfd765cea15a638b8ede579221f7c79a89",
+   "source": "読売新聞オンライン",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000081-yomosaka-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=372&ch=372&exp=10800",
+   "published_at": "2026-09-19T16:51:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "f1426bfebb724437ea931f43ebe0dfc46bf3f8cd",
+   "title": "ローソン 両極商品でメリハリ消費に対応 「一点突破」「贅沢すぎ」13品",
+   "url": "https://news.yahoo.co.jp/articles/f1426bfebb724437ea931f43ebe0dfc46bf3f8cd",
+   "source": "食品新聞",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00010002-shokuhin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=48&cy=0&cw=605&ch=605&exp=10800",
+   "published_at": "2026-09-19T16:00:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "af279bccc61df07aa6cdf25e7a030c3d782e32de",
+   "title": "【実録】雨のたび“コンビニで傘”を買い、自宅に傘が「10本以上」…ある日ファミマで“92gの超軽量傘”を買ったら「ビニール傘が増えるストレス」から解放された！ でも強風の日は頼りない？ 筆者がたどり着いた答え",
+   "url": "https://news.yahoo.co.jp/articles/af279bccc61df07aa6cdf25e7a030c3d782e32de",
+   "source": "ファイナンシャルフィールド",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00010017-ffield-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=150&cw=900&ch=900&exp=10800",
+   "published_at": "2026-09-19T14:50:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "aeb2e3a34c77511c20dff08b4ba9596e9a8e2fc7",
+   "title": "【ファミリーマート】おやつ時間にぴったり！秋のおいも祭り新作3選「紅はるかのスイートポテトケーキ　～テリーヌ仕立て～」はねっとり食感がたまらない",
+   "url": "https://news.yahoo.co.jp/articles/aeb2e3a34c77511c20dff08b4ba9596e9a8e2fc7",
+   "source": "LIMO",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00139324-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=145&cy=0&cw=580&ch=580&exp=10800",
+   "published_at": "2026-09-19T12:45:00+09:00",
+   "matched_keywords": [
+    "ファミリーマート"
+   ]
+  },
+  {
+   "content_id": "c9e3eb308bbbcd9750f3cb3068f3d542577c3615",
+   "title": "ローソンが熊本県に１億円余の寄付金贈る【令和８年熊本地震】",
+   "url": "https://news.yahoo.co.jp/articles/c9e3eb308bbbcd9750f3cb3068f3d542577c3615",
+   "source": "TKUテレビ熊本",
+   "category": "熊本",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-90025357-tku-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-19T12:13:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "84e8f9047a6eea7e963e844a764aa352aa22ab94",
+   "title": "復旧・復興の一助に　ローソンが熊本県に寄付",
+   "url": "https://news.yahoo.co.jp/articles/84e8f9047a6eea7e963e844a764aa352aa22ab94",
+   "source": "ＫＫＴ熊本県民テレビ",
+   "category": "熊本",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-09468816-kkt-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-19T11:54:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "69a9f08306bae3f2b3211970c8cc7b1189bee868",
+   "title": "しおりを入れたコンビニのパン、「数千ウォンのグッズ」に",
+   "url": "https://news.yahoo.co.jp/articles/69a9f08306bae3f2b3211970c8cc7b1189bee868",
+   "source": "朝鮮日報日本語版",
+   "category": "韓国・北朝鮮",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00080205-chosun-000-8-view.jpg?pri=l&w=192&h=192&order=c2r&cx=191&cy=0&cw=519&ch=519&exp=10800",
+   "published_at": "2026-09-19T11:45:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "795c6393657fead6420d4290af1a41211f6f33a4",
+   "title": "車を“物質（ものじち）”にコンビニATMに連れていかれ…「基本2千円～」が80万円請求も！　急増する悪徳ロードサービスの卑劣手口",
+   "url": "https://news.yahoo.co.jp/articles/795c6393657fead6420d4290af1a41211f6f33a4",
+   "source": "女性自身",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000024-jisin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=2&cy=0&cw=947&ch=947&exp=10800",
+   "published_at": "2026-09-19T11:00:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "8b64c1452296c2425ab6f42a3deedca79fc5d1a4",
+   "title": "「値上げが悲しいミスタードーナツ」ランキング、フレンチクルーラーを抑えた「クリームで満足感がある」のは【総合順位】",
+   "url": "https://news.yahoo.co.jp/articles/8b64c1452296c2425ab6f42a3deedca79fc5d1a4",
+   "source": "ピンズバNEWS",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00017950-pinzuba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800",
+   "published_at": "2026-09-19T11:00:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "e1c2a3f2f7aa35e472e30eeff1dc3b78426575e2",
+   "title": "「値上げが悲しいミスタードーナツ」ランキング、オールドファッションを抑えた「看板商品」は【トップ3】",
+   "url": "https://news.yahoo.co.jp/articles/e1c2a3f2f7aa35e472e30eeff1dc3b78426575e2",
+   "source": "ピンズバNEWS",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00017949-pinzuba-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=900&ch=900&exp=10800",
+   "published_at": "2026-09-19T11:00:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "5b85261c7f311ef4a87b2760cee4cf9b42d11454",
+   "title": "食料品消費税「1％」の先にあるもの…「減税→給付付き税額控除」という2段階改革構想",
+   "url": "https://news.yahoo.co.jp/articles/5b85261c7f311ef4a87b2760cee4cf9b42d11454",
+   "source": "THE GOLD ONLINE（ゴールドオンライン）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00081671-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800",
+   "published_at": "2026-09-19T11:00:00+09:00",
+   "matched_keywords": [
+    "消費税",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "aa2e869e696a55e714206d2027f30358fe4c79b2",
+   "title": "税制改正大綱を閣議決定　食品消費税率1％に",
+   "url": "https://news.yahoo.co.jp/articles/aa2e869e696a55e714206d2027f30358fe4c79b2",
+   "source": "福祉新聞WEB",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-09-19T10:01:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "2a2066641dc8e67c0deeb42727d34e6d083ce354",
+   "title": "米国のディーゼル価格が6ドルに迫る、「食料品はすべて値上がり」",
+   "url": "https://news.yahoo.co.jp/articles/2a2066641dc8e67c0deeb42727d34e6d083ce354",
+   "source": "Forbes JAPAN",
+   "category": "北米",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00105044-forbes-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-19T10:00:00+09:00",
+   "matched_keywords": [
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "17076d1286f8b06cf0b2ebb39710011e32fb31c4",
+   "title": "消費者の9割「ステルス値上げ」実感　6割近くが「容器の底上げ」「二重構造化」に不満",
+   "url": "https://news.yahoo.co.jp/articles/17076d1286f8b06cf0b2ebb39710011e32fb31c4",
+   "source": "テレビ朝日系（ANN）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000014-ann-000-5-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-19T09:18:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "4d40aff0e4dfa6ca935850c6748c1491a9ef55d8",
+   "title": "「全国で売って欲しいまじで」セイコーマートの“激うまホットスナック”SNSでバズる意味がわかったわ…！「リアルに毎日食べれる」「コンビニグルメの頂点」「北海道民の皆さんがうらやましい」《実食レビュー》",
+   "url": "https://news.yahoo.co.jp/articles/4d40aff0e4dfa6ca935850c6748c1491a9ef55d8",
+   "source": "ダイヤモンド・オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00399722-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=27&cw=745&ch=745&exp=10800",
+   "published_at": "2026-09-19T08:51:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "0ad551ac07daa915250d93e85958a9814d6ec951",
+   "title": "Qoo10、セブン-イレブンの全国店舗で化粧品コーナー「Qoo10 Pick」を展開 SNSプレゼント企画も開催",
+   "url": "https://news.yahoo.co.jp/articles/0ad551ac07daa915250d93e85958a9814d6ec951",
+   "source": "日本ネット経済新聞",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00019956-netkeizai-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800",
+   "published_at": "2026-09-19T08:00:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "fade58360745e39c6f8026b4ccfa77d7aa26fb75",
+   "title": "【外食チェーンに吹き荒れる強い逆風】原価、人件費、エネルギーが高騰、さらに消費減税も加わり“四重苦”　「回転寿司」「カレー」には“令和の米騒動”の追い打ちも",
+   "url": "https://news.yahoo.co.jp/articles/fade58360745e39c6f8026b4ccfa77d7aa26fb75",
+   "source": "マネーポストWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000001-moneypost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800",
+   "published_at": "2026-09-19T07:15:00+09:00",
+   "matched_keywords": [
+    "外食"
+   ]
+  },
+  {
+   "content_id": "3c33ddf011cae99eb2a8574f10e2b7f70fd52c04",
+   "title": "【図解】日銀利上げでも止まらぬ物価上昇圧力＝飲食料品「値上げラッシュ」",
+   "url": "https://news.yahoo.co.jp/articles/3c33ddf011cae99eb2a8574f10e2b7f70fd52c04",
+   "source": "時事通信",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000000-jij_graph-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=231&cy=0&cw=562&ch=562&exp=10800",
+   "published_at": "2026-09-19T07:10:00+09:00",
+   "matched_keywords": [
+    "値上げ",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "fb80c3bbc07ccdff4b004157d50e1485f6f4621b",
+   "title": "日銀利上げでも止まらぬ物価上昇圧力　飲食料品「値上げラッシュ」",
+   "url": "https://news.yahoo.co.jp/articles/fb80c3bbc07ccdff4b004157d50e1485f6f4621b",
+   "source": "時事通信",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00000011-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=175&cw=847&ch=847&exp=10800",
+   "published_at": "2026-09-19T07:10:00+09:00",
+   "matched_keywords": [
+    "値上げ",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "c47ab2466064efaa94da3babceaf3b3488b8d644",
+   "title": "「お弁当屋さん」の倒産、2年連続で過去最多へ　～ コメ価格下落と消費税引き下げもコスト高 ～",
+   "url": "https://news.yahoo.co.jp/articles/c47ab2466064efaa94da3babceaf3b3488b8d644",
+   "source": "東京商工リサーチ",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-00010000-biz_shoko-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800",
+   "published_at": "2026-09-19T07:03:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "1634e87f64fa76e28eb2aa0ed0801ae2f6e48dd8",
+   "title": "豪雨で相次ぐ”帰宅困難者”　行政がコンビニ・ガソリンスタンド・ホテルなどと協定　「もし自分が帰宅困難になったら･･･」　意外と知らない支援策　「まだ大丈夫が命取り」　大雨時の屋外行動リスク",
+   "url": "https://news.yahoo.co.jp/articles/1634e87f64fa76e28eb2aa0ed0801ae2f6e48dd8",
+   "source": "RCC中国放送",
+   "category": "広島",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-22933741-rccv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-19T07:00:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "6fc2e4a92efaec78d69c152e01811a9bd5decf85",
+   "title": "食料品の消費税減税　5割以上の企業「日本の活性化につながらない」　食品小売と飲食店で売り上げ予測に明暗",
+   "url": "https://news.yahoo.co.jp/articles/6fc2e4a92efaec78d69c152e01811a9bd5decf85",
+   "source": "FNNプライムオンライン（フジテレビ系）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-01217515-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-19T01:30:00+09:00",
+   "matched_keywords": [
+    "消費税",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "3502b1a71ede7dca7cabef82b288e92e09ec90b3",
+   "title": "高市改造内閣が本格始動　新旧大臣が引き継ぎ　臨時国会では“消費税減税”の関連法案を審議の見通し",
+   "url": "https://news.yahoo.co.jp/articles/3502b1a71ede7dca7cabef82b288e92e09ec90b3",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260919-07327643-jnn-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
+   "published_at": "2026-09-19T00:42:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "a165453c256cd0c648fc06b44ed84de8bf067d97",
+   "title": "国立美術館の所蔵作品展、観覧料金を値上げへ",
+   "url": "https://news.yahoo.co.jp/articles/a165453c256cd0c648fc06b44ed84de8bf067d97",
+   "source": "美術手帖",
+   "category": "文化・アート",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000004-btecho-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=125&cy=0&cw=750&ch=750&exp=10800",
+   "published_at": "2026-09-18T22:19:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "5778834b6fbb48d29b4a52195f649c6a2e65ec65",
+   "title": "維新・吉村代表「食料品の消費税減税は高市総理と必ずやり切ろうと話しています」次の国会で実現したいこと聞かれ　維新初の閣僚・中司大臣には「自動運転・ドローンでの配送・内密出産の制度整備」の実現に期待",
+   "url": "https://news.yahoo.co.jp/articles/5778834b6fbb48d29b4a52195f649c6a2e65ec65",
+   "source": "関西テレビ",
+   "category": "大阪",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-90029718-kantelev-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=595&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-18T21:23:00+09:00",
+   "matched_keywords": [
+    "消費税",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "ddf1e9efd2a2c7a3d46141c5ef89b026fc5ab65b",
+   "title": "国立美術館の観覧料、2～3倍に値上げ　政府は自己収入増を求める",
+   "url": "https://news.yahoo.co.jp/articles/ddf1e9efd2a2c7a3d46141c5ef89b026fc5ab65b",
+   "source": "朝日新聞",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000144-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=11&cw=619&ch=619&exp=10800",
+   "published_at": "2026-09-18T20:30:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "d4f54c58088187983d28207556675093db5ade9f",
+   "title": "スタバ10月9日から定番商品を値上げ「スターバックスラテ」など最大35円アップ　フードも最大30円値上げ",
+   "url": "https://news.yahoo.co.jp/articles/d4f54c58088187983d28207556675093db5ade9f",
+   "source": "FNNプライムオンライン（フジテレビ系）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-01217401-fnn-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1280&ch=720&exp=10800",
+   "published_at": "2026-09-18T20:10:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "e63a449281ab698355a1267776b2cbb8f652c4ec",
+   "title": "国立美術館6館がコレクション展・上映会の観覧料金を値上げへ。これまでの2〜3倍に",
+   "url": "https://news.yahoo.co.jp/articles/e63a449281ab698355a1267776b2cbb8f652c4ec",
+   "source": "Tokyo Art Beat",
+   "category": "文化・アート",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010005-tartbeat-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1500&ch=1500&exp=10800",
+   "published_at": "2026-09-18T20:04:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "8764f9f82a1ff7adf55fad12f77be0fd937cb02e",
+   "title": "「甘みのある濃厚なソースとボリュームのある太麺を」中四国9県のローソンで「スパゲッツダンディ監修ミートソース」販売が始まる",
+   "url": "https://news.yahoo.co.jp/articles/8764f9f82a1ff7adf55fad12f77be0fd937cb02e",
+   "source": "RSK山陽放送",
+   "category": "岡山",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-22956002-rsk-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
+   "published_at": "2026-09-18T20:00:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "fe41879cd48852a8a4c783e2b7332236ffcca242",
+   "title": "ホークス優勝で食料品や日用品が5％オフ！佐賀の商業施設でお買い得セール【佐賀県】",
+   "url": "https://news.yahoo.co.jp/articles/fe41879cd48852a8a4c783e2b7332236ffcca242",
+   "source": "佐賀ニュース サガテレビ",
+   "category": "佐賀",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-90024458-sagatv-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-18T19:46:00+09:00",
+   "matched_keywords": [
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "3c4481b32767ef6a6434cdcd656eb93e32c80ab1",
+   "title": "スターバックスコーヒー、「スターバックスラテ」など定番商品を値上げ…１０月９日から全店舗で",
+   "url": "https://news.yahoo.co.jp/articles/3c4481b32767ef6a6434cdcd656eb93e32c80ab1",
+   "source": "読売新聞オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000256-yom-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=54&cw=393&ch=393&exp=10800",
+   "published_at": "2026-09-18T19:38:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "a9341b8487aa99afd0bce658bac4f08d085addd6",
+   "title": "熊本の復興支援に　店頭募金やキャンペーンの売り上げからローソンが1億円を寄付",
+   "url": "https://news.yahoo.co.jp/articles/a9341b8487aa99afd0bce658bac4f08d085addd6",
+   "source": "熊本ニュース KAB ONLINE",
+   "category": "熊本",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-11788647-kab-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-18T19:38:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "f9a420e8da07c06351fab3a241e18f41d1e36233",
+   "title": "湖池屋、スナックに「第二章」の革新　外食の「揚げたてに近い味」目指した新製法の成形ポテトで中食市場に照準　10年かけ開発",
+   "url": "https://news.yahoo.co.jp/articles/f9a420e8da07c06351fab3a241e18f41d1e36233",
+   "source": "食品新聞",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010012-shokuhin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=29&cy=0&cw=1000&ch=1000&exp=10800",
+   "published_at": "2026-09-18T19:26:00+09:00",
+   "matched_keywords": [
+    "外食"
+   ]
+  },
+  {
+   "content_id": "9832cc0016e521efda4b97bf0d03af6c5b436cda",
+   "title": "スタバがコーヒーなど定番飲料を値上げへ　10月9日から4～35円",
+   "url": "https://news.yahoo.co.jp/articles/9832cc0016e521efda4b97bf0d03af6c5b436cda",
+   "source": "朝日新聞",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000133-asahi-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=95&cy=0&cw=450&ch=450&exp=10800",
+   "published_at": "2026-09-18T19:19:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "9ab7c3db9ecb97cba591333d09cc735728882b6d",
+   "title": "おにぎりやパンを県商業高校生が考案！ローソン沖縄商品開発プロジェクト",
+   "url": "https://news.yahoo.co.jp/articles/9ab7c3db9ecb97cba591333d09cc735728882b6d",
+   "source": "沖縄テレビOTV",
+   "category": "沖縄",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-90016668-otv-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-18T19:09:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "ed77b69b190764531962c809a49bdc2daec32fe9",
+   "title": "高校生たちのアイデアがコンビニ商品に　沖縄",
+   "url": "https://news.yahoo.co.jp/articles/ed77b69b190764531962c809a49bdc2daec32fe9",
+   "source": "沖縄ニュースQAB",
+   "category": "沖縄",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010002-qab-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1280&ch=720&exp=10800",
+   "published_at": "2026-09-18T19:04:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "a451875f2423be644a94432079147b1a69e5b0f0",
+   "title": "セブン＆アイHD元会長  鈴木敏文氏「お別れの会」 コンビニで小売りの常識変える",
+   "url": "https://news.yahoo.co.jp/articles/a451875f2423be644a94432079147b1a69e5b0f0",
+   "source": "食品新聞",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010011-shokuhin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=367&cy=0&cw=1466&ch=1466&exp=10800",
+   "published_at": "2026-09-18T18:59:00+09:00",
+   "matched_keywords": [
+    "コンビニ",
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "76b754a80aac0e2f0461b84ef70ece96e71a8ae8",
+   "title": "「コンビニの父」セブン鈴木敏文氏お別れの会",
+   "url": "https://news.yahoo.co.jp/articles/76b754a80aac0e2f0461b84ef70ece96e71a8ae8",
+   "source": "ABEMA TIMES",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-10273890-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=258&cy=0&cw=661&ch=661&exp=10800",
+   "published_at": "2026-09-18T18:57:00+09:00",
+   "matched_keywords": [
+    "コンビニ",
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "2b56d74d0d1849955d1e355d5a5dce510b9d1c24",
+   "title": "スタバ コーヒーやフードの一部商品などを来月9日から値上げ ドリンクは4円〜35円増",
+   "url": "https://news.yahoo.co.jp/articles/2b56d74d0d1849955d1e355d5a5dce510b9d1c24",
+   "source": "ABEMA TIMES",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-10273882-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=710&ch=710&exp=10800",
+   "published_at": "2026-09-18T18:33:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "13dcee3442cd10e3f68a25a43e82de7cee2c12e5",
+   "title": "「ルーミー」改良で全グレード「スマアシ」搭載。約10万円値上げも装備充実に「納得」の声多数…「カスタムG」が人気のワケとは？",
+   "url": "https://news.yahoo.co.jp/articles/13dcee3442cd10e3f68a25a43e82de7cee2c12e5",
+   "source": "carview！",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010010-carv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-18T18:30:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "75e0137a10ae0bd343c5dd0d4200d5071ff3baeb",
+   "title": "徳島市議会閉会　値上げ条例案すべて「否決」遠藤市長の問責決議案は「可決」【徳島】",
+   "url": "https://news.yahoo.co.jp/articles/75e0137a10ae0bd343c5dd0d4200d5071ff3baeb",
+   "source": "JRT四国放送",
+   "category": "徳島",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-03367185-jrt-000-4-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-18T18:30:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "890e0a198aa00fd7d6299e203895847ec7b24af1",
+   "title": "消費税減税、物価高対策の効果小さい63％",
+   "url": "https://news.yahoo.co.jp/articles/890e0a198aa00fd7d6299e203895847ec7b24af1",
+   "source": "共同通信",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-09-18T18:29:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "3483e887bbdb12dd73745aeb9b6b77b429ac4877",
+   "title": "ローソン初の「AI発案」商品3品、レモンタルト×ピクルスも　「こういう使い方でいいんだよ」とSNSでは好反応",
+   "url": "https://news.yahoo.co.jp/articles/3483e887bbdb12dd73745aeb9b6b77b429ac4877",
+   "source": "LIMO",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00139151-toushin-000-1-view.png?pri=l&w=192&h=192&order=c2r&cx=146&cy=0&cw=568&ch=568&fmt=jpeg&q=85&exp=10800",
+   "published_at": "2026-09-18T18:25:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "2b49734145218905c6be4001b93e17dd8c06128f",
+   "title": "衣擦れの音さえピタリとやんだ…\"コンビニの神様\"鈴木敏文が｢これだけは続ける｣といった会議の名前",
+   "url": "https://news.yahoo.co.jp/articles/2b49734145218905c6be4001b93e17dd8c06128f",
+   "source": "プレジデントオンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00119171-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=198&cy=0&cw=1005&ch=1005&exp=10800",
+   "published_at": "2026-09-18T18:15:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "709b047d5fc5f949226be02ee637a3525127414d",
+   "title": "スタバ、10月9日から定番商品を最大35円値上げ",
+   "url": "https://news.yahoo.co.jp/articles/709b047d5fc5f949226be02ee637a3525127414d",
+   "source": "Impress Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000010-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-18T18:00:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "c31021d73653f341c4916d240e75926ad7b81cfb",
+   "title": "「スターバックス」10月からの値上げを発表　「ブリュードコーヒー」ショートサイズは394円→415円に",
+   "url": "https://news.yahoo.co.jp/articles/c31021d73653f341c4916d240e75926ad7b81cfb",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-07327597-jnn-000-4-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
+   "published_at": "2026-09-18T17:57:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "55a11217abbb475cf18290fedde2d42c645929e9",
+   "title": "スタバ、定番商品値上げ",
+   "url": "https://news.yahoo.co.jp/articles/55a11217abbb475cf18290fedde2d42c645929e9",
+   "source": "時事通信",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000145-jij-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=220&cw=1609&ch=1609&exp=10800",
+   "published_at": "2026-09-18T17:50:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "e1c0bf3e58f0d6e10e94d52c1e6034cff249dd78",
+   "title": "スタバがコーヒーなど値上げへ　10月から　飲み物は4～35円増",
+   "url": "https://news.yahoo.co.jp/articles/e1c0bf3e58f0d6e10e94d52c1e6034cff249dd78",
+   "source": "テレビ朝日系（ANN）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000073-ann-000-5-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-18T17:45:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "ebac21cf5f086060252418391f96ee18e42ce6ff",
+   "title": "スタバ、定番商品値上げ　ドリンク4～35円",
+   "url": "https://news.yahoo.co.jp/articles/ebac21cf5f086060252418391f96ee18e42ce6ff",
+   "source": "時事通信",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000143-jij-000-9-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=129&cw=943&ch=943&exp=10800",
+   "published_at": "2026-09-18T17:38:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "7724dfc39f25930245bfe415647e8ed84f611042",
+   "title": "農業分野でも挑戦したセブン・鈴木敏文氏　全農チーフオフィサー・元ヨーカ堂社長、戸井和久氏が思い出を語る",
+   "url": "https://news.yahoo.co.jp/articles/7724dfc39f25930245bfe415647e8ed84f611042",
+   "source": "日本農業新聞",
+   "category": "産業",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010004-agrinews-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=109&cy=0&cw=433&ch=433&exp=10800",
+   "published_at": "2026-09-18T17:36:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "5d7815bec366491985f09dba20baa584da5ada67",
+   "title": "スタバが4～35円値上げ　定番飲料、10月9日から",
+   "url": "https://news.yahoo.co.jp/articles/5d7815bec366491985f09dba20baa584da5ada67",
+   "source": "共同通信",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000169-kyodonews-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=236&cw=1729&ch=1729&exp=10800",
+   "published_at": "2026-09-18T17:32:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "2d2da7097add3e667dffbca6983aee8ca03ca55f",
+   "title": "マクドナルド、月見バーガー第2弾「北海道産じゃがペッパー月見」をひと足早く食べてみた！",
+   "url": "https://news.yahoo.co.jp/articles/2d2da7097add3e667dffbca6983aee8ca03ca55f",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000008-impgrw-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=160&cy=0&cw=640&ch=640&exp=10800",
+   "published_at": "2026-09-18T17:29:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "bdbca0394c76ef2e6ea23934534ccb9834c22628",
+   "title": "セブン‐イレブン「蜜芋シリーズ」全7品発売　紅はるか・安納芋の和洋菓子、どら焼きやパイなど",
+   "url": "https://news.yahoo.co.jp/articles/bdbca0394c76ef2e6ea23934534ccb9834c22628",
+   "source": "食品産業新聞社ニュースWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010021-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800",
+   "published_at": "2026-09-18T17:27:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "ef87f873f3e50832fe8cdaa1cbcb2c3034625229",
+   "title": "「究極のよくばり飯」「旨いもんの詰め合わせ」かつやの“衝撃的なメニュー”大人のお子様ランチみたいで贅沢！「嫌いな男の子いないでしょ！」「さすが俺たちのかつや」《実食レビュー》",
+   "url": "https://news.yahoo.co.jp/articles/ef87f873f3e50832fe8cdaa1cbcb2c3034625229",
+   "source": "ダイヤモンド・オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00399684-diamond-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-18T17:12:00+09:00",
+   "matched_keywords": [
+    "かつや"
+   ]
+  },
+  {
+   "content_id": "7d82e0ef83d0ce5e211599371a20a4c0a3d60d30",
+   "title": "セブン＆アイＨＤ名誉顧問・鈴木敏文氏お別れの会、柳井正氏、孫正義氏ら弔辞「日本の経営者で初めて心からすごいと思った人」",
+   "url": "https://news.yahoo.co.jp/articles/7d82e0ef83d0ce5e211599371a20a4c0a3d60d30",
+   "source": "読売新聞オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000204-yom-000-4-view.jpg?pri=l&w=192&h=192&order=c2r&cx=84&cy=0&cw=333&ch=333&exp=10800",
+   "published_at": "2026-09-18T17:11:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "d6ada8af63a6c92dea75eb1ec36301137b725a23",
+   "title": "【肉6枚】「パティの暴力」日本にわずか3店舗の“米軍マクドナルド”…巨大バーガーや米国パイに驚き「お値段も米国仕様すぎる」",
+   "url": "https://news.yahoo.co.jp/articles/d6ada8af63a6c92dea75eb1ec36301137b725a23",
+   "source": "集英社オンライン",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00258692-shueisha-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-18T17:00:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "576b6f3bf0d3fe8abe5deaf2276f59cef03e2f50",
+   "title": "白黒マクドナルドが古都・鎌倉に登場　地元住民からは「黒マック」",
+   "url": "https://news.yahoo.co.jp/articles/576b6f3bf0d3fe8abe5deaf2276f59cef03e2f50",
+   "source": "朝日新聞",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000107-asahi-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=76&cy=0&cw=417&ch=417&exp=10800",
+   "published_at": "2026-09-18T17:00:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "efa5495f8f34adf2e2a174f51c26f6946264394b",
+   "title": "スタバ、10月9日に定番飲料4～35円値上げ",
+   "url": "https://news.yahoo.co.jp/articles/efa5495f8f34adf2e2a174f51c26f6946264394b",
+   "source": "共同通信",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-09-18T16:50:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "80ba6a44d1dbe26d845d5c9bbe1b8274caf73f4e",
+   "title": "「コンビニの父」セブン鈴木敏文氏お別れの会　ユニクロ柳井氏「先生以上の存在」",
+   "url": "https://news.yahoo.co.jp/articles/80ba6a44d1dbe26d845d5c9bbe1b8274caf73f4e",
+   "source": "テレビ朝日系（ANN）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000063-ann-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-18T16:36:00+09:00",
+   "matched_keywords": [
+    "コンビニ",
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "bacdec5a9f354066a8a803c930c14a1efcdb95f2",
+   "title": "【中継】台風25号が接近する東京・八丈島　強風で海は白波　フェリー欠航続き店は食料品在庫減少　連休予約もキャンセル相次ぐ",
+   "url": "https://news.yahoo.co.jp/articles/bacdec5a9f354066a8a803c930c14a1efcdb95f2",
+   "source": "FNNプライムオンライン（フジテレビ系）",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-01217036-fnn-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
+   "published_at": "2026-09-18T16:33:00+09:00",
+   "matched_keywords": [
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "c5bde306c3966ed754566dd13d46b54babe4f5c0",
+   "title": "国立美術館6施設、入館料値上げ　10月以降、現行の2～3倍に",
+   "url": "https://news.yahoo.co.jp/articles/c5bde306c3966ed754566dd13d46b54babe4f5c0",
+   "source": "共同通信",
+   "category": "文化・アート",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000143-kyodonews-000-10-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1355&ch=1355&exp=10800",
+   "published_at": "2026-09-18T16:15:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "c2ca8bf3daf9da516c6dbc28700a3ab288b44472",
+   "title": "「熊本を応援したい」全国の想い結実　ローソンが熊本地震の支援金など1億300万円を寄付",
+   "url": "https://news.yahoo.co.jp/articles/c2ca8bf3daf9da516c6dbc28700a3ab288b44472",
+   "source": "RKK熊本放送",
+   "category": "熊本",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-22956370-rkkv-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1280&ch=720&exp=10800",
+   "published_at": "2026-09-18T15:59:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "17daacf484d6c32caaddc1ac859f857933cbedac",
+   "title": "「コンビニの神様」鈴木敏文氏お別れの会　ファストリ・柳井会長ら多くの著名人が別れ惜しむ",
+   "url": "https://news.yahoo.co.jp/articles/17daacf484d6c32caaddc1ac859f857933cbedac",
+   "source": "日テレNEWS NNN",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-04254393-nnn-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-18T15:30:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "0893df177eebd7b3afdb3b00ba17c8ce55a4b635",
+   "title": "2NE1のDARA、東京の街中に！雨を避ける可愛らしい姿やコンビニを楽しむ滞在ショット公開",
+   "url": "https://news.yahoo.co.jp/articles/0893df177eebd7b3afdb3b00ba17c8ce55a4b635",
+   "source": "Kstyle",
+   "category": "アジア・韓流",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000111-kstylens-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=34&cw=812&ch=812&exp=10800",
+   "published_at": "2026-09-18T14:48:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "26f36b731ab2ec56238e609fcdef7883ab42ce44",
+   "title": "銭湯が3年ぶり値上げへ「経営は四苦八苦」年々減少する“憩いの場”　物価高騰の中、100円アップで550円に【高知発】",
+   "url": "https://news.yahoo.co.jp/articles/26f36b731ab2ec56238e609fcdef7883ab42ce44",
+   "source": "FNNプライムオンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-01213984-fnnprimev-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=720&ch=720&exp=10800",
+   "published_at": "2026-09-18T14:39:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "8f9083c4042988b52f107ba1a4512924c52ac303",
+   "title": "セブン鈴木敏文氏のお別れ会　ファストリ柳井氏「流通の常識を根底から変えた」",
+   "url": "https://news.yahoo.co.jp/articles/8f9083c4042988b52f107ba1a4512924c52ac303",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-07327521-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=289&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-18T14:33:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "921d80b2e71eeb3a73361d25faa8844fd8ebff71",
+   "title": "ローソン、美容系ドリンクが伸長　グミサプリも人気",
+   "url": "https://news.yahoo.co.jp/articles/921d80b2e71eeb3a73361d25faa8844fd8ebff71",
+   "source": "健康産業新聞",
+   "category": "産業",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-09-18T14:18:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "e758dbbb600d3baefd9e5e2ed1b4fc80cbbf7739",
+   "title": "ローソン「生成AIが考えた商品」発売　「ピクルス風味のレモンタルト」など",
+   "url": "https://news.yahoo.co.jp/articles/e758dbbb600d3baefd9e5e2ed1b4fc80cbbf7739",
+   "source": "ITmedia NEWS",
+   "category": "IT総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000032-zdn_n-000-1-view.jpg?pri=l&w=86&h=86&order=c2r&cx=26&cy=0&cw=86&ch=86&exp=10800",
+   "published_at": "2026-09-18T14:09:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "c3aa08fe82e303fe2870a35cd60c8635e9e53153",
+   "title": "セブン＆アイ鈴木氏お別れの会、ファストリ柳井氏「先生以上の存在」",
+   "url": "https://news.yahoo.co.jp/articles/c3aa08fe82e303fe2870a35cd60c8635e9e53153",
+   "source": "ロイター",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000093-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=1612&ch=1612&exp=10800",
+   "published_at": "2026-09-18T14:06:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "ad4765c6edb686ac25dc64f00a23590effb99328",
+   "title": "「コンビニの父」セブン鈴木敏文氏お別れの会　ユニクロ柳井氏「先生以上の存在」",
+   "url": "https://news.yahoo.co.jp/articles/ad4765c6edb686ac25dc64f00a23590effb99328",
+   "source": "テレビ朝日系（ANN）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010013-annd-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-18T14:01:00+09:00",
+   "matched_keywords": [
+    "コンビニ",
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "2ff8f70d650993b9efbdbd7fc7ea1cd0301588bf",
+   "title": "【ローソン】AIが考えた未知の味！？「ピクルス×レモンタルト」ってどんな味よ…？9月29日登場の限定スイーツ3種と気になる魅力",
+   "url": "https://news.yahoo.co.jp/articles/2ff8f70d650993b9efbdbd7fc7ea1cd0301588bf",
+   "source": "LASISA",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-10161595-lasisa-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-18T13:51:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "c35acf746466fcaec38e9c4183a9b5c61470fed6",
+   "title": "コンビニの出入口に2トントラック突っ込む　ケガ人なし　運転手「アクセルのしたに足が入ってしまいパニックになった」",
+   "url": "https://news.yahoo.co.jp/articles/c35acf746466fcaec38e9c4183a9b5c61470fed6",
+   "source": "テレビ静岡NEWS",
+   "category": "静岡",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-90038930-sut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800",
+   "published_at": "2026-09-18T13:41:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "33cae6e7224e7c832e12e155c208dea5302b97f9",
+   "title": "「日本型コンビニつくり上げた」柳井氏ら弔辞　鈴木敏文さんお別れ会",
+   "url": "https://news.yahoo.co.jp/articles/33cae6e7224e7c832e12e155c208dea5302b97f9",
+   "source": "朝日新聞",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000090-asahi-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=34&cy=0&cw=461&ch=461&exp=10800",
+   "published_at": "2026-09-18T13:30:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "77778d4735088f3732eb2cc8a771bd0277963d8c",
+   "title": "カルビー「ポテトチップス のりしお」の“のり”が2倍に！コンビニ限定「のりしおW」9月28日発売",
+   "url": "https://news.yahoo.co.jp/articles/77778d4735088f3732eb2cc8a771bd0277963d8c",
+   "source": "食品産業新聞社ニュースWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010009-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=400&ch=400&exp=10800",
+   "published_at": "2026-09-18T13:15:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "1ba50471feeb43705fa4a954a9e148455a1a7d36",
+   "title": "臨時国会は来月5日召集へ　政府が与党に伝達　食料品の消費税減税関連法案などの行方が焦点",
+   "url": "https://news.yahoo.co.jp/articles/1ba50471feeb43705fa4a954a9e148455a1a7d36",
+   "source": "FNNプライムオンライン（フジテレビ系）",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-01216956-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=430&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-18T13:05:00+09:00",
+   "matched_keywords": [
+    "消費税",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "331cce830ce050383f19b80e00cc6200c9819bc7",
+   "title": "「史上No.1神めし」「初日に行く」吉野家の『話題の夜限定メニュー』あの“分厚い肉”がまた食べられるなんて嬉しい！",
+   "url": "https://news.yahoo.co.jp/articles/331cce830ce050383f19b80e00cc6200c9819bc7",
+   "source": "ハフポスト日本版",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010022-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=1178&ch=1178&exp=10800",
+   "published_at": "2026-09-18T13:00:00+09:00",
+   "matched_keywords": [
+    "吉野家"
+   ]
+  },
+  {
+   "content_id": "e9c8924c3594598ab7075774b42a09482332e6c6",
+   "title": "コンビニ店舗にトラックぶつかる けが人はなし 運転の男性「アクセルとブレーキ踏み間違えた」=静岡・吉田町",
+   "url": "https://news.yahoo.co.jp/articles/e9c8924c3594598ab7075774b42a09482332e6c6",
+   "source": "静岡放送（SBS）",
+   "category": "静岡",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-22955542-sbsv-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=184&cy=0&cw=1108&ch=1108&exp=10800",
+   "published_at": "2026-09-18T12:58:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "f2f7ef1beee3837c45bad33cd130c8790d2363f6",
+   "title": "【セブン-イレブン】がっつり食べたい日に！ボリューム満点な新作メニュー3選「ガッツリ喰らう ガリトマパスタ＆ハンバーグ」は目玉焼きとデミグラスハンバーグが乗ってボリュームたっぷり！",
+   "url": "https://news.yahoo.co.jp/articles/f2f7ef1beee3837c45bad33cd130c8790d2363f6",
+   "source": "LIMO",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00138882-toushin-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-18T12:55:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "e9edfa4e9449ebc4a05f144499767491154c6605",
+   "title": "電子ギフトカード購入しようとする女性、理由は解散したアイドルグループ「推し活」…ローソン店員は不審に思い",
+   "url": "https://news.yahoo.co.jp/articles/e9edfa4e9449ebc4a05f144499767491154c6605",
+   "source": "読売新聞オンライン",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000110-yomseibu-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=70&cy=0&cw=357&ch=357&exp=10800",
+   "published_at": "2026-09-18T12:33:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "bfebd44e30ae827156af18da9b15f957564eab77",
+   "title": "臨時国会１０月５日召集へ…食料消費税１％に引き下げなどの法案を審議見通し",
+   "url": "https://news.yahoo.co.jp/articles/bfebd44e30ae827156af18da9b15f957564eab77",
+   "source": "読売新聞オンライン",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000104-yom-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=63&cy=0&cw=375&ch=375&exp=10800",
+   "published_at": "2026-09-18T12:18:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "40ca031a638fd40114ec25d79e50e8a49cf68568",
+   "title": "故鈴木敏文さんお別れの会　ファーストリテ柳井氏「先生以上の存在」　元セブン会長",
+   "url": "https://news.yahoo.co.jp/articles/40ca031a638fd40114ec25d79e50e8a49cf68568",
+   "source": "時事通信",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000065-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-18T12:13:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "d1e5b5f175c91e04ba369c50006061a1e45e115e",
+   "title": "エネルギー消費を実質ゼロに　道内初のコンビニがオープン　セコマが北電と連携して整備　北海道旭川市",
+   "url": "https://news.yahoo.co.jp/articles/d1e5b5f175c91e04ba369c50006061a1e45e115e",
+   "source": "STVニュース北海道",
+   "category": "北海道",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-09776696-stv-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-18T12:09:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "16cda0c9964d8f045a4f6165c65f1766d46c6723",
+   "title": "与党、消費税減税法案成立に万全期すと確認",
+   "url": "https://news.yahoo.co.jp/articles/16cda0c9964d8f045a4f6165c65f1766d46c6723",
+   "source": "共同通信",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-09-18T12:00:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "52fa582787e28bfbcd2078d2b15bcae9f3fa9d58",
+   "title": "【きょうから】吉野家、人気を博した“ホロホロ”肉の「厚切り豚角煮定食」がレギュラーメニューに　ご飯の増量＆おかわりが無料",
+   "url": "https://news.yahoo.co.jp/articles/52fa582787e28bfbcd2078d2b15bcae9f3fa9d58",
+   "source": "オリコン",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000318-oric-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=245&cy=0&cw=471&ch=471&exp=10800",
+   "published_at": "2026-09-18T12:00:00+09:00",
+   "matched_keywords": [
+    "吉野家"
+   ]
+  },
+  {
+   "content_id": "55cabb3b2da766aecc327417b60d5305322af556",
+   "title": "「企業努力のみでコストを抑えることは極めて困難」　はごろもフーズがシーチキンの値上げを発表",
+   "url": "https://news.yahoo.co.jp/articles/55cabb3b2da766aecc327417b60d5305322af556",
+   "source": "静岡朝日テレビ",
+   "category": "静岡",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00098323-satvv-000-1-thumb.jpg?pri=l&w=192&h=107&order=c2r&cx=0&cy=1&cw=546&ch=307&exp=10800",
+   "published_at": "2026-09-18T11:59:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "8dd369ac36bfcc7e94021ee935a070cfac243ff3",
+   "title": "臨時国会、10月5日召集　消費税・定数減が焦点",
+   "url": "https://news.yahoo.co.jp/articles/8dd369ac36bfcc7e94021ee935a070cfac243ff3",
+   "source": "時事通信",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000060-jij-000-12-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=719&ch=719&exp=10800",
+   "published_at": "2026-09-18T11:59:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "e071c84f94cbe5462c4bed739054bbf18b8c9ae9",
+   "title": "8月の全国消費者物価指数 1.7%上昇　60か月連続の物価上昇　食料品の値上げが相次いだことなどが影響",
+   "url": "https://news.yahoo.co.jp/articles/e071c84f94cbe5462c4bed739054bbf18b8c9ae9",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-07327491-jnn-000-2-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
+   "published_at": "2026-09-18T11:56:00+09:00",
+   "matched_keywords": [
+    "値上げ",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "3bdbca7526c2b4b3cb5ac518e53d6d45046132d5",
+   "title": "「楽天市場」出店料4割値上げ　「物価高やエネルギーコスト上昇」で",
+   "url": "https://news.yahoo.co.jp/articles/3bdbca7526c2b4b3cb5ac518e53d6d45046132d5",
+   "source": "ITmedia NEWS",
+   "category": "IT総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000023-zdn_n-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=294&cy=0&cw=643&ch=643&exp=10800",
+   "published_at": "2026-09-18T11:35:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "be21f9895161f234e8068d6d86b58e4fb50e94fb",
+   "title": "海外出身5人の専門家が“高市政権の経済通信簿”を採点「全体的にはよくやっている」「食料品の消費減税は高齢者の優遇策。経済政策としては評価ゼロ」",
+   "url": "https://news.yahoo.co.jp/articles/be21f9895161f234e8068d6d86b58e4fb50e94fb",
+   "source": "ABEMA TIMES",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-10273756-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=702&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-18T11:30:00+09:00",
+   "matched_keywords": [
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "7114b9529053698dfb9f02cc25baa16db88e501a",
+   "title": "「こういうのでいい」か「日本の衰退」か…ローソン“一点突破すぎ！”弁当に賛否、物価高で変わるコンビニ飯",
+   "url": "https://news.yahoo.co.jp/articles/7114b9529053698dfb9f02cc25baa16db88e501a",
+   "source": "集英社オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00258686-shueisha-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=871&ch=871&exp=10800",
+   "published_at": "2026-09-18T11:03:00+09:00",
+   "matched_keywords": [
+    "コンビニ",
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "551dfb6800b6a571c3a0dec4571fd90e82cfcb0f",
+   "title": "なぜ「食料品の消費税1％」は決まったのか？…物価高から「消費税ゼロ」構想が生まれた背景",
+   "url": "https://news.yahoo.co.jp/articles/551dfb6800b6a571c3a0dec4571fd90e82cfcb0f",
+   "source": "THE GOLD ONLINE（ゴールドオンライン）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00081661-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=280&cy=0&cw=720&ch=720&exp=10800",
+   "published_at": "2026-09-18T11:00:00+09:00",
+   "matched_keywords": [
+    "消費税",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "ca42e37f0383845738653025e2b84befcf510337",
+   "title": "財布に1万3059円入っていた女性→17点の食料品をレジに通すと……　目を疑う光景に「これはすごい」「ほぼドンピシャ」",
+   "url": "https://news.yahoo.co.jp/articles/ca42e37f0383845738653025e2b84befcf510337",
+   "source": "ねとらぼ",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-10168591-it_nlab-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=439&cy=0&cw=630&ch=630&exp=10800",
+   "published_at": "2026-09-18T10:15:00+09:00",
+   "matched_keywords": [
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "727659143a9d2abe37d4600b325ac8a7627cf668",
+   "title": "コンビニＡＴＭの手数料が２４時間無料、北九州銀行のインターネット口座開設が好調…福岡県外が７割",
+   "url": "https://news.yahoo.co.jp/articles/727659143a9d2abe37d4600b325ac8a7627cf668",
+   "source": "読売新聞オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000006-yomseibu-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=425&ch=425&exp=10800",
+   "published_at": "2026-09-18T10:00:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "c5327aad6ba0d8fda949d0b6b304ce701622b92e",
+   "title": "【倒産】飲食店・グラフィックデザイン会社が破産手続き開始決定…関連会社の結婚式場や飲食事業とも連携した事業を展開【帝国データバンク】",
+   "url": "https://news.yahoo.co.jp/articles/c5327aad6ba0d8fda949d0b6b304ce701622b92e",
+   "source": "RSK山陽放送",
+   "category": "岡山",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-22952243-rsk-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-18T08:27:00+09:00",
+   "matched_keywords": [
+    "飲食 倒産"
+   ]
+  },
+  {
+   "content_id": "da83f28867834a895ba0cba50ac954092f678f07",
+   "title": "ローソン、生成AIが発案したスイーツ・ベーカリー・サラダ3品発売　「レモンタルト（ピクルス風味）」など",
+   "url": "https://news.yahoo.co.jp/articles/da83f28867834a895ba0cba50ac954092f678f07",
+   "source": "食品産業新聞社ニュースWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00010000-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=142&cy=0&cw=916&ch=916&exp=10800",
+   "published_at": "2026-09-18T07:40:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "38206a973151e0b1303c56459863bdee6263dfc0",
+   "title": "【外食業界最前線】サイゼリヤ「値上げを検討」で株価ストップ高、スシローは定番商品値上げで客数増…“庶民の味方”外食チェーンで好意的に評価される値上げ",
+   "url": "https://news.yahoo.co.jp/articles/38206a973151e0b1303c56459863bdee6263dfc0",
+   "source": "マネーポストWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00000003-moneypost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=500&ch=500&exp=10800",
+   "published_at": "2026-09-18T07:15:00+09:00",
+   "matched_keywords": [
+    "外食",
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "fba93760e286cc4f9ce465a722db238408d83e82",
+   "title": "コンビニランチより安い！　1食159円〜でコスパ最強な【業務スーパーの冷食】3選",
+   "url": "https://news.yahoo.co.jp/articles/fba93760e286cc4f9ce465a722db238408d83e82",
+   "source": "朝日新聞デジタルマガジン＆［and］",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-11788284-asahiand-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=640&ch=640&exp=10800",
+   "published_at": "2026-09-18T06:40:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "4e173805396f1c0ee059334313a8d052e10f8d7e",
+   "title": "水道料金の値上げが各地で拡大　自治体ごとに“差”も　埼玉では複数自治体が10月から30％超値上げ",
+   "url": "https://news.yahoo.co.jp/articles/4e173805396f1c0ee059334313a8d052e10f8d7e",
+   "source": "FNNプライムオンライン（フジテレビ系）",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-01216451-fnn-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-18T06:15:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "8b2e8b356ebb513df93dc596ff63681bb84ec2c3",
+   "title": "ユニクロ柳井正｢セブンの弁当とユニクロTシャツは同じ｣…鈴木敏文に教わった\"経営者の最も重要な仕事\"",
+   "url": "https://news.yahoo.co.jp/articles/8b2e8b356ebb513df93dc596ff63681bb84ec2c3",
+   "source": "プレジデントオンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00119070-president-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-18T06:15:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "e6b752c227146cafa24c7bdf562e75a6fb15adfc",
+   "title": "そりゃ都心では見かけないワケだ…地方にばかり「コンビニみたいなドラッグストア」が増えている、納得のワケ",
+   "url": "https://news.yahoo.co.jp/articles/e6b752c227146cafa24c7bdf562e75a6fb15adfc",
+   "source": "文春オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00091969-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=185&cy=0&cw=1109&ch=1109&exp=10800",
+   "published_at": "2026-09-18T06:12:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "e7f959188bc5cf73899d05bad92170f2aa64ce86",
+   "title": "消費税減税で近づく「Point of No Return」…財政危機を直視せよ",
+   "url": "https://news.yahoo.co.jp/articles/e7f959188bc5cf73899d05bad92170f2aa64ce86",
+   "source": "Wedge（ウェッジ）",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260918-00141081-wedge-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=250&cy=0&cw=1000&ch=1000&exp=10800",
+   "published_at": "2026-09-18T05:00:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "c711841af84a7c2d8455621042361e0d6bdadf84",
+   "title": "片山さつき財務大臣が留任　総理から「消費税・支援金法案は大変ですがガッツリやってね」と言われハイと答えた」",
+   "url": "https://news.yahoo.co.jp/articles/c711841af84a7c2d8455621042361e0d6bdadf84",
+   "source": "静岡朝日テレビ",
+   "category": "静岡",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00098285-satvv-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=631&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-17T23:51:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "64d7003a0202dccbf3da26ce13baf3ebac9c937b",
+   "title": "「いよいよ水道も上がるのか…」うどん店も困惑　水道料金値上げが全国に拡大　埼玉・春日部は平均38％アップ",
+   "url": "https://news.yahoo.co.jp/articles/64d7003a0202dccbf3da26ce13baf3ebac9c937b",
+   "source": "FNNプライムオンライン（フジテレビ系）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-01216614-fnn-000-1-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=1920&ch=1080&exp=10800",
+   "published_at": "2026-09-17T20:02:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "a2b100d2f38584212706a99d76dce2efc7b5b915",
+   "title": "相次ぐ食品値上げも資産7割が預貯金に？新NISA「月3万円積立」で2778万円目指すインフレ防衛術",
+   "url": "https://news.yahoo.co.jp/articles/a2b100d2f38584212706a99d76dce2efc7b5b915",
+   "source": "LIMO",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00135303-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-17T19:46:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "fb7d3db9986143e25db1ce305c9f33cbade552b3",
+   "title": "「無料はありがたい」「めちゃ嬉しい」かつやの『6日間限定キャンペーン』がかなりお得！連休中はかつやに通うって決めました！",
+   "url": "https://news.yahoo.co.jp/articles/fb7d3db9986143e25db1ce305c9f33cbade552b3",
+   "source": "ハフポスト日本版",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00010031-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=13&cw=990&ch=990&exp=10800",
+   "published_at": "2026-09-17T19:30:00+09:00",
+   "matched_keywords": [
+    "かつや"
+   ]
+  },
+  {
+   "content_id": "e81e75f0acdd27c81394d5a9b354a85de44c4fdb",
+   "title": "消費税減税法案の審議に丁寧に臨むと首相",
+   "url": "https://news.yahoo.co.jp/articles/e81e75f0acdd27c81394d5a9b354a85de44c4fdb",
+   "source": "共同通信",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-09-17T19:06:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "0de7232aa6ad56352146920367ff6a5e2fdbbd9d",
+   "title": "高市内閣、税制改正大綱決定。飲食料品消費税「1％」で暮らしへの影響や事業者の対応は？減税・給付・残る課題を読み解く",
+   "url": "https://news.yahoo.co.jp/articles/0de7232aa6ad56352146920367ff6a5e2fdbbd9d",
+   "source": "ハフポスト日本版",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00010029-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=90&cy=0&cw=281&ch=281&exp=10800",
+   "published_at": "2026-09-17T18:10:00+09:00",
+   "matched_keywords": [
+    "消費税",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "7105ec03b02427ebfe7ae4433d14db1036b5f0ea",
+   "title": "「ひたすら値上げで申し訳なかったが、値下げで新規のお客さんにも来て欲しい」長引く物価高で節約志向広がる中、日用品など1000品目値下げ",
+   "url": "https://news.yahoo.co.jp/articles/7105ec03b02427ebfe7ae4433d14db1036b5f0ea",
+   "source": "RCC中国放送",
+   "category": "広島",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-22953791-rccv-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-17T18:07:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "e70ba88afbd495f335d6a224ffb0354c82b56581",
+   "title": "消費税・支援金担当相に片山氏　関連法案「丁寧に理解得る」　内閣改造",
+   "url": "https://news.yahoo.co.jp/articles/e70ba88afbd495f335d6a224ffb0354c82b56581",
+   "source": "時事通信",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000102-jij-000-7-view.jpg?pri=l&w=192&h=192&order=c2r&cx=60&cy=0&cw=1081&ch=1081&exp=10800",
+   "published_at": "2026-09-17T17:29:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "8490f3f5528a82d09d1124e621b6be5bf8429b7b",
+   "title": "ご飯大盛が無料になる「シルバーウィークキャンペーン」を6日間限定で実施【かつや】",
+   "url": "https://news.yahoo.co.jp/articles/8490f3f5528a82d09d1124e621b6be5bf8429b7b",
+   "source": "食品産業新聞社ニュースWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00010012-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=420&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-17T17:13:00+09:00",
+   "matched_keywords": [
+    "かつや"
+   ]
+  },
+  {
+   "content_id": "3e7e94f019575a0809757f184a24140fccdc8c87",
+   "title": "税率「2年後8％」に反対5割超　食料品の消費減税で　時事世論調査",
+   "url": "https://news.yahoo.co.jp/articles/3e7e94f019575a0809757f184a24140fccdc8c87",
+   "source": "時事通信",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000096-jij-000-6-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-17T17:04:00+09:00",
+   "matched_keywords": [
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "27297196cb81090f540fb698a96a0ee8ac71efb6",
+   "title": "2027年春から2年間、飲食料品の消費税率「8％→1％」へ！財源は「特例公債に頼らない」高所得者は対象外？",
+   "url": "https://news.yahoo.co.jp/articles/27297196cb81090f540fb698a96a0ee8ac71efb6",
+   "source": "LIMO",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00138996-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=241&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-17T16:56:00+09:00",
+   "matched_keywords": [
+    "消費税",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "0a40a9604811727247654678fd49aba3a37968f8",
+   "title": "名古屋市　コンビニで住民票交付へ…12月16日から　マイナカード利用で",
+   "url": "https://news.yahoo.co.jp/articles/0a40a9604811727247654678fd49aba3a37968f8",
+   "source": "読売新聞オンライン",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-09-17T15:51:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "ea3a1ef55cac84cd9fdbdf43ee25e7afad2218f3",
+   "title": "【第2次高市改造内閣】片山さつき氏が財務相を留任 新設の「消費税・支援金法案担当相」も兼務「内閣挙げての最大懸案」成立に意欲",
+   "url": "https://news.yahoo.co.jp/articles/ea3a1ef55cac84cd9fdbdf43ee25e7afad2218f3",
+   "source": "ABEMA TIMES",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-10273527-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=309&cy=0&cw=710&ch=710&exp=10800",
+   "published_at": "2026-09-17T15:51:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "d85727f797c8cf18c0249db341b4471c832a680a",
+   "title": "中経連　消費税減税で代替財源の明示要求　財政影響検証も注文",
+   "url": "https://news.yahoo.co.jp/articles/d85727f797c8cf18c0249db341b4471c832a680a",
+   "source": "読売新聞オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-09-17T15:14:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "57bfd1a6d6cfba9657b517d8e26121a2afe88a61",
+   "title": "マクドナルドと連携、絵本づくりの探究教材を小中学校に提供",
+   "url": "https://news.yahoo.co.jp/articles/57bfd1a6d6cfba9657b517d8e26121a2afe88a61",
+   "source": "こどもとIT",
+   "category": "IT総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000002-impkitw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=115&cy=0&cw=251&ch=251&exp=10800",
+   "published_at": "2026-09-17T15:00:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "3077deb079e72378a1998bdf09e0a04acd561797",
+   "title": "セブン‐イレブンでシルバーウィークに「お菓子無料クーポン」配信、対象は「明治 チョコッとミルチ」",
+   "url": "https://news.yahoo.co.jp/articles/3077deb079e72378a1998bdf09e0a04acd561797",
+   "source": "マネーの達人",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000007-manetatsun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=190&cy=0&cw=420&ch=420&exp=10800",
+   "published_at": "2026-09-17T15:00:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "5632bfe0c024744d32fe316977e9b430136ade24",
+   "title": "消費税・支援金法案担当も兼務「成立を期すためにひたすら努力」 片山さつき財務大臣が意気込み",
+   "url": "https://news.yahoo.co.jp/articles/5632bfe0c024744d32fe316977e9b430136ade24",
+   "source": "TBS NEWS DIG Powered by JNN",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-07327339-jnn-000-2-view.jpg?pri=l&w=192&h=192&order=c2r&cx=345&cy=0&cw=1080&ch=1080&exp=10800",
+   "published_at": "2026-09-17T14:35:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "804931f94c319ad7b78afab5b82331ce527112bf",
+   "title": "西日本唯一「マクドナルド」パティ製造拠点 米・大手食品加工業者がオレンジベイフーズ(八幡浜市)を完全子会社化",
+   "url": "https://news.yahoo.co.jp/articles/804931f94c319ad7b78afab5b82331ce527112bf",
+   "source": "南海放送",
+   "category": "愛媛",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-07445566-rnb-000-3-view.jpg?pri=l&w=192&h=192&order=c2r&cx=140&cy=0&cw=360&ch=360&exp=10800",
+   "published_at": "2026-09-17T14:28:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "37f81047ce1bfd3f4346899868707d4b3e36c7ce",
+   "title": "片山財務相、消費税・支援金法案も担当　減税法案「丁寧に説明」",
+   "url": "https://news.yahoo.co.jp/articles/37f81047ce1bfd3f4346899868707d4b3e36c7ce",
+   "source": "ロイター",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000093-reut-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=512&cy=0&cw=1467&ch=1467&exp=10800",
+   "published_at": "2026-09-17T14:03:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "dffed7d7755e9c50cf56f99aa649954a4bde248e",
+   "title": "ヤシマナダ　ロールコラム、7000円値上げ　10月受注から　2年半ぶり",
+   "url": "https://news.yahoo.co.jp/articles/dffed7d7755e9c50cf56f99aa649954a4bde248e",
+   "source": "日刊産業新聞",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-09-17T14:01:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "8f7cbaa198b5eece1380730cc163db576a213725",
+   "title": "消費税・支援金法案担当に片山財務相",
+   "url": "https://news.yahoo.co.jp/articles/8f7cbaa198b5eece1380730cc163db576a213725",
+   "source": "共同通信",
+   "category": "政治",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=550&ch=550&exp=10800",
+   "published_at": "2026-09-17T13:34:00+09:00",
+   "matched_keywords": [
+    "消費税"
+   ]
+  },
+  {
+   "content_id": "4d37acc56fcbaedb7921087db6d237c6a1f4d15e",
+   "title": "「富山市の伝統行事」がマクドナルドとコラボ　オリジナルグッズに反響「欲しいです！」",
+   "url": "https://news.yahoo.co.jp/articles/4d37acc56fcbaedb7921087db6d237c6a1f4d15e",
+   "source": "LIMO",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00138223-toushin-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-17T13:11:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "efdc940626928f937a8968a0c16532a2df56c71f",
+   "title": "具材1種類の弁当など発売、メリハリ消費に対応【ローソン】",
+   "url": "https://news.yahoo.co.jp/articles/efdc940626928f937a8968a0c16532a2df56c71f",
+   "source": "食品産業新聞社ニュースWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00010006-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=21&cw=259&ch=259&exp=10800",
+   "published_at": "2026-09-17T13:03:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "ebf301d4fbeaa1dc5ffdd3092d52d96a53a364b1",
+   "title": "「こればっか食べてる」すき家の『お得な650円ランチ』財布に優しい“コスパ抜群メニュー”を3つご紹介！《実食レビュー》",
+   "url": "https://news.yahoo.co.jp/articles/ebf301d4fbeaa1dc5ffdd3092d52d96a53a364b1",
+   "source": "ハフポスト日本版",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00010019-huffpost-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=225&cy=0&cw=540&ch=540&exp=10800",
+   "published_at": "2026-09-17T12:30:00+09:00",
+   "matched_keywords": [
+    "すき家"
+   ]
+  },
+  {
+   "content_id": "5ef97791bb3db6dc0496c2326569a63099a0f8db",
+   "title": "辻希美さん高校生長男のパンパン弁当を公開「コンビニの方が美味しいんじゃない？」の返答に「それは……作り続けるしかない」",
+   "url": "https://news.yahoo.co.jp/articles/5ef97791bb3db6dc0496c2326569a63099a0f8db",
+   "source": "マイナビ子育て",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-90046071-kosodate-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=64&cy=0&cw=750&ch=750&exp=10800",
+   "published_at": "2026-09-17T12:11:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "9a49425a8a7d1f40ea4adc523758db16079f66cc",
+   "title": "【松屋】本格インドカレーを松屋流にアレンジ「ほうれん草とカッテージチーズのカレー」登場",
+   "url": "https://news.yahoo.co.jp/articles/9a49425a8a7d1f40ea4adc523758db16079f66cc",
+   "source": "食品産業新聞社ニュースWEB",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00010004-ssnp-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=323&cw=1554&ch=1554&exp=10800",
+   "published_at": "2026-09-17T11:49:00+09:00",
+   "matched_keywords": [
+    "松屋"
+   ]
+  },
+  {
+   "content_id": "49893f31a61a36fc1ff2b80104d3b1d9c1113af8",
+   "title": "ローソン、生成AI発案のデザート・ベーカリー",
+   "url": "https://news.yahoo.co.jp/articles/49893f31a61a36fc1ff2b80104d3b1d9c1113af8",
+   "source": "Impress Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000005-impress-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=319&cy=0&cw=562&ch=562&exp=10800",
+   "published_at": "2026-09-17T11:45:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "2a7ee93a5554d37bd6df991e61e192cd4d391a5f",
+   "title": "【ローソンストア100】いか天、紅生姜天、味しみ大根、うずら巻…「100円おでん」シリーズ発売",
+   "url": "https://news.yahoo.co.jp/articles/2a7ee93a5554d37bd6df991e61e192cd4d391a5f",
+   "source": "オトナンサー",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00393524-otonans-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=263&cy=0&cw=675&ch=675&exp=10800",
+   "published_at": "2026-09-17T11:45:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "5d390d5666be75b77b30c88c88b823727255771c",
+   "title": "セブン-イレブン、“北海道フェア”開催　「札幌すみれ」や「Suage」など人気店監修のご当地グルメ全12品がずらり",
+   "url": "https://news.yahoo.co.jp/articles/5d390d5666be75b77b30c88c88b823727255771c",
+   "source": "オリコン",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000428-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=80&cy=0&cw=480&ch=480&exp=10800",
+   "published_at": "2026-09-17T11:35:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "6559de59148b1859f8370bbf3576233fe1d5e1c5",
+   "title": "【韓国】コンビニＢＧＦ、釜山に物流センター設立",
+   "url": "https://news.yahoo.co.jp/articles/6559de59148b1859f8370bbf3576233fe1d5e1c5",
+   "source": "NNA",
+   "category": "韓国・北朝鮮",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000011-nna_kyodo-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=91&cy=0&cw=438&ch=438&exp=10800",
+   "published_at": "2026-09-17T11:30:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "9cab87d644d8088509959895d7e12d3e9e396cf5",
+   "title": "食料品消費税「1％減税」で何が変わる？税制改正大綱を「減税」「支援金」「今後の課題」に仕分けする",
+   "url": "https://news.yahoo.co.jp/articles/9cab87d644d8088509959895d7e12d3e9e396cf5",
+   "source": "THE GOLD ONLINE（ゴールドオンライン）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00081843-gonline-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=162&cy=0&cw=720&ch=720&exp=10800",
+   "published_at": "2026-09-17T11:15:00+09:00",
+   "matched_keywords": [
+    "消費税",
+    "食料品"
+   ]
+  },
+  {
+   "content_id": "b65d8245ec874b169ffc5252c8742ccfb3ea0990",
+   "title": "高砂の軟式野球チーム「伊保セブン」が全国大会出場　遠征費支援呼びかけも",
+   "url": "https://news.yahoo.co.jp/articles/b65d8245ec874b169ffc5252c8742ccfb3ea0990",
+   "source": "みんなの経済新聞ネットワーク",
+   "category": "兵庫",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000019-minkei-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=77&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-17T11:00:00+09:00",
+   "matched_keywords": [
+    "セブン"
+   ]
+  },
+  {
+   "content_id": "2092e6df4005a9bea4a2dff12fc3bdef93e80afd",
+   "title": "すき家、お子様牛丼/お子様カレーなどが170円に！「お子様商品100円引きクーポン」配信",
+   "url": "https://news.yahoo.co.jp/articles/2092e6df4005a9bea4a2dff12fc3bdef93e80afd",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000009-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=291&cy=0&cw=379&ch=379&exp=10800",
+   "published_at": "2026-09-17T10:55:00+09:00",
+   "matched_keywords": [
+    "すき家"
+   ]
+  },
+  {
+   "content_id": "ec5799caaedbfae8893373f7754416ed00bacb36",
+   "title": "松屋、まろやかで風味豊かな本格インドカレー「ほうれん草とカッテージチーズのカレー」を発売",
+   "url": "https://news.yahoo.co.jp/articles/ec5799caaedbfae8893373f7754416ed00bacb36",
+   "source": "グルメ Watch",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000008-impgrw-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=240&cy=0&cw=480&ch=480&exp=10800",
+   "published_at": "2026-09-17T10:39:00+09:00",
+   "matched_keywords": [
+    "松屋"
+   ]
+  },
+  {
+   "content_id": "0ed35cfb128e357f8d5eb97ebf4795f8287125b3",
+   "title": "ローソン　生成AIが発案のメニュー発売へ　「レモンタルトに刻みピクルス」　29日から",
+   "url": "https://news.yahoo.co.jp/articles/0ed35cfb128e357f8d5eb97ebf4795f8287125b3",
+   "source": "テレビ朝日系（ANN）",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000012-ann-000-4-thumb.jpg?pri=l&w=192&h=108&order=c2r&cx=0&cy=0&cw=640&ch=360&exp=10800",
+   "published_at": "2026-09-17T09:37:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "5d67d34dc02e767a12034bf6df7567d10ce3afeb",
+   "title": "アジアパラ大会組織委　公式グッズの発表会開く　外食・食品10社とコラボ",
+   "url": "https://news.yahoo.co.jp/articles/5d67d34dc02e767a12034bf6df7567d10ce3afeb",
+   "source": "中部経済新聞",
+   "category": "産業",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000006-chukei-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=153&cy=0&cw=487&ch=487&exp=10800",
+   "published_at": "2026-09-17T09:35:00+09:00",
+   "matched_keywords": [
+    "外食"
+   ]
+  },
+  {
+   "content_id": "629c1eac1aa1a1544c2a0b5b2ea4bef144e96679",
+   "title": "マクドナルド、今年の「青いマックの日」は10・18に開催　新たにポイントでの寄付も可能に",
+   "url": "https://news.yahoo.co.jp/articles/629c1eac1aa1a1544c2a0b5b2ea4bef144e96679",
+   "source": "オリコン",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000361-oric-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=0&cy=0&cw=960&ch=960&exp=10800",
+   "published_at": "2026-09-17T09:05:00+09:00",
+   "matched_keywords": [
+    "マクドナルド"
+   ]
+  },
+  {
+   "content_id": "55a003c48738876b07f53ab8b93122c81587567c",
+   "title": "「九州ふっこう応援割」便乗値上げに注意喚起",
+   "url": "https://news.yahoo.co.jp/articles/55a003c48738876b07f53ab8b93122c81587567c",
+   "source": "ABEMA TIMES",
+   "category": "社会",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-10273448-abemav-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=193&cy=0&cw=590&ch=590&exp=10800",
+   "published_at": "2026-09-17T08:48:00+09:00",
+   "matched_keywords": [
+    "値上げ"
+   ]
+  },
+  {
+   "content_id": "d56d71621a4b610cee4968f72880bdfda06e40a1",
+   "title": "300万円の車「コンビニ感覚で即決」に妻あ然…　車検のたびに手痛い出費も「これ以上の車はもう出会えない」",
+   "url": "https://news.yahoo.co.jp/articles/d56d71621a4b610cee4968f72880bdfda06e40a1",
+   "source": "ENCOUNT",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-01066576-encount-000-5-view.jpg?pri=l&w=192&h=192&order=c2r&cx=200&cy=0&cw=800&ch=800&exp=10800",
+   "published_at": "2026-09-17T08:40:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "fe5c400cadb7d899e2b9f6095a82de684f07d823",
+   "title": "なぜローソンに客が集まる？ 「お得」「目的買い」競争と物価高の逆風を勝ち抜く、“大手唯一の客数増”の正体",
+   "url": "https://news.yahoo.co.jp/articles/fe5c400cadb7d899e2b9f6095a82de684f07d823",
+   "source": "オリコン",
+   "category": "ライフ総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00000388-oric-000-13-view.jpg?pri=l&w=192&h=192&order=c2r&cx=150&cy=0&cw=661&ch=661&exp=10800",
+   "published_at": "2026-09-17T08:10:00+09:00",
+   "matched_keywords": [
+    "ローソン"
+   ]
+  },
+  {
+   "content_id": "a94692cf6bc91dacbbaeec875b5d15543e0ba807",
+   "title": "韓国コンビニ大手4社、店舗数が再び増加…大型・特化型の優良店に出店集中",
+   "url": "https://news.yahoo.co.jp/articles/a94692cf6bc91dacbbaeec875b5d15543e0ba807",
+   "source": "KOREA WAVE",
+   "category": "韓国・北朝鮮",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-03653314-clc_korea-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=124&cy=0&cw=776&ch=776&exp=10800",
+   "published_at": "2026-09-17T07:45:00+09:00",
+   "matched_keywords": [
+    "コンビニ"
+   ]
+  },
+  {
+   "content_id": "6001bef87b82411e3a2d540c097316ffad3c7057",
+   "title": "【“外食のドン”の黄昏】「ワタミ」元サントリー長男が序列3位、「コロワイド」大戸屋から長男凱旋、次男が継いだ「ゼンショー」",
+   "url": "https://news.yahoo.co.jp/articles/6001bef87b82411e3a2d540c097316ffad3c7057",
+   "source": "文春オンライン",
+   "category": "経済総合",
+   "thumb": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260917-00091957-bunshun-000-1-view.jpg?pri=l&w=192&h=192&order=c2r&cx=608&cy=0&cw=1492&ch=1492&exp=10800",
+   "published_at": "2026-09-17T06:12:00+09:00",
+   "matched_keywords": [
+    "外食"
+   ]
+  }
+ ]
+}
